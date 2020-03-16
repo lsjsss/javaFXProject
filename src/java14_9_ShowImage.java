@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 public class java14_9_ShowImage extends Application {
     @Override
     public void start(Stage primaryStage){
-        Pane pane = new HBox(10);
+        Pane pane = new HBox(10);//创建一个面板，水平盒子
         pane.setPadding(new Insets(5, 5, 5, 5));
         Image image = new Image("image/china.gif");
         pane.getChildren().add(new ImageView(image));
