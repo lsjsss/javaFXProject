@@ -43,5 +43,6 @@ public class java14_18_ShowArt extends Application {
         primaryStage.setTitle("ShowArc");
         primaryStage.setScene(scene);
         primaryStage.show();
+
     }
 }
