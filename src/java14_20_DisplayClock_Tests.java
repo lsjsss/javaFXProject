@@ -13,7 +13,7 @@ public class java14_20_DisplayClock_Tests extends Application {
         clock.setHour(18);
         clock.setMinute(59);
         clock.setSecond(50);
-        String timeString = clock.getHour() + ":" + clock.getMinute() + ":" + clock.getSecond();
+        String timeString = "北京时间  " + clock.getHour() + ":" + clock.getMinute() + ":" + clock.getSecond();
         Label lblCurrentTime = new Label(timeString);
 
         BorderPane pane = new BorderPane();
