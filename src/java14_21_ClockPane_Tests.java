@@ -84,11 +84,21 @@ public class java14_21_ClockPane_Tests extends Pane {
         Circle circle = new Circle(centerX, centerY, clockRadius);
         circle.setFill(Color.WHITE);
         circle.setStroke(Color.BLACK);
-//        Text t1 = new Text(centerX - 5, centerY - clockRadius + 12, "12");
-        Text t1 = new Text(centerX-5, centerY-clockRadius, "12");
+        Text t1 = new Text(centerX - 5, centerY - clockRadius + 12, "12");
+//        Text t1 = new Text(centerX-5, centerY-clockRadius, "12");
         Text t2 = new Text(centerX - clockRadius + 3, centerY +5, "9");
         Text t3 = new Text(centerX + clockRadius - 10, centerY - 3, "3");
         Text t4 = new Text(centerX - 3, centerY + clockRadius - 3, "6");
+
+        //表盘美化
+        double msLength = clockRadius * 0.1;//分钟刻度长度
+        double msbX = centerX + msLength * Math.sin((1 % 12 + 0 / 60.0) * (2 * Math.PI / 12)) + 10;//分钟刻度起点横坐标
+        double msbY = centerY - msLength * Math.cos((1 % 12 + 0 / 60.0) * (2 * Math.PI / 12)) - 10;//分钟刻度起点纵坐标
+        double mseX = centerX + msLength * Math.sin((1 % 12 + 0 / 60.0) * (2 * Math.PI / 12));//分钟刻度终点横坐标
+        double mseY = centerY - msLength * Math.cos((1 % 12 + 0 / 60.0) * (2 * Math.PI / 12));//分钟刻度终点纵坐标
+        Line msLine = new Line(centerX, centerY, mseX, mseY);//绘制时针线
+        msLine.setStroke(Color.PINK);
+        //结束
 
         double sLength = clockRadius * 0.8;
         double secondX = centerX + sLength * Math.sin(second * (2 * Math.PI / 60 ));
@@ -109,6 +119,6 @@ public class java14_21_ClockPane_Tests extends Pane {
         hLine.setStroke(Color.GREEN);
 
         getChildren().clear();
-        getChildren().addAll(circle, t1, t2, t3, t4, sLine, mLine, hLine);
+        getChildren().addAll(circle, t1, t2, t3, t4, sLine, mLine, hLine, msLine);
     }
 }
