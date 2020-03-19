@@ -16,9 +16,12 @@ public class java14_8_FoneDemo extends Application {
     public void start(Stage primaryStage){
         Pane pane = new StackPane();
 
-        Circle circle = new Circle();  //创建一个圆
-        circle.setRadius(50);  //将圆的半径设置为50
-        circle.setStroke(Color.BLACK);  //将圆边框的颜色，设置为常量(BLACK),(只有主要颜色)
+        //创建一个圆
+        Circle circle = new Circle();
+        //将圆的半径设置为50
+        circle.setRadius(50);
+        //将圆边框的颜色，设置为常量(BLACK),(只有主要颜色)
+        circle.setStroke(Color.BLACK);
         //设置填充 r:0.5, g:0.5, b:0.5; 不透明度:10%
         circle.setFill(new Color(0.5, 0.5, 0.5, 0.1));
         pane.getChildren().add(circle);

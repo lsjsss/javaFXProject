@@ -91,14 +91,17 @@ public class java14_21_ClockPane_Tests extends Pane {
 
 
         //表盘数字美化
-        double tLength = clockRadius ;//时钟刻度长度
+        //时钟刻度长度
+        double tLength = clockRadius ;
         double[] tsbX = new double[12];
         double[] tsbY = new double[12];
         Line[] tsLine = new Line[12];
         Text[] t = new Text[12];
         for (int i = 0; i < 12; i++){
-            tsbX[i] = centerX - 5 + (tLength - 20) * Math.sin((i % 12 + 0 / 60.0) * (2 * Math.PI / 12));//时钟数字刻度起点横坐标
-            tsbY[i] = centerY + 4 - (tLength - 20) * Math.cos((i % 12 + 0 / 60.0) * (2 * Math.PI / 12));//时钟数字刻度起点纵坐标
+            //时钟数字刻度起点横坐标
+            tsbX[i] = centerX - 5 + (tLength - 20) * Math.sin((i % 12 + 0 / 60.0) * (2 * Math.PI / 12));
+            //时钟数字刻度起点纵坐标
+            tsbY[i] = centerY + 4 - (tLength - 20) * Math.cos((i % 12 + 0 / 60.0) * (2 * Math.PI / 12));
 //            tsLine[i] = new Line(tsbX[i], tsbY[i], tseX[i], tseY[i]);//绘制时针线
             if (i == 0){
                 t[i] = new Text(tsbX[i], tsbY[i], "12");
@@ -112,33 +115,45 @@ public class java14_21_ClockPane_Tests extends Pane {
         //结束
 
         //表盘美化
-        double hsLength = clockRadius ;//时钟刻度长度
+        //时钟刻度长度
+        double hsLength = clockRadius ;
         double[] hsbX = new double[12];
         double[] hsbY = new double[12];
         double[] hseX = new double[12];
         double[] hseY = new double[12];
         Line[] hsLine = new Line[12];
         for (int i = 0; i < 12; i++){
-            hsbX[i] = centerX + (hsLength - 10) * Math.sin((i % 12 + 0 / 60.0) * (2 * Math.PI / 12));//时钟刻度起点横坐标
-            hsbY[i] = centerY - (hsLength - 10) * Math.cos((i % 12 + 0 / 60.0) * (2 * Math.PI / 12));//时钟刻度起点纵坐标
-            hseX[i] = centerX + hsLength * Math.sin((i % 12 + 0 / 60.0) * (2 * Math.PI / 12));//时钟刻度终点横坐标
-            hseY[i] = centerY - hsLength * Math.cos((i % 12 + 0 / 60.0) * (2 * Math.PI / 12));//时钟刻度终点纵坐标
-            hsLine[i] = new Line(hsbX[i], hsbY[i], hseX[i], hseY[i]);//绘制时针线
+            //时钟刻度起点横坐标
+            hsbX[i] = centerX + (hsLength - 10) * Math.sin((i % 12 + 0 / 60.0) * (2 * Math.PI / 12));
+            //时钟刻度起点纵坐标
+            hsbY[i] = centerY - (hsLength - 10) * Math.cos((i % 12 + 0 / 60.0) * (2 * Math.PI / 12));
+            //时钟刻度终点横坐标
+            hseX[i] = centerX + hsLength * Math.sin((i % 12 + 0 / 60.0) * (2 * Math.PI / 12));
+            //时钟刻度终点纵坐标
+            hseY[i] = centerY - hsLength * Math.cos((i % 12 + 0 / 60.0) * (2 * Math.PI / 12));
+            //绘制时针线
+            hsLine[i] = new Line(hsbX[i], hsbY[i], hseX[i], hseY[i]);
             hsLine[i].setStroke(Color.BLACK);
         }
 
-        double msLength = clockRadius ;//分钟刻度长度
+        //分钟刻度长度
+        double msLength = clockRadius ;
         double[] msbX = new double[60];
         double[] msbY = new double[60];
         double[] mseX = new double[60];
         double[] mseY = new double[60];
         Line[] msLine = new Line[60];
         for (int i = 0; i < 60; i++){
-            msbX[i] = centerX + (msLength - 5) * Math.sin((i % 60 + 0 / 60.0) * (2 * Math.PI / 60));//分钟刻度起点横坐标
-            msbY[i] = centerY - (msLength - 5) * Math.cos((i % 60 + 0 / 60.0) * (2 * Math.PI / 60));//分钟刻度起点纵坐标
-            mseX[i] = centerX + msLength * Math.sin((i % 60 + 0 / 60.0) * (2 * Math.PI / 60));//分钟刻度终点横坐标
-            mseY[i] = centerY - msLength * Math.cos((i % 60 + 0 / 60.0) * (2 * Math.PI / 60));//分钟刻度终点纵坐标
-            msLine[i] = new Line(msbX[i], msbY[i], mseX[i], mseY[i]);//绘制分针线
+            //分钟刻度起点横坐标
+            msbX[i] = centerX + (msLength - 5) * Math.sin((i % 60 + 0 / 60.0) * (2 * Math.PI / 60));
+            //分钟刻度起点纵坐标
+            msbY[i] = centerY - (msLength - 5) * Math.cos((i % 60 + 0 / 60.0) * (2 * Math.PI / 60));
+            //分钟刻度终点横坐标
+            mseX[i] = centerX + msLength * Math.sin((i % 60 + 0 / 60.0) * (2 * Math.PI / 60));
+            //分钟刻度终点纵坐标
+            mseY[i] = centerY - msLength * Math.cos((i % 60 + 0 / 60.0) * (2 * Math.PI / 60));
+            //绘制分针线
+            msLine[i] = new Line(msbX[i], msbY[i], mseX[i], mseY[i]);
             msLine[i].setStroke(Color.BLACK);
         }
         //结束
@@ -155,10 +170,14 @@ public class java14_21_ClockPane_Tests extends Pane {
         Line mLine = new Line(centerX, centerY, xMinute, minuteY);
         mLine.setStroke(Color.BLUE);
 
-        double hLength = clockRadius * 0.5;//时针长度
-        double hourX = centerX + hLength * Math.sin((hour % 12 + minute / 60.0) * (2 * Math.PI / 12));//时针终点横坐标
-        double hourY = centerY - hLength * Math.cos((hour % 12 + minute / 60.0) * (2 * Math.PI / 12));//时针终点纵坐标
-        Line hLine = new Line(centerX, centerY, hourX, hourY);//绘制时针线
+        //时针长度
+        double hLength = clockRadius * 0.5;
+        //时针终点横坐标
+        double hourX = centerX + hLength * Math.sin((hour % 12 + minute / 60.0) * (2 * Math.PI / 12));
+        //时针终点纵坐标
+        double hourY = centerY - hLength * Math.cos((hour % 12 + minute / 60.0) * (2 * Math.PI / 12));
+        //绘制时针线
+        Line hLine = new Line(centerX, centerY, hourX, hourY);
         hLine.setStroke(Color.GREEN);
 
         getChildren().clear();

@@ -18,18 +18,27 @@ import static java.lang.Math.*;
 public class java_ShowThreeCards_Homewoke3_19 extends Application {
     @Override
     public void start(Stage primaryStage) {
-        Pane pane = new HBox(5);//创建一个面板，水平盒子
+        //创建一个面板，水平盒子
+        Pane pane = new HBox(5);
+        //定义生成牌的数量
+        int num = 3;
+        //创建生成牌文件名的数字
+        int[] number = new int[num];
+        //创建三个
+        String[] imageurl = new String[num];
+        //创建三个ImageView
+        ImageView[] image = new ImageView[num];
 
-        int num = 3;//定义生成牌的数量
-        int[] number = new int[num];//创建生成牌文件名的数字
-        String[] imageurl = new String[num];//创建三个
-        ImageView[] image = new ImageView[num];//创建三个ImageView
-
-        for (int i = 0; i < number.length; i++ ) {//循环使三张牌显示
-            number[i] = (int) ((random() * 54) / 100.0 * 100);//随机生成图像数字名称
-            imageurl[i] = "image/card/" + number[i] + ".png";//产生随机图像路径
-            image[i] = new ImageView(imageurl[i]);//导入图像路径
-            pane.getChildren().add(new ImageView(imageurl[i]));//显示扑克牌
+        //循环使三张牌显示
+        for (int i = 0; i < number.length; i++ ) {
+            //随机生成图像数字名称
+            number[i] = (int) ((random() * 54) / 100.0 * 100);
+            //产生随机图像路径
+            imageurl[i] = "image/card/" + number[i] + ".png";
+            //导入图像路径
+            image[i] = new ImageView(imageurl[i]);
+            //显示扑克牌
+            pane.getChildren().add(new ImageView(imageurl[i]));
         }
 
         Scene scene = new Scene(pane);

@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="3.19 17">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_10_ShowFlowPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_10_ShowFlowPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_11_ShowGridPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_11_ShowGridPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_14_ShowText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_14_ShowText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_15_ShowLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_15_ShowLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_16_ShowRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_16_ShowRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_21_ClockPane_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_21_ClockPane_Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_2_MultipeStageDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_2_MultipeStageDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_3_ButtonPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_3_ButtonPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_4_ShowCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_4_ShowCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_5_ShowCircleCentered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_5_ShowCircleCentered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_6_BindingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_6_BindingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_7_NodeStyleRotateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_7_NodeStyleRotateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_8_FoneDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_8_FoneDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_9_ShowImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_9_ShowImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_ShowThreeCards_Homewoke3_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_ShowThreeCards_Homewoke3_19.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +133,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.25848302" />
   </component>
   <component name="RecentsManager">
@@ -314,7 +336,8 @@
       <workItem from="1584596164460" duration="7310000" />
       <workItem from="1584605532350" duration="4887000" />
       <workItem from="1584614675199" duration="34000" />
-      <workItem from="1584615977920" duration="259000" />
+      <workItem from="1584615977920" duration="1201000" />
+      <workItem from="1584617213879" duration="2557000" />
     </task>
     <task id="LOCAL-00001" summary="Java高级开发课程代码--首次上传">
       <created>1584340044115</created>
@@ -533,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584610415045</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="3.19 17">
+      <created>1584616250607</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1584616250607</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,10 +600,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1127" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584434455796" />
-    <state x="70" y="69" width="817" height="814" key="CommitChangelistDialog2" timestamp="1584610411620">
+    <state x="70" y="69" width="817" height="814" key="CommitChangelistDialog2" timestamp="1584616249267">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="70" y="69" width="817" height="814" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584610411620" />
+    <state x="70" y="69" width="817" height="814" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584616249267" />
     <state x="292" y="259" key="FileChooserDialogImpl" timestamp="1584430552105">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -618,11 +648,11 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="188" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1584603930683" />
-    <state x="64" y="159" width="1014" height="713" key="SettingsEditor" timestamp="1584614722694">
+    <state x="244" y="184" width="1014" height="713" key="SettingsEditor" timestamp="1584617189897">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="21" y="23" width="1014" height="713" key="SettingsEditor/0.0.1112.804@0.0.1112.804" timestamp="1584264827765" />
-    <state x="64" y="159" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1584614722694" />
+    <state x="244" y="184" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1584617189897" />
     <state x="1161" y="270" width="540" height="524" key="StructurePopup" timestamp="1584376792144">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -631,10 +661,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="806" y="439" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584460997406" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1584610418425">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1584616253566">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584610418425" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584616253566" />
     <state x="616" y="243" key="run.anything.popup" timestamp="1584459118355">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

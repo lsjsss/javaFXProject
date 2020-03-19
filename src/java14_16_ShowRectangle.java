@@ -11,13 +11,17 @@ public class java14_16_ShowRectangle extends Application {
     public void start(Stage primaryStage){
         Pane pane = new Pane();
 
-        Rectangle r1 = new Rectangle(25, 10, 60, 30);//矩形坐标及宽高
-        r1.setStroke(Color.BLACK);//线条颜色
-        r1.setFill(Color.WHITE);//背景颜色
+        //矩形坐标及宽高
+        Rectangle r1 = new Rectangle(25, 10, 60, 30);
+        //线条颜色
+        r1.setStroke(Color.BLACK);
+        //背景颜色
+        r1.setFill(Color.WHITE);
         pane.getChildren().add(new Text(10, 27, "r1"));
         pane.getChildren().add(r1);
 
-        Rectangle r2 = new Rectangle(25, 50, 60, 30);//默认边框颜色和填充颜色为黑色
+        //默认边框颜色和填充颜色为黑色
+        Rectangle r2 = new Rectangle(25, 50, 60, 30);
         pane.getChildren().add(new Text(10, 67, "r2"));
         pane.getChildren().add(r2);
 
@@ -30,7 +34,8 @@ public class java14_16_ShowRectangle extends Application {
         for (int i = 0; i < 4; i++){
             Rectangle r = new Rectangle(100, 50, 100, 30);
             r.setRotate(i * 360 / 8);
-            r.setStroke(Color.color(Math.random(), Math.random(), Math.random()));//红绿蓝参数随机生成
+            //红绿蓝参数随机生成
+            r.setStroke(Color.color(Math.random(), Math.random(), Math.random()));
             r.setFill(Color.WHITE);
             pane.getChildren().add(r);
         }

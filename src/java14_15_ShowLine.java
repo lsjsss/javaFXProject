@@ -25,8 +25,10 @@ class LinePain extends Pane {
         getChildren().add(line1);
 
         Line line2 = new Line(10, 10, 10, 10);
-        line2.startXProperty().bind(widthProperty().subtract(10));//第二条线的起点
-        line2.endYProperty().bind(heightProperty().subtract(10));//第二条线的终点
+        //第二条线的起点
+        line2.startXProperty().bind(widthProperty().subtract(10));
+        //第二条线的终点
+        line2.endYProperty().bind(heightProperty().subtract(10));
         line2.setStrokeWidth(5);
         line2.setStroke(Color.GREEN);
         getChildren().add(line2);

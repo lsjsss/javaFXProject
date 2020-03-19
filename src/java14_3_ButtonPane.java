@@ -7,8 +7,10 @@ import javafx.stage.Stage;
 public class java14_3_ButtonPane extends Application {
     @Override
     public void start(Stage primaryStage){
-        StackPane pane = new StackPane();  //栈面板 StackPane
-        pane.getChildren().add(new Button("OK"));  //添加到面板上一个 OK 按钮
+        //栈面板 StackPane
+        StackPane pane = new StackPane();
+        //添加到面板上一个 OK 按钮
+        pane.getChildren().add(new Button("OK"));
         Scene scene = new Scene(pane, 200, 50);
         primaryStage.setTitle("Button in a pane");
         primaryStage.setScene(scene);
