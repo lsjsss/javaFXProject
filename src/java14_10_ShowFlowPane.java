@@ -6,7 +6,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.FlowPane;
 import javafx.stage.Stage;
 
-public class java14_10_ShowFlowPane extends Application {
+public class java14_10_ShowFlowPane extends Application {//网格面板
     @Override
     public void start(Stage primaryStage){
         FlowPane pane = new FlowPane();//流式面板
