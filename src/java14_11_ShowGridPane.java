@@ -1,4 +1,3 @@
-import com.sun.deploy.xml.XMLable;
 import javafx.application.Application;
 import javafx.geometry.HPos;
 import javafx.geometry.Insets;
