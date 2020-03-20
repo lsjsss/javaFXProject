@@ -4,7 +4,7 @@ import javafx.scene.control.Button;  //按钮 Button 导包，控件，UI 组件
 import javafx.scene.layout.StackPane;  //场景，布局导包
 import javafx.stage.Stage;  //舞台导包
 
-public class java14_7_NodeStyleRotateDemo extends Application {
+public class java14_07_NodeStyleRotateDemo extends Application {
     @Override  //重写 start 方法(@ 注解)一个提醒作用
     /**start 方法不需要返回值，方法参数是一个系统自动生成的主舞台(Java虚拟机生成)*/
     public void start(Stage primaryStage){

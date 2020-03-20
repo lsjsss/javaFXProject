@@ -4,7 +4,7 @@ import javafx.scene.control.Button;
 import javafx.stage.Stage;
 
 /**类名，全部继承*/
-public class java14_2_MultipeStageDemo extends Application {
+public class java14_02_MultipeStageDemo extends Application {
     @Override
     /**重写 Application 中的 start 方法*/
     public void start(Stage primaryStage) throws Exception {

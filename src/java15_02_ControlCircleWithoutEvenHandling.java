@@ -9,7 +9,8 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
-public class java15_2_ControlCircleWithoutEvenHandling extends Application {
+
+public class java15_02_ControlCircleWithoutEvenHandling extends Application {
     @Override
     public void start(Stage primaryStage) {
         StackPane pane = new StackPane();

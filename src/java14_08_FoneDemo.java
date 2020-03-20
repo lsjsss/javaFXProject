@@ -1,4 +1,3 @@
-import com.sun.deploy.xml.XMLable;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
@@ -11,7 +10,7 @@ import javafx.scene.text.FontPosture;
 import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
 
-public class java14_8_FoneDemo extends Application {
+public class java14_08_FoneDemo extends Application {
     @Override
     public void start(Stage primaryStage){
         Pane pane = new StackPane();

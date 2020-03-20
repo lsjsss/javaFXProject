@@ -7,7 +7,7 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 
-public class java15_1_HandleEvent extends Application {
+public class java15_01_HandleEvent extends Application {
     @Override
     public void start(Stage primaryStage) {
         //面板水平盒子  从左到右排列

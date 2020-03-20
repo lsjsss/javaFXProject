@@ -4,7 +4,7 @@ import javafx.scene.layout.Pane;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-public class java15_7_MouseEventDemo extends Application {
+public class java15_07_MouseEventDemo extends Application {
     @Override
     public void start(Stage primaryStage) {
         Pane pane = new Pane();

@@ -3,7 +3,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.stage.Stage;
 
-public class java14_1_MyJavaFX extends Application {
+public class java14_01_MyJavaFX extends Application {
      @Override
      public void start(Stage primaryStage){
          Button btOK = new Button("OK");

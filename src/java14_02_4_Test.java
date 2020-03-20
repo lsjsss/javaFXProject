@@ -1,8 +1,8 @@
 import javafx.application.Application;
 import javafx.stage.Stage;
 
-public class java14_2_4_Test extends Application {  //继承
-    public java14_2_4_Test() {
+public class java14_02_4_Test extends Application {  //继承
+    public java14_02_4_Test() {
         System.out.println("Test constructor is invoked");
     }
 

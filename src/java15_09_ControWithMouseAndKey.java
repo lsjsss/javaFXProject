@@ -8,7 +8,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 
-public class java15_9_ControWithMouseAndKey extends Application {
+public class java15_09_ControWithMouseAndKey extends Application {
     private CirclePane circlePane = new CirclePane();
 
     @Override

@@ -7,7 +7,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 
-public class java14_9_ShowImage extends Application {
+public class java14_09_ShowImage extends Application {
     @Override
     public void start(Stage primaryStage){
         //创建一个面板，水平盒子

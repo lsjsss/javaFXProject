@@ -6,7 +6,6 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Polygon;
 import javafx.stage.Stage;
 
-
 public class java14_19_ShowPolygon extends Application {
     @Override
     public void start(Stage primaryStage){

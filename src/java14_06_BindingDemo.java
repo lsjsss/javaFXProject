@@ -1,7 +1,7 @@
 import javafx.beans.property.DoubleProperty;
 import javafx.beans.property.SimpleDoubleProperty;
 
-public class java14_6_BindingDemo {
+public class java14_06_BindingDemo {
     public static void main(String[] args) {
         //双精度属性类型
         DoubleProperty d1 = new SimpleDoubleProperty(1);

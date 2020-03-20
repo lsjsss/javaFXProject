@@ -1,4 +1,3 @@
-import com.sun.deploy.xml.XMLable;
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.stage.Stage;

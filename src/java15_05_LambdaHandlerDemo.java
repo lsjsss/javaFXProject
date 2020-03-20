@@ -6,8 +6,7 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 
-
-public class java15_5_LambdaHandlerDemo extends Application {
+public class java15_05_LambdaHandlerDemo extends Application {
     @Override
     public void start(Stage primaryStage) {
         HBox hBox = new HBox();

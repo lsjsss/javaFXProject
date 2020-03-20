@@ -6,7 +6,7 @@ import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
 /**继承 Application 类*/
-public class java14_4_ShowCircle extends Application {
+public class java14_04_ShowCircle extends Application {
     @Override
     public void start(Stage primaryStage){
         //创建一个圆，类名：Circle

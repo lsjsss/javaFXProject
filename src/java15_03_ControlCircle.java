@@ -11,7 +11,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
-public class java15_3_ControlCircle extends Application {
+public class java15_03_ControlCircle extends Application {
     private CirclePane circlePane = new CirclePane();
 
     @Override

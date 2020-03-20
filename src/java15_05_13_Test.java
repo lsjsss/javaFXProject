@@ -1,6 +1,6 @@
-public class java15_5_13_Test {
+public class java15_05_13_Test {
     public static void main(String[] args) {
-        java15_5_13_Test test = new java15_5_13_Test();
+        java15_05_13_Test test = new java15_05_13_Test();
         test.setAction1(() -> System.out.println("Action 1! "));
         test.setAction2(e -> System.out.println(e + " "));
         System.out.println(test.setAction3(e -> e * 2));

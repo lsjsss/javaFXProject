@@ -4,13 +4,37 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="3.20 23 - Add java 15">
-      <change afterPath="$PROJECT_DIR$/src/java15_15_TimelineDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15_16_ClockAnimation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15_17_BallPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15_18_BounceBallControl.java" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="3.21 00 - Add java 15 All">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_14_FadeTransitionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java15_14_FadeTransitionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_10_ShowFlowPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_10_ShowFlowPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_11_ShowGridPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_11_ShowGridPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_12_ShowBorderPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_12_ShowBorderPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_13_ShowHBoxVBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_13_ShowHBoxVBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_19_ShowPolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_19_ShowPolygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_1_MyJavaFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_01_MyJavaFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_20_DisplayClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_20_DisplayClock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_20_DisplayClock_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_20_DisplayClock_Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_21_ClockPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_21_ClockPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_2_4_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_02_4_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_2_MultipeStageDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_02_MultipeStageDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_3_ButtonPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_03_ButtonPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_4_ShowCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_04_ShowCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_5_ShowCircleCentered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_05_ShowCircleCentered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_6_BindingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_06_BindingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_7_NodeStyleRotateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_07_NodeStyleRotateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_8_FoneDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_08_FoneDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_9_ShowImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_09_ShowImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15_1_HandleEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15_01_HandleEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15_2_ControlCircleWithoutEvenHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15_02_ControlCircleWithoutEvenHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15_3_ControlCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15_03_ControlCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15_4_AnonymousHandlerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15_04_AnonymousHandlerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15_5_13_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15_05_13_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15_5_LambdaHandlerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15_05_LambdaHandlerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15_6_LoanCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15_06_LoanCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15_7_MouseEventDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15_07_MouseEventDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15_8_KeyEventDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15_08_KeyEventDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15_9_ControWithMouseAndKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15_09_ControWithMouseAndKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java3_19_ShowThreeCards_Homewoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java3_19_ShowThreeCards_Homewoke.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,7 +350,8 @@
       <workItem from="1584617213879" duration="2925000" />
       <workItem from="1584625855553" duration="600000" />
       <workItem from="1584669305923" duration="15897000" />
-      <workItem from="1584695482625" duration="16575000" />
+      <workItem from="1584695482625" duration="17996000" />
+      <workItem from="1584723449421" duration="791000" />
     </task>
     <task id="LOCAL-00001" summary="Java高级开发课程代码--首次上传">
       <created>1584340044115</created>
@@ -608,7 +633,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584719223104</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="3.21 00 - Add java 15 All">
+      <created>1584721932519</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1584721932519</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -636,7 +668,8 @@
     <MESSAGE value="3.20 13" />
     <MESSAGE value="3.20 14" />
     <MESSAGE value="3.20 23 - Add java 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.20 23 - Add java 15" />
+    <MESSAGE value="3.21 00 - Add java 15 All" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.21 00 - Add java 15 All" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -651,10 +684,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1127" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584716399739" />
-    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2" timestamp="1584719221413">
+    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2" timestamp="1584721931345">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584719221413" />
+    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584721931345" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -667,26 +700,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1245" height="174" key="GridCell.Tab.0.bottom" timestamp="1584721882188">
+    <state width="1877" height="174" key="GridCell.Tab.0.bottom" timestamp="1584723300903">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1245" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1584721882188" />
-    <state width="1245" height="174" key="GridCell.Tab.0.center" timestamp="1584721882188">
+    <state width="1877" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1584723300903" />
+    <state width="1877" height="174" key="GridCell.Tab.0.center" timestamp="1584723300903">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1245" height="174" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1584721882188" />
-    <state width="1245" height="174" key="GridCell.Tab.0.left" timestamp="1584721882188">
+    <state width="1877" height="174" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1584723300903" />
+    <state width="1877" height="174" key="GridCell.Tab.0.left" timestamp="1584723300903">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1245" height="174" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1584721882188" />
-    <state width="1245" height="174" key="GridCell.Tab.0.right" timestamp="1584721882188">
+    <state width="1877" height="174" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1584723300903" />
+    <state width="1877" height="174" key="GridCell.Tab.0.right" timestamp="1584723300903">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1245" height="174" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1584721882188" />
+    <state width="1877" height="174" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1584723300903" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1584603930683">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -712,14 +745,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1161" y="270" width="540" height="524" key="StructurePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1584376792144" />
-    <state x="525" y="448" key="VCS.ChangelistChooser" timestamp="1584717026861">
+    <state x="525" y="448" key="VCS.ChangelistChooser" timestamp="1584721981815">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584717026861" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1584719225201">
+    <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584721981815" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1584721935321">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584719225201" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584721935321" />
     <state x="951" y="135" width="647" height="786" key="find.popup" timestamp="1584712104552">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

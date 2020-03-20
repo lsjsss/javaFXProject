@@ -8,7 +8,8 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
-public class java15_6_LoanCalculator extends Application {
+
+public class java15_06_LoanCalculator extends Application {
     private TextField tfAnnualInterestRate = new TextField();
     private TextField tfNumberOfYears = new TextField();
     private TextField tfLoanAmount = new TextField();

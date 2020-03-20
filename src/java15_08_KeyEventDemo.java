@@ -4,7 +4,7 @@ import javafx.scene.layout.Pane;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-public class java15_8_KeyEventDemo extends Application {
+public class java15_08_KeyEventDemo extends Application {
     @Override
     public void start(Stage primaryStage) {
         Pane pane = new Pane();

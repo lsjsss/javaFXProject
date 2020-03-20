@@ -8,7 +8,7 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 
-public class java15_4_AnonymousHandlerDemo extends Application {
+public class java15_04_AnonymousHandlerDemo extends Application {
     @Override
     public void start(Stage PrimaryStage){
         HBox hBox = new HBox();
