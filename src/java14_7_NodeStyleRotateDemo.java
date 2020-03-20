@@ -12,7 +12,8 @@ public class java14_7_NodeStyleRotateDemo extends Application {
         StackPane pane = new StackPane();
         //创建一个按钮，(另一种方法：创建时不指定文字，之后去设置)
         Button btOK = new Button("OK");
-        //按钮边框
+        //按钮边框，设置样式：在参数中用样式串指定，用 -fx- 开头，
+        // 用 属性(border) - 属性颜色(color) ，相当于css ，属性值写在冒号后，用分号结束样式串。
         btOK.setStyle("-fx-border-color:blue;");
         //添加按钮到面板
         pane.getChildren().add(btOK);
