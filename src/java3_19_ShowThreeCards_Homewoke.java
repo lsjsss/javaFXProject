@@ -15,7 +15,7 @@ import static java.lang.Math.*;
  * 2.随机显示54张牌中的3张牌。
  */
 
-public class java_ShowThreeCards_Homewoke3_19 extends Application {
+public class java3_19_ShowThreeCards_Homewoke extends Application {
     @Override
     public void start(Stage primaryStage) {
         //创建一个面板，水平盒子
