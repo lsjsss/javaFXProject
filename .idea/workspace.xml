@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="3.20 23 - Add java 15">
-      <change afterPath="$PROJECT_DIR$/src/java15_10_ObservablePropertyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15_11_DisplayResizableClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15_12_PathTransitionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15_13_FlagRisingAnimation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15_14_FadeTransitionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java15_15_TimelineDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java15_16_ClockAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java15_17_BallPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java15_18_BounceBallControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_14_FadeTransitionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java15_14_FadeTransitionDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +131,7 @@
       <recent name="E:\Idea Project\javaFXProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java15_14_FadeTransitionDemo">
+  <component name="RunManager" selected="Application.java15_18_BounceBallControl">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -179,30 +179,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java15_10_ObservablePropertyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java15_10_ObservablePropertyDemo" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java15_11_DisplayResizableClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java15_11_DisplayResizableClock" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java15_12_PathTransitionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java15_12_PathTransitionDemo" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="java15_13_FlagRisingAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java15_13_FlagRisingAnimation" />
       <module name="javaFXProject" />
@@ -213,6 +189,30 @@
     </configuration>
     <configuration name="java15_14_FadeTransitionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java15_14_FadeTransitionDemo" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java15_15_TimelineDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java15_15_TimelineDemo" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java15_16_ClockAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java15_16_ClockAnimation" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java15_18_BounceBallControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java15_18_BounceBallControl" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -252,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java15_18_BounceBallControl" />
+        <item itemvalue="Application.java15_16_ClockAnimation" />
+        <item itemvalue="Application.java15_15_TimelineDemo" />
         <item itemvalue="Application.java15_14_FadeTransitionDemo" />
         <item itemvalue="Application.java15_13_FlagRisingAnimation" />
-        <item itemvalue="Application.java15_12_PathTransitionDemo" />
-        <item itemvalue="Application.java15_11_DisplayResizableClock" />
-        <item itemvalue="Application.java15_10_ObservablePropertyDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +326,7 @@
       <workItem from="1584617213879" duration="2925000" />
       <workItem from="1584625855553" duration="600000" />
       <workItem from="1584669305923" duration="15897000" />
-      <workItem from="1584695482625" duration="13860000" />
+      <workItem from="1584695482625" duration="16575000" />
     </task>
     <task id="LOCAL-00001" summary="Java高级开发课程代码--首次上传">
       <created>1584340044115</created>
@@ -601,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584716983635</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="3.20 23 - Add java 15">
+      <created>1584719223104</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1584719223104</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -644,10 +651,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1127" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584716399739" />
-    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2" timestamp="1584716976547">
+    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2" timestamp="1584719221413">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584716976547" />
+    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584719221413" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -660,26 +667,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1245" height="174" key="GridCell.Tab.0.bottom" timestamp="1584719159415">
+    <state width="1245" height="174" key="GridCell.Tab.0.bottom" timestamp="1584721882188">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1245" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1584719159415" />
-    <state width="1245" height="174" key="GridCell.Tab.0.center" timestamp="1584719159414">
+    <state width="1245" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1584721882188" />
+    <state width="1245" height="174" key="GridCell.Tab.0.center" timestamp="1584721882188">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1245" height="174" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1584719159414" />
-    <state width="1245" height="174" key="GridCell.Tab.0.left" timestamp="1584719159414">
+    <state width="1245" height="174" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1584721882188" />
+    <state width="1245" height="174" key="GridCell.Tab.0.left" timestamp="1584721882188">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1245" height="174" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1584719159414" />
-    <state width="1245" height="174" key="GridCell.Tab.0.right" timestamp="1584719159415">
+    <state width="1245" height="174" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1584721882188" />
+    <state width="1245" height="174" key="GridCell.Tab.0.right" timestamp="1584721882188">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1245" height="174" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1584719159415" />
+    <state width="1245" height="174" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1584721882188" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1584603930683">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -709,10 +716,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584717026861" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1584716989587">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1584719225201">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584716989587" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584719225201" />
     <state x="951" y="135" width="647" height="786" key="find.popup" timestamp="1584712104552">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
