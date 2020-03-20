@@ -25,7 +25,7 @@ public class java15_1_HandleEvent extends Application {
         OKHandlerClass handler1 = new OKHandlerClass();
         btOK.setOnAction(handler1);
         CancelHandlerClass handler2 = new CancelHandlerClass();
-        btOK.setOnAction(handler2);
+        btCancel.setOnAction(handler2);
         pane.getChildren().addAll(btOK,btCancel);
 
         Scene scene = new Scene(pane);
