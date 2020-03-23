@@ -6,6 +6,7 @@ import javafx.scene.paint.Color;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
+/**实现事件驱动*/
 public class java14_21_ClockPane extends Pane {
     private int hour, minute, second;
 

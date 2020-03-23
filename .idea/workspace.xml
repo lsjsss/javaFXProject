@@ -4,45 +4,13 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="3.21 01 - File name finishing">
-      <change afterPath="$PROJECT_DIR$/src/java3_19_ShowThreeCards_Homework_FromCSDN.java" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="3.21 19 - Fupdate CSDN for java Homework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/CancelHandlerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/CancelHandlerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/CirclePane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/CirclePane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/OKHandlerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/OKHandlerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/T1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/T1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/T2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/T2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/T3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/T3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_19_ShowPolygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java14_19_ShowPolygon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_1_MyJavaFX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_20_DisplayClock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java14_20_DisplayClock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_20_DisplayClock_Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java14_20_DisplayClock_Tests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_21_ClockPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java14_21_ClockPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_2_4_Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_2_MultipeStageDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_3_ButtonPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_4_ShowCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_5_ShowCircleCentered.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_6_BindingDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_7_NodeStyleRotateDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_8_FoneDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java14_9_ShowImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_1_HandleEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_2_ControlCircleWithoutEvenHandling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_3_ControlCircle$EnlargeHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_3_ControlCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_4_AnonymousHandlerDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_4_AnonymousHandlerDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_4_AnonymousHandlerDemo$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_4_AnonymousHandlerDemo$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_4_AnonymousHandlerDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_5_13_Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_5_LambdaHandlerDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_6_LoanCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_7_MouseEventDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_8_KeyEventDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_8_KeyEventDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_9_ControWithMouseAndKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java15_02_ControlCircleWithoutEvenHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java15_02_ControlCircleWithoutEvenHandling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java14_21_ClockPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14_21_ClockPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15_02_ControlCircleWithoutEvenHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15_02_ControlCircleWithoutEvenHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15_09_ControWithMouseAndKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15_09_ControWithMouseAndKey.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +132,7 @@
       <recent name="E:\Idea Project\javaFXProject\src\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java3_19_ShowThreeCards_Homewoke">
+  <component name="RunManager" selected="Application.java15_02_ControlCircleWithoutEvenHandling">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -212,8 +180,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java15_15_TimelineDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java15_15_TimelineDemo" />
+    <configuration name="java15_02_ControlCircleWithoutEvenHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java15_02_ControlCircleWithoutEvenHandling" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -285,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java15_02_ControlCircleWithoutEvenHandling" />
         <item itemvalue="Application.java3_19_ShowThreeCards_Homewoke" />
         <item itemvalue="Application.java3_19_ShowThreeCards_Homework_FromCSDN" />
         <item itemvalue="Application.java15_18_BounceBallControl" />
         <item itemvalue="Application.java15_16_ClockAnimation" />
-        <item itemvalue="Application.java15_15_TimelineDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +330,10 @@
       <workItem from="1584695482625" duration="17996000" />
       <workItem from="1584723449421" duration="1239000" />
       <workItem from="1584780556371" duration="132000" />
-      <workItem from="1584780726897" duration="4086000" />
+      <workItem from="1584780726897" duration="5250000" />
+      <workItem from="1584851811352" duration="1229000" />
+      <workItem from="1584940992473" duration="5273000" />
+      <workItem from="1584948079841" duration="1120000" />
     </task>
     <task id="LOCAL-00001" summary="Java高级开发课程代码--首次上传">
       <created>1584340044115</created>
@@ -658,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584724450312</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="3.21 19 - Fupdate CSDN for java Homework">
+      <created>1584788958765</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1584788958765</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -688,7 +666,8 @@
     <MESSAGE value="3.20 23 - Add java 15" />
     <MESSAGE value="3.21 00 - Add java 15 All" />
     <MESSAGE value="3.21 01 - File name finishing" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.21 01 - File name finishing" />
+    <MESSAGE value="3.21 19 - Fupdate CSDN for java Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.21 19 - Fupdate CSDN for java Homework" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -707,10 +686,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2" timestamp="1584724448333">
+    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2" timestamp="1584788956106">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584724448333" />
+    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584788956106" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -723,26 +702,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="174" key="GridCell.Tab.0.bottom" timestamp="1584788781306">
+    <state width="1877" height="174" key="GridCell.Tab.0.bottom" timestamp="1584947897204">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1877" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1584788781306" />
-    <state width="1877" height="174" key="GridCell.Tab.0.center" timestamp="1584788781305">
+    <state width="1877" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1584947897204" />
+    <state width="1877" height="174" key="GridCell.Tab.0.center" timestamp="1584947897204">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1877" height="174" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1584788781305" />
-    <state width="1877" height="174" key="GridCell.Tab.0.left" timestamp="1584788781305">
+    <state width="1877" height="174" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1584947897204" />
+    <state width="1877" height="174" key="GridCell.Tab.0.left" timestamp="1584947897204">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1877" height="174" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1584788781305" />
-    <state width="1877" height="174" key="GridCell.Tab.0.right" timestamp="1584788781305">
+    <state width="1877" height="174" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1584947897204" />
+    <state width="1877" height="174" key="GridCell.Tab.0.right" timestamp="1584947897204">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1877" height="174" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1584788781305" />
+    <state width="1877" height="174" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1584947897204" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1584603930683">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -768,14 +747,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1161" y="270" width="540" height="524" key="StructurePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1584376792144" />
-    <state x="525" y="448" key="VCS.ChangelistChooser" timestamp="1584721981815">
+    <state x="525" y="448" key="VCS.ChangelistChooser" timestamp="1584788993653">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584721981815" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1584724453467">
+    <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584788993653" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1584788963271">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584724453467" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584788963271" />
     <state x="951" y="135" width="647" height="786" key="find.popup" timestamp="1584712104552">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -784,9 +763,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1584459118355" />
-    <state x="978" y="185" width="672" height="676" key="search.everywhere.popup" timestamp="1584609946504">
+    <state x="978" y="185" width="672" height="676" key="search.everywhere.popup" timestamp="1584945439941">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="978" y="185" width="672" height="676" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1584609946504" />
+    <state x="978" y="185" width="672" height="676" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1584945439941" />
   </component>
 </project>
