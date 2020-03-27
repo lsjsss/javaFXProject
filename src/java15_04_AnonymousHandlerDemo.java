@@ -21,7 +21,7 @@ public class java15_04_AnonymousHandlerDemo extends Application {
         Button btPrint = new Button("Print");
         hBox.getChildren().addAll(btNew, btOpen, btSave, btPrint);
 
-        //给 new 按钮设置监听
+        //给 new 按钮设置监听， 使用匿名内部类
         btNew.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             //匿名内部类
