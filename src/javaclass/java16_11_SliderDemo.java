@@ -3,7 +3,6 @@ package javaclass;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Slider;
-import javafx.scene.layout.Border;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.Pane;
 import javafx.scene.text.Text;
