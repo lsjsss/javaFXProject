@@ -79,6 +79,7 @@ public class java14_21_ClockPane extends Pane {
 
     protected void paintClock() {
         double clockRadius = Math.min(w, h) * 0.8 * 0.5;
+        //时钟面板的高度和宽度，自适应场景
         double centerX = w / 2;
         double centerY = h / 2;
 
