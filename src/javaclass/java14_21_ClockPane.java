@@ -37,6 +37,7 @@ public class java14_21_ClockPane extends Pane {
     public int getMinute() {
         return minute;
     }
+
     public void setMinute(int minute) {
         this.minute = minute;
         paintClock();
@@ -72,14 +73,14 @@ public class java14_21_ClockPane extends Pane {
     public void setCurrentTime() {
         Calendar calendar = new GregorianCalendar();
 
-        this.hour = hour;
-        this.minute = minute;
-        this.second = second;
+        this.hour = calendar.get(Calendar.HOUR_OF_DAY);
+        this.minute = calendar.get(Calendar.MINUTE);
+        this.second = calendar.get(Calendar.SECOND);
 
         paintClock();
     }
 
-    //绘制时钟
+    /**绘制时钟*/
     protected void paintClock() {
         double clockRadius = Math.min(w, h) * 0.8 * 0.5;
         //时钟面板的高度和宽度，自适应场景

@@ -71,9 +71,9 @@ public class java14_21_ClockPane_Tests extends Pane {
     public void setCurrentTime() {
         Calendar calendar = new GregorianCalendar();
 
-        this.hour = hour;
-        this.minute = minute;
-        this.second = second;
+        this.hour = calendar.get(Calendar.HOUR_OF_DAY);
+        this.minute = calendar.get(Calendar.MINUTE);
+        this.second = calendar.get(Calendar.SECOND);
 
         paintClock();
     }
