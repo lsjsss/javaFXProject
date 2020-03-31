@@ -28,7 +28,7 @@ public class java16_15_FlagAnthem extends Application {
         MediaPlayer[] mp = new MediaPlayer[NUMBER_OF_NATIONS];
 
         for (int i = 0; i < NUMBER_OF_NATIONS; i++) {
-            images[i] = new Image(URLBase + "/image/flag" + i + ".gif");
+            images[i] = new Image(URLBase + "javaclass/image/flag" + i + ".gif");
             mp[i] = new MediaPlayer(new Media(
                     URLBase + "/audio/anthem/anthem" + i + ".mp3"
             ));

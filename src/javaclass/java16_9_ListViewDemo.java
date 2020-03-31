@@ -19,15 +19,15 @@ public class java16_9_ListViewDemo extends Application {
             "United States of America"};
 
     private ImageView[] ImageViews = {
-            new ImageView("image/ca.gif"),
-            new ImageView("image/china.gif"),
-            new ImageView("image/denmark.gif"),
-            new ImageView("image/fr.gif"),
-            new ImageView("image/germany.gif"),
-            new ImageView("image/india.gif"),
-            new ImageView("image/norway.gif"),
-            new ImageView("image/uk.gif"),
-            new ImageView("image/us.gif")};
+            new ImageView("javaclass/image/ca.gif"),
+            new ImageView("javaclass/image/china.gif"),
+            new ImageView("javaclass/image/denmark.gif"),
+            new ImageView("javaclass/image/fr.gif"),
+            new ImageView("javaclass/image/germany.gif"),
+            new ImageView("javaclass/image/india.gif"),
+            new ImageView("javaclass/image/norway.gif"),
+            new ImageView("javaclass/image/uk.gif"),
+            new ImageView("javaclass/image/us.gif")};
 
     @Override
     public void start(Stage primaryStage) throws Exception {
