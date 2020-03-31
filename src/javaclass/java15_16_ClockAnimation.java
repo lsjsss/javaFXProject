@@ -12,13 +12,17 @@ import javafx.util.Duration;
 public class java15_16_ClockAnimation extends Application {
     @Override
     public void start(Stage primaryStage) {
+        //创建一个时钟 形状
         java14_21_ClockPane clock = new java14_21_ClockPane();
 
-        EventHandler<ActionEvent> eventEventHandler = e -> {
+        EventHandler<ActionEvent> eventHandler = e -> {
             clock.setCurrentTime();
         };
 
-        Timeline animation = new Timeline(new KeyFrame(Duration.millis(1000), eventEventHandler));
+        Timeline animation = new Timeline(
+                //周期：1000ms
+                new KeyFrame(Duration.millis(1000), eventHandler));
+        //设置动画循环次数                无限次循环
         animation.setCycleCount(Timeline.INDEFINITE);
         animation.play();
 

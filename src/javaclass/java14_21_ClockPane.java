@@ -79,6 +79,7 @@ public class java14_21_ClockPane extends Pane {
         paintClock();
     }
 
+    //绘制时钟
     protected void paintClock() {
         double clockRadius = Math.min(w, h) * 0.8 * 0.5;
         //时钟面板的高度和宽度，自适应场景
@@ -96,19 +97,23 @@ public class java14_21_ClockPane extends Pane {
         double sLength = clockRadius * 0.8;
         double secondX = centerX + sLength * Math.sin(second * (2 * Math.PI / 60 ));
         double secondY = centerY - sLength * Math.cos(second * (2 * Math.PI / 60 ));
+
         Line sLine = new Line(centerX, centerY, secondX, secondY);
+        //秒针
         sLine.setStroke(Color.RED);
 
         double mLength = clockRadius * 0.65;
         double xMinute = centerX + mLength * Math.sin(minute * (2 * Math.PI / 60));
         double minuteY = centerY - mLength * Math.cos(minute * (2 * Math.PI / 60));
         Line mLine = new Line(centerX, centerY, xMinute, minuteY);
+        //分针
         mLine.setStroke(Color.BLUE);
 
         double hLength = clockRadius * 0.5;
         double hourX = centerX + hLength * Math.sin((hour % 12 + minute / 60.0) * (2 * Math.PI / 12));
         double hourY = centerY - hLength * Math.cos((hour % 12 + minute / 60.0) * (2 * Math.PI / 12));
         Line hLine = new Line(centerX, centerY, hourX, hourY);
+        //时针
         hLine.setStroke(Color.GREEN);
 
         getChildren().clear();
