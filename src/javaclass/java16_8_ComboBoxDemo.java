@@ -10,12 +10,15 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
 
+/** 组合框(下拉菜单) */
 public class java16_8_ComboBoxDemo extends Application {
+    /** 组合框文字(标题)：字符串数组 */
     private String[] flagTitles = {
             "Canada", "China", "Denmark", "France",
             "Germany", "India", "Norway", "United Kingdom",
             "United States of America"};
 
+    //图片数组
     private ImageView[] flagImage = {
             new ImageView("javaclass/image/ca.gif"),
             new ImageView("javaclass/image/china.gif"),
@@ -29,12 +32,15 @@ public class java16_8_ComboBoxDemo extends Application {
 
     private String[] flagDescription = new String[9];
 
+    /** 描述文字的面板 */
     private java16_6_DescriptionPane descriptionPane = new java16_6_DescriptionPane();
 
+    /** 创建一个组合框 (使用泛型)*/
     private ComboBox<String> cbo = new ComboBox<>();
 
     @Override
     public void start(Stage primaryStage) {
+        //文本域文字
         flagDescription[0] = "The Canadian national flag ...";
         flagDescription[1] = "Description for China ...";
         flagDescription[2] = "Description for Denmark ...";
@@ -45,10 +51,12 @@ public class java16_8_ComboBoxDemo extends Application {
         flagDescription[7] = "Description for UK ...";
         flagDescription[8] = "Description for US ...";
 
+        //初始默认显示选项
         setDisplay(0);
 
         BorderPane pane = new BorderPane();
 
+        //将选项与面板组合
         BorderPane paneForComboBox = new BorderPane();
         paneForComboBox.setLeft(new Label("Select a country: "));
         paneForComboBox.setCenter(cbo);
@@ -56,10 +64,13 @@ public class java16_8_ComboBoxDemo extends Application {
         cbo.setPrefWidth(400);
         cbo.setValue("Canada");
 
+        //可视化列表，组合框文字 flagTitles
         ObservableList<String> items = FXCollections.observableArrayList(flagTitles);
+        //将items加到组合框cbo中
         cbo.getItems().addAll(items);
         pane.setCenter(descriptionPane);
 
+        //设置监听(鼠标单击事件)，从组合框中获取鼠标的值
         cbo.setOnAction(e -> setDisplay(items.indexOf(cbo. getValue())));
 
         Scene scene = new Scene(pane, 450, 170);
@@ -68,6 +79,7 @@ public class java16_8_ComboBoxDemo extends Application {
         primaryStage.show();
     }
 
+    /** 设置显示 */
     private void setDisplay(int index) {
         descriptionPane.setTitle(flagTitles[index]);
         descriptionPane.setImageView(flagImage[index]);

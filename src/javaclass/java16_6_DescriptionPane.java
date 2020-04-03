@@ -18,27 +18,33 @@ public class java16_6_DescriptionPane extends BorderPane {
         lblImageTitle.setContentDisplay(ContentDisplay.TOP);
         lblImageTitle.setPrefSize(200, 100);
 
+        //标签信息
         lblImageTitle.setFont(new Font("SansSerif", 16));
         taDescription.setFont(new Font("Serif", 14));
 
         taDescription.setWrapText(true);
         taDescription.setEditable(false);
 
+        //创建滚动面板(含有滚动条)
         ScrollPane scrollPane = new ScrollPane(taDescription);
 
+        //将标签设置到滚动面板左边
         setLeft(lblImageTitle);
         setCenter(scrollPane);
         setPadding(new Insets(5, 5, 5, 5));
     }
 
+    /** 设置标题 */
     public void setTitle(String title) {
         lblImageTitle.setText(title);
     }
 
+    /** 设置图 */
     public void setImageView(ImageView icon) {
         lblImageTitle.setGraphic(icon);
     }
 
+    /** 设置文本 */
     public void setDescription(String text) {
         taDescription.setText(text);
     }

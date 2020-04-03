@@ -8,6 +8,7 @@ import javafx.stage.Stage;
 public class java16_7_TextAreaDemo extends Application {
     @Override
     public void start(Stage primaryStage) {
+        //
         java16_6_DescriptionPane descriptionPane = new java16_6_DescriptionPane();
 
         descriptionPane.setTitle("Canada");
