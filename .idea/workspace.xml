@@ -4,17 +4,11 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.3 12 - update for 4.3 class">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.7 14 - update for 4.7 class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_16_ClockAnimation_AddTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_16_ClockAnimation_AddTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_2_ButtonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_2_ButtonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_3_CheckBoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_3_CheckBoxDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_4_RadioButtonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_4_RadioButtonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_5_TextFiledDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_5_TextFiledDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_6_DescriptionPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_6_DescriptionPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_7_TextAreaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_7_TextAreaDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_8_ComboBoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_8_ComboBoxDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_9_ListViewDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/java16_9_ListViewDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_10_ScrollBarDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_10_ScrollBarDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_9_ListViewDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_9_ListViewDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_10_ScrollBarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/java16_10_ScrollBarDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +138,7 @@
       <recent name="E:\Idea Project\javaFXProject\src\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java16_9_ListViewDemo">
+  <component name="RunManager" selected="Application.java16_10_ScrollBarDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -192,8 +186,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java16_4_RadioButtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaclass.java16_4_RadioButtonDemo" />
+    <configuration name="java16_10_ScrollBarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaclass.java16_10_ScrollBarDemo" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -295,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java16_10_ScrollBarDemo" />
         <item itemvalue="Application.java16_9_ListViewDemo" />
         <item itemvalue="Application.java16_8_ComboBoxDemo" />
         <item itemvalue="Application.java16_7_TextAreaDemo" />
         <item itemvalue="Application.java16_5_TextFiledDemo" />
-        <item itemvalue="Application.java16_4_RadioButtonDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -396,14 +390,7 @@
       <workItem from="1585701153305" duration="574000" />
       <workItem from="1585878422522" duration="6914000" />
       <workItem from="1585892375155" duration="1171000" />
-      <workItem from="1586239046476" duration="2022000" />
-    </task>
-    <task id="LOCAL-00009" summary="3.17 13">
-      <created>1584422857604</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1584422857604</updated>
+      <workItem from="1586239046476" duration="3210000" />
     </task>
     <task id="LOCAL-00010" summary="3.17 13">
       <created>1584423839599</created>
@@ -741,7 +728,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585887299686</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="4.7 14 - update for 4.7 class">
+      <created>1586241230081</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1586241230081</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -750,7 +744,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="3.18 15" />
     <MESSAGE value="3.19 15" />
     <MESSAGE value="3.19 17" />
     <MESSAGE value="3.19 20" />
@@ -775,7 +768,8 @@
     <MESSAGE value="3.31 15 - update 3.31 java class" />
     <MESSAGE value="3.31 17 - update ClockPane" />
     <MESSAGE value="4.3 12 - update for 4.3 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.3 12 - update for 4.3 class" />
+    <MESSAGE value="4.7 14 - update for 4.7 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.7 14 - update for 4.7 class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -798,10 +792,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2" timestamp="1585887294542">
+    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2" timestamp="1586241223143">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1585887294542" />
+    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586241223143" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -814,26 +808,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="196" key="GridCell.Tab.0.bottom" timestamp="1586241153964">
+    <state width="1877" height="196" key="GridCell.Tab.0.bottom" timestamp="1586241973857">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1877" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586241153964" />
-    <state width="1877" height="196" key="GridCell.Tab.0.center" timestamp="1586241153964">
+    <state width="1877" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586241973857" />
+    <state width="1877" height="196" key="GridCell.Tab.0.center" timestamp="1586241973857">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1877" height="196" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586241153964" />
-    <state width="1877" height="196" key="GridCell.Tab.0.left" timestamp="1586241153964">
+    <state width="1877" height="196" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586241973857" />
+    <state width="1877" height="196" key="GridCell.Tab.0.left" timestamp="1586241973857">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1877" height="196" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586241153964" />
-    <state width="1877" height="196" key="GridCell.Tab.0.right" timestamp="1586241153964">
+    <state width="1877" height="196" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586241973857" />
+    <state width="1877" height="196" key="GridCell.Tab.0.right" timestamp="1586241973857">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1877" height="196" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586241153964" />
+    <state width="1877" height="196" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586241973857" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1584603930683">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -863,10 +857,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1585647842686" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1585887306807">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1586241347755">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1585887306807" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586241347755" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1585635094010">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
