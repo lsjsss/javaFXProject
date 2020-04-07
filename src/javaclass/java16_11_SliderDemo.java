@@ -14,11 +14,12 @@ public class java16_11_SliderDemo extends Application {
         Text text = new Text(20, 20, "JavaFX programming");
 
         Slider slHorizontal = new Slider();
+        //设置带有刻度的滚动条
         slHorizontal.setShowTickLabels(true);
         slHorizontal.setShowTickMarks(true);
 
         Slider slVertical = new Slider();
-        slHorizontal.setShowTickLabels(true);
+        slHorizontal.setShowTickLabels(false);
         slHorizontal.setShowTickMarks(true);
         slVertical.setValue(100);
 

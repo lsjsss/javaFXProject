@@ -12,6 +12,8 @@ public class java16_12_BounceBallSlider extends Application {
         java15_17_BallPane ballPane = new java15_17_BallPane();
         Slider slSpeed = new Slider();
         slSpeed.setMax(20);
+        //属性绑定                              滑杆值属性
+        ballPane.rateProperty().bind(slSpeed.valueProperty());
 
         BorderPane pane = new BorderPane();
         pane.setCenter(ballPane);

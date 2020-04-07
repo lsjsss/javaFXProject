@@ -59,6 +59,7 @@ public class java15_17_BallPane extends Pane {
         return animation.rateProperty();
     }
 
+    //弹性
     protected void moveBall() {
         if (x < radius || x > getWidth() - radius) {
             dx *= -1;

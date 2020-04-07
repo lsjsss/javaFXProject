@@ -12,15 +12,19 @@ import javafx.scene.shape.Line;
 import javafx.stage.Stage;
 
 public class java16_13_TicTacToe extends Application {
+    //默认字符属性
     private char whoseTurn = 'X';
 
+    //二维数组 3x3的数组
     private Cell[][] cell = new Cell[3][3];
 
+    /** 信息显示 */
     private Label lblStatus = new Label("X's turn to play");
 
     @Override
     public void start(Stage primaryStage) {
         GridPane pane = new GridPane();
+        //把小面板放置到大面板上
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 pane.add(cell[i][j] = new Cell(), j, i);
@@ -35,6 +39,8 @@ public class java16_13_TicTacToe extends Application {
         primaryStage.setScene(scene);
         primaryStage.show();
     }
+
+    //
     public boolean isFull(){
         for(int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
@@ -46,6 +52,7 @@ public class java16_13_TicTacToe extends Application {
         return true;
     }
 
+    //判断赢的一方
     public boolean isWon(char token){
         for(int i = 0; i < 3; i++){
             if (cell[i][0].getToken() == token
@@ -55,6 +62,7 @@ public class java16_13_TicTacToe extends Application {
             }
         }
 
+        //主对角线
         for(int j = 0; j < 3; j++){
             if (cell[0][j].getToken() == token
                     && cell[1][j].getToken() == token
@@ -63,26 +71,33 @@ public class java16_13_TicTacToe extends Application {
             }
         }
 
+        //辅对角线
         if (cell[0][0].getToken() == token
                 && cell[1][1].getToken() == token
                 && cell[2][2].getToken() == token) {
             return true;
         }
 
+        //组成一条线
         if (cell[0][2].getToken() == token
                 && cell[1][1].getToken() == token
                 && cell[2][0].getToken() == token) {
             return true;
         }
+
         return false;
     }
 
+    //小面板
     public class Cell extends Pane {
         private char token = ' ';
 
         public Cell() {
+            //设置样式
             setStyle("-fx-border-color: black");
+            //设置尺寸
             this.setPrefSize(2000, 2000);
+            //设置鼠标单击监听
             this.setOnMouseClicked(e -> handleMouseClick());
         }
 
@@ -105,7 +120,8 @@ public class java16_13_TicTacToe extends Application {
 
                 this.getChildren().addAll(line1, line2);
             }
-            else if (token == '0') {
+            //画圆
+            else if (token == 'O') {
                 Ellipse ellipse = new Ellipse(this.getWidth() / 2,
                         this.getHeight() / 2,
                         this.getWidth() / 2 - 10,
@@ -133,6 +149,7 @@ public class java16_13_TicTacToe extends Application {
                     lblStatus.setText(whoseTurn + "won! The game is over");
                     whoseTurn = ' ';
                 }
+                //画布是否满
                 else if (isFull()) {
                     lblStatus.setText("Draw! The game is over");
                     whoseTurn = ' ';

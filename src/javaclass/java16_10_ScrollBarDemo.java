@@ -20,8 +20,12 @@ public class java16_10_ScrollBarDemo extends Application {
         ScrollBar sbVertical = new ScrollBar();
         sbVertical.setOrientation(Orientation.VERTICAL);
 
+        //双精度属性型
         System.out.println("Min" + sbHorizontal.getMin());
         System.out.println("Max" + sbHorizontal.getMax());
+
+        System.out.println("UnitIcrem"+ sbHorizontal.getUnitIncrement());
+        System.out.println("");
 
         Pane paneForText = new Pane();
         //将文本放到面板上
