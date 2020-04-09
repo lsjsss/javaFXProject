@@ -1,6 +1,7 @@
 package javaclass;
 
 import javafx.application.Application;
+import javafx.geometry.Orientation;
 import javafx.scene.Scene;
 import javafx.scene.control.Slider;
 import javafx.scene.layout.BorderPane;
@@ -19,8 +20,9 @@ public class java16_11_SliderDemo extends Application {
         slHorizontal.setShowTickMarks(true);
 
         Slider slVertical = new Slider();
-        slHorizontal.setShowTickLabels(false);
-        slHorizontal.setShowTickMarks(true);
+        slVertical.setOrientation(Orientation.VERTICAL);
+        slVertical.setShowTickLabels(true);
+        slVertical.setShowTickMarks(true);
         slVertical.setValue(100);
 
         Pane paneForText = new Pane();

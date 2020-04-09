@@ -15,7 +15,6 @@ import javafx.scene.media.MediaView;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
-
 public class java16_14_MediaDemo extends Application {
     private static final String MEDIA_URL =
             "http://47.95.255.91/jiongma.mp4";
