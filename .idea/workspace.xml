@@ -4,12 +4,10 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.7 16 - update for 4.7 class">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.9 13 - update for 4.7 class">
+      <change afterPath="$PROJECT_DIR$/src/javafileclass/TestFileInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javafileclass/TestFileOutputStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_11_SliderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_11_SliderDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_14_MediaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_14_MediaDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_11_SliderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/java16_11_SliderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_14_MediaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/java16_14_MediaDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +137,7 @@
       <recent name="E:\Idea Project\javaFXProject\src\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java16_14_MediaDemo">
+  <component name="RunManager" selected="Application.TestFileOutputStream">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -177,6 +175,20 @@
       </extension>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFileOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javafileclass.TestFileOutputStream" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javafileclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -243,20 +255,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java16_15_FlagAnthem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaclass.java16_15_FlagAnthem" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -290,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestFileOutputStream" />
         <item itemvalue="Application.java16_14_MediaDemo" />
         <item itemvalue="Application.java16_11_SliderDemo" />
         <item itemvalue="Application.java16_12_BounceBallSlider" />
         <item itemvalue="Application.java16_13_TicTacToe" />
-        <item itemvalue="Application.java16_15_FlagAnthem" />
       </list>
     </recent_temporary>
   </component>
@@ -394,13 +392,8 @@
       <workItem from="1586239046476" duration="6285000" />
       <workItem from="1586245484905" duration="399000" />
       <workItem from="1586409642203" duration="125000" />
-    </task>
-    <task id="LOCAL-00013" summary="3.17 20">
-      <created>1584449725099</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1584449725099</updated>
+      <workItem from="1586409799756" duration="116000" />
+      <workItem from="1586483029015" duration="4169000" />
     </task>
     <task id="LOCAL-00014" summary="3.17 20">
       <created>1584449799770</created>
@@ -738,7 +731,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586245335866</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="4.9 13 - update for 4.7 class">
+      <created>1586409902618</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1586409902618</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -747,7 +747,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="3.19 20" />
     <MESSAGE value="3.20 10" />
     <MESSAGE value="3.20 12" />
     <MESSAGE value="3.20 13" />
@@ -772,7 +771,8 @@
     <MESSAGE value="4.7 14 - update for 4.7 class" />
     <MESSAGE value="4.7 15 - update for 4.7 class" />
     <MESSAGE value="4.7 16 - update for 4.7 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.7 16 - update for 4.7 class" />
+    <MESSAGE value="4.9 13 - update for 4.7 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.9 13 - update for 4.7 class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -795,10 +795,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2" timestamp="1586245334064">
+    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2" timestamp="1586409890857">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586245334064" />
+    <state x="137" y="98" width="783" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586409890857" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -860,10 +860,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586245347465" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1586245338261">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1586409907124">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586245338261" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586409907124" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1585635094010">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
