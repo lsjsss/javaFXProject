@@ -12,12 +12,16 @@ public class TestFileOutputStream {
          * 3.关闭流
          */
         try {
-            FileOutputStream fos = new FileOutputStream("out.dat");//步骤1:关联流和文件
-            fos.write(222);//输出 222 (二进制信息)
+            //步骤1:关联流和文件
+            FileOutputStream fos = new FileOutputStream("out.dat");
+            //输出 222 (二进制信息)
+            fos.write(222);
             fos.close();//关闭流
-        } catch (FileNotFoundException e) {//文件未找到异常
+        //文件未找到异常
+        } catch (FileNotFoundException e) {
             e.printStackTrace();
-        } catch (IOException e) {//文件写入异常
+        //文件写入异常
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }

@@ -10,9 +10,11 @@ public class TestFileInputStream {
         try {
             fis = new FileInputStream("out.dat");
             try {
-                int i = fis.read();//读取文件,使用i接收数据
+                //读取文件,使用i接收数据
+                int i = fis.read();
                 System.out.println(i);
-                int j = fis.read();//继续接收文件
+                //继续接收文件
+                int j = fis.read();
                 System.out.println(j);
                 int k = fis.read();
                 System.out.println(k);
