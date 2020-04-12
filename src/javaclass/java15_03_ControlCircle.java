@@ -27,6 +27,9 @@ public class java15_03_ControlCircle extends Application {
         hBox.getChildren().add(btShrink);
 
         btEnlarge.setOnAction(new EnlargeHandler());
+        btShrink.setOnAction((ActionEvent e) -> {
+            circlePane.shrink();
+        });
 
         BorderPane borderPane = new BorderPane();
         borderPane.setCenter(circlePane);

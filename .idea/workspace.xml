@@ -4,7 +4,19 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.12 17 - update Unit 17" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.12 22 - update java homework">
+      <change afterPath="$PROJECT_DIR$/src/javahomework/java4_12_Homework_Exercise15_04Extra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/CirclePane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/CirclePane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_03_ControlCircle$EnlargeHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_03_ControlCircle$EnlargeHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_03_ControlCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_03_ControlCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java3_19_ShowThreeCards_Homewoke.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java3_19_ShowThreeCards_Homework_FromCSDN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_8_TestRandomAccessFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_8_TestRandomAccessFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaHomework/java3_19_ShowThreeCards_Homewoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javahomework/java3_19_ShowThreeCards_Homewoke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaHomework/java3_19_ShowThreeCards_Homework_FromCSDN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javahomework/java3_19_ShowThreeCards_Homework_FromCSDN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_03_ControlCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass/java15_03_ControlCircle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,19 +123,19 @@
     <property name="settings.editor.splitter.proportion" value="0.25848302" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Idea Project\javaFXProject\src\image" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javaclass" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Idea Project\javaFXProject\src\javafxsource" />
       <recent name="E:\Idea Project\javaFXProject\src" />
       <recent name="E:\Idea Project\javaFXProject" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="javaclass" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Idea Project\javaFXProject\src\image" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.java17_7_TestObjectStreamForArray">
+  <component name="RunManager" selected="Application.Exercise15_04Extra">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -149,6 +161,20 @@
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
+    <configuration name="Exercise15_04Extra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javahomework.Exercise15_04Extra" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javahomework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="javaClass.sample.Main" />
       <module name="javaFXProject" />
@@ -171,13 +197,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java17_5_TestObjectOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaclass_Binary_IO_Unit17.java17_5_TestObjectOutputStream" />
+    <configuration name="java15_11_DisplayResizableClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaclass.java15_11_DisplayResizableClock" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaclass_Binary_IO_Unit17.*" />
+          <option name="PATTERN" value="javaclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,13 +211,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java17_6_TestObjectInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaclass_Binary_IO_Unit17.java17_6_TestObjectInputStream" />
+    <configuration name="java15_12_PathTransitionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaclass.java15_12_PathTransitionDemo" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaclass_Binary_IO_Unit17.*" />
+          <option name="PATTERN" value="javaclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,13 +225,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java17_7_TestObjectStreamForArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaclass_Binary_IO_Unit17.java17_7_TestObjectStreamForArray" />
+    <configuration name="java15_13_FlagRisingAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaclass.java15_13_FlagRisingAnimation" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaclass_Binary_IO_Unit17.*" />
+          <option name="PATTERN" value="javaclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,27 +239,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaclass_TestFileInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaclass_Binary_IO_Unit17.javaclass_TestFileInputStream" />
+    <configuration name="java4_12_Homework_Exercise15_04Extra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javafxsource.java4_12_Homework_Exercise15_04Extra" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaclass_Binary_IO_Unit17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javaclass_TestFileOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaclass_Binary_IO_Unit17.javaclass_TestFileOutputStream" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaclass_Binary_IO_Unit17.*" />
+          <option name="PATTERN" value="javafxsource.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.java17_7_TestObjectStreamForArray" />
-        <item itemvalue="Application.java17_6_TestObjectInputStream" />
-        <item itemvalue="Application.java17_5_TestObjectOutputStream" />
-        <item itemvalue="Application.javaclass_TestFileInputStream" />
-        <item itemvalue="Application.javaclass_TestFileOutputStream" />
+        <item itemvalue="Application.Exercise15_04Extra" />
+        <item itemvalue="Application.java4_12_Homework_Exercise15_04Extra" />
+        <item itemvalue="Application.java15_11_DisplayResizableClock" />
+        <item itemvalue="Application.java15_12_PathTransitionDemo" />
+        <item itemvalue="Application.java15_13_FlagRisingAnimation" />
       </list>
     </recent_temporary>
   </component>
@@ -410,13 +422,7 @@
       <workItem from="1586622502021" duration="600000" />
       <workItem from="1586623485912" duration="603000" />
       <workItem from="1586670071248" duration="7217000" />
-    </task>
-    <task id="LOCAL-00023" summary="3.17 23">
-      <created>1584490105667</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1584490105667</updated>
+      <workItem from="1586700151241" duration="10324000" />
     </task>
     <task id="LOCAL-00024" summary="3.118 8">
       <created>1584491659308</created>
@@ -754,7 +760,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586685178198</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="4.12 22 - update java homework">
+      <created>1586700302067</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1586700302068</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -763,7 +776,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="3.21 00 - Add java 15 All" />
     <MESSAGE value="3.21 01 - File name finishing" />
     <MESSAGE value="3.21 19 - Fupdate CSDN for java Homework" />
     <MESSAGE value="3.23 15 - update for 3.23 class" />
@@ -788,7 +800,8 @@
     <MESSAGE value="4.11 22 - update" />
     <MESSAGE value="4.12 16 - update Unit 17" />
     <MESSAGE value="4.12 17 - update Unit 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.12 17 - update Unit 17" />
+    <MESSAGE value="4.12 22 - update java homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.12 22 - update java homework" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -823,10 +836,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="137" y="98" width="804" height="803" key="CommitChangelistDialog2" timestamp="1586685176747">
+    <state x="137" y="98" width="804" height="803" key="CommitChangelistDialog2" timestamp="1586700298131">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="137" y="98" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586685176747" />
+    <state x="137" y="98" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586700298131" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -839,26 +852,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="201" key="GridCell.Tab.0.bottom" timestamp="1586685714710">
+    <state width="1877" height="198" key="GridCell.Tab.0.bottom" timestamp="1586710365553">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1323" height="106" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1877" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586685714710" />
-    <state width="1877" height="201" key="GridCell.Tab.0.center" timestamp="1586685714709">
+    <state width="1323" height="206" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586706979462" />
+    <state width="1877" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586710365553" />
+    <state width="1877" height="198" key="GridCell.Tab.0.center" timestamp="1586710365553">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1323" height="106" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1877" height="201" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586685714709" />
-    <state width="1877" height="201" key="GridCell.Tab.0.left" timestamp="1586685714709">
+    <state width="1323" height="206" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586706979462" />
+    <state width="1877" height="198" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586710365553" />
+    <state width="1877" height="198" key="GridCell.Tab.0.left" timestamp="1586710365553">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1323" height="106" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1877" height="201" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586685714709" />
-    <state width="1877" height="201" key="GridCell.Tab.0.right" timestamp="1586685714709">
+    <state width="1323" height="206" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586706979461" />
+    <state width="1877" height="198" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586710365553" />
+    <state width="1877" height="198" key="GridCell.Tab.0.right" timestamp="1586710365553">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1323" height="106" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1877" height="201" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586685714709" />
+    <state width="1323" height="206" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586706979462" />
+    <state width="1877" height="198" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586710365553" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1584603930683">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -892,10 +905,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586685030411" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1586685183347">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1586700303906">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586685183347" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586700303906" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1585635094010">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -904,10 +917,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="951" y="135" width="647" height="786" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1584712104552" />
-    <state x="616" y="243" key="run.anything.popup" timestamp="1584459118355">
+    <state x="616" y="243" key="run.anything.popup" timestamp="1586710108621">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1584459118355" />
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586710108621" />
     <state x="978" y="185" width="672" height="676" key="search.everywhere.popup" timestamp="1586679557243">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

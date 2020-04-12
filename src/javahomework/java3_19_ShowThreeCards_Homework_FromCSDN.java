@@ -1,4 +1,4 @@
-package javaHomework;
+package javahomework;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
