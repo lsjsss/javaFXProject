@@ -5,7 +5,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 //从 java 输出信息到文件，使用二进制形式输出
-public class TestFileOutputStream {
+public class javaclass_TestFileOutputStream {
     public static void main(String[] args) {
         /** 1.创建一个输出流；和文件关联
          * 2.向输出流写入信息
@@ -13,7 +13,7 @@ public class TestFileOutputStream {
          */
         try {
             //步骤1:关联流和文件
-            FileOutputStream fos = new FileOutputStream("out.dat");
+            FileOutputStream fos = new FileOutputStream("javaclass_TestFileOutputStream_out.dat");
             //输出 222 (二进制信息)
             fos.write(222);
             fos.close();//关闭流

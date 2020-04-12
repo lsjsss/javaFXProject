@@ -6,7 +6,7 @@ public class java17_3_DetectEndOfFile {
     public static void main(String[] args) {
         try {
             try (
-                    DataOutputStream output = new DataOutputStream(new FileOutputStream("test.dat"))
+                    DataOutputStream output = new DataOutputStream(new FileOutputStream("java17_3_DetectEndOfFile_test.dat"))
                     ) {
                 output.writeDouble(4.5);
                 output.writeDouble(43.25);
@@ -14,7 +14,7 @@ public class java17_3_DetectEndOfFile {
             }
 
             try (
-                    DataInputStream input = new DataInputStream(new FileInputStream("test.dat"))
+                    DataInputStream input = new DataInputStream(new FileInputStream("java17_3_DetectEndOfFile_test.dat"))
                     ) {
                 while (true) {
                     System.out.println(input.readDouble());

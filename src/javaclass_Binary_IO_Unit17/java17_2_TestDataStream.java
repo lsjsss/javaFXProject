@@ -5,7 +5,7 @@ import java.io.*;
 public interface java17_2_TestDataStream {
     public static void main(String[] args) throws IOException {
         try (
-                DataOutputStream output = new DataOutputStream(new FileOutputStream("temp.dat"));
+                DataOutputStream output = new DataOutputStream(new FileOutputStream("java17_1_TestFileStream_temp.dat"));
                 ) {
             output.writeUTF("John");
             output.writeDouble(85.5);
@@ -16,7 +16,7 @@ public interface java17_2_TestDataStream {
         }
 
         try (
-                DataInputStream input = new DataInputStream(new FileInputStream("temp.dat"));
+                DataInputStream input = new DataInputStream(new FileInputStream("java17_1_TestFileStream_temp.dat"));
                 ) {
             System.out.println(input.readUTF() + " " + input.readDouble());
             System.out.println(input.readUTF() + " " + input.readDouble());
