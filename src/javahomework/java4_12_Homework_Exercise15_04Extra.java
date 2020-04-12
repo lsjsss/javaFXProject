@@ -12,6 +12,10 @@ import javafx.scene.shape.Polygon;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
+/**
+ * 编写一个显示正多边形的程序，并使用两个名为+1和-1的按钮来增大或减小多边形的大小，如下图所示
+ */
+
 public class java4_12_Homework_Exercise15_04Extra extends Application {
     private RegularPolygonPane regularPolygonPane = new RegularPolygonPane();
     int size = 6;
