@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.12 16 - update Unit 17">
+      <change afterPath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_5_TestObjectOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_6_TestObjectInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_7_TestObjectStreamForArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_8_TestRandomAccessFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/TestFileInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/javaclass_TestFileInputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/TestFileOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/javaclass_TestFileOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_1_TestFileStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_1_TestFileStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_2_TestDataStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_2_TestDataStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_3_DetectEndOfFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_3_DetectEndOfFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_4_Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_4_Copy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.dat" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +129,7 @@
       <recent name="E:\Idea Project\javaFXProject\src\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.javaclass_TestFileInputStream">
+  <component name="RunManager" selected="Application.java17_7_TestObjectStreamForArray">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -181,8 +177,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java17_2_TestDataStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaclass_Binary_IO_Unit17.java17_2_TestDataStream" />
+    <configuration name="java17_5_TestObjectOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaclass_Binary_IO_Unit17.java17_5_TestObjectOutputStream" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -195,8 +191,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java17_3_DetectEndOfFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaclass_Binary_IO_Unit17.java17_3_DetectEndOfFile" />
+    <configuration name="java17_6_TestObjectInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaclass_Binary_IO_Unit17.java17_6_TestObjectInputStream" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -209,8 +205,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java17_4_Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaclass_Binary_IO_Unit17.java17_4_Copy" />
+    <configuration name="java17_7_TestObjectStreamForArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaclass_Binary_IO_Unit17.java17_7_TestObjectStreamForArray" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -284,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java17_7_TestObjectStreamForArray" />
+        <item itemvalue="Application.java17_6_TestObjectInputStream" />
+        <item itemvalue="Application.java17_5_TestObjectOutputStream" />
         <item itemvalue="Application.javaclass_TestFileInputStream" />
         <item itemvalue="Application.javaclass_TestFileOutputStream" />
-        <item itemvalue="Application.java17_4_Copy" />
-        <item itemvalue="Application.java17_3_DetectEndOfFile" />
-        <item itemvalue="Application.java17_2_TestDataStream" />
       </list>
     </recent_temporary>
   </component>
@@ -419,14 +415,7 @@
       <workItem from="1586622368343" duration="111000" />
       <workItem from="1586622502021" duration="600000" />
       <workItem from="1586623485912" duration="603000" />
-      <workItem from="1586670071248" duration="3864000" />
-    </task>
-    <task id="LOCAL-00020" summary="3.17 23">
-      <created>1584460473101</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1584460473101</updated>
+      <workItem from="1586670071248" duration="6040000" />
     </task>
     <task id="LOCAL-00021" summary="3.17 23">
       <created>1584460986611</created>
@@ -764,7 +753,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586681184331</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="4.12 16 - update Unit 17">
+      <created>1586681901703</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1586681901703</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -833,10 +829,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="137" y="98" width="804" height="803" key="CommitChangelistDialog2" timestamp="1586681182508">
+    <state x="137" y="98" width="804" height="803" key="CommitChangelistDialog2" timestamp="1586681899933">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="137" y="98" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586681182508" />
+    <state x="137" y="98" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586681899933" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -849,26 +845,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1133" height="201" key="GridCell.Tab.0.bottom" timestamp="1586681593409">
+    <state width="1133" height="201" key="GridCell.Tab.0.bottom" timestamp="1586682865997">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1133" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586681593409" />
-    <state width="1133" height="201" key="GridCell.Tab.0.center" timestamp="1586681593409">
+    <state width="1133" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586682865997" />
+    <state width="1133" height="201" key="GridCell.Tab.0.center" timestamp="1586682865997">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1133" height="201" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586681593409" />
-    <state width="1133" height="201" key="GridCell.Tab.0.left" timestamp="1586681593409">
+    <state width="1133" height="201" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586682865997" />
+    <state width="1133" height="201" key="GridCell.Tab.0.left" timestamp="1586682865997">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1133" height="201" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586681593409" />
-    <state width="1133" height="201" key="GridCell.Tab.0.right" timestamp="1586681593409">
+    <state width="1133" height="201" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586682865997" />
+    <state width="1133" height="201" key="GridCell.Tab.0.right" timestamp="1586682865997">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="106" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584119082971" />
-    <state width="1133" height="201" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586681593409" />
+    <state width="1133" height="201" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586682865997" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1584603930683">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -902,10 +898,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586245347465" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1586681185638">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1586681903038">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586681185638" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586681903038" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1585635094010">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
