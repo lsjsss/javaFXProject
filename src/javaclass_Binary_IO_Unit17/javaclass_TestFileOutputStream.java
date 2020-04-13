@@ -14,7 +14,11 @@ public class javaclass_TestFileOutputStream {
         try {
             //步骤1:关联流和文件
             FileOutputStream fos = new FileOutputStream("javaclass_TestFileOutputStream_out.dat");
-            //输出 222 (二进制信息)
+            for (int i = 0; i < 10; i++) {//写入十个字节
+                fos.write(i);
+            }
+
+            //输出 222 (写入到out.dat， 二进制信息 1101 1110)
             fos.write(222);
             fos.close();//关闭流
         //文件未找到异常
