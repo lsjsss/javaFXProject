@@ -4,324 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.13 15 - update java 4.13 class">
-      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/Exercise16$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/Exercise16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_12_Homework_Exercise15_04Extra.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13Homework_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13Homework_11$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13Homework_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13_Exercise16_01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13_Homework_Exercise16$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13_Homework_Exercise16$LogicEvent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13_Homework_Exercise16$NumberEvent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13_Homework_Exercise16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAdvanceHomework/Exercise16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAdvanceHomework/java4_13Homework_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAdvanceHomework/java4_13Homework_11.java" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.14 23 - update java 4.13 Homework and javabook code clear">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFXProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaClassProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_2_TestDataStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_2_TestDataStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_4_Copy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_4_Copy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/ShowInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/ShowInnerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L10.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L10.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L11.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L11.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L12.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L12.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L13.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L13.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L14.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L14.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L15.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L15.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L16.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L17.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L17.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L18.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L18.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L19.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L19.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L20.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L20.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L21.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L21.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L22.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L22.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L23.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L23.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L24.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L24.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L25.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L25.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L26.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L26.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L27.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L27.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L28.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L28.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L29.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L29.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L3.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L30.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L30.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L31.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L31.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L32.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L32.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L33.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L33.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L34.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L34.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L35.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L35.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L36.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L36.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L37.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L37.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L38.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L38.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L39.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L39.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L4.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L40.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L40.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L41.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L41.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L42.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L42.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L43.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L43.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L44.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L44.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L45.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L45.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L46.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L46.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L47.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L47.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L48.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L48.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L49.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L49.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L5.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L50.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L50.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L51.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L51.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L52.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L52.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L6.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L7.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L8.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L8.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/L9.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/L9.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/TICTACTOE.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/TICTACTOE.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/ca.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/ca.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/caIcon.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/caIcon.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/canada.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/canada.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/25.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/26.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/27.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/28.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/30.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/31.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/31.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/33.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/34.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/34.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/35.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/35.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/36.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/36.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/37.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/37.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/38.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/38.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/39.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/39.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/40.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/40.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/41.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/41.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/42.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/42.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/43.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/43.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/44.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/44.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/45.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/45.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/46.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/46.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/47.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/47.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/48.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/49.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/49.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/50.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/50.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/51.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/51.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/52.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/52.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/53.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/53.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/54.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/54.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/b1fh.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/b1fh.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/b2fh.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/b2fh.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/b2fv.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/b2fv.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/card/backCard.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/card/backCard.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/center.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/center.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/centerAlignment.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/centerAlignment.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/china.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/china.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/chinaIcon.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/chinaIcon.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/correct.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/correct.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/denmark.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/denmark.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/denmarkIcon.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/denmarkIcon.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flag0.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flag0.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flag1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flag1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flag16.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flag16.GIF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flag2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flag2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flag3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flag3.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flag4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flag4.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flag5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flag5.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flag6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flag6.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flag7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flag7.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flag8.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flag8.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flag9.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flag9.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flagIcon0.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flagIcon0.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flagIcon1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flagIcon1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flagIcon2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flagIcon2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flagIcon3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flagIcon3.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flagIcon4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flagIcon4.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flagIcon5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flagIcon5.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/flagIcon6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/flagIcon6.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/fr.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/fr.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/france.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/france.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/germany.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/germany.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/germany.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/germany.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/germanyIcon.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/germanyIcon.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/grapes.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/grapes.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/horizontalRuler.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/horizontalRuler.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/illinoisMap.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/illinoisMap.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/india.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/india.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/india.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/india.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/indianaMap.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/indianaMap.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/intro1e.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/intro1e.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/intro2e.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/intro2e.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/intro3e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/intro3e.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/introjb3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/introjb3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/introjb4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/introjb4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/introvj6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/introvj6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/knight.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/knight.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/left.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/left.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/leftAlignment.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/leftAlignment.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/malaysia.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/malaysia.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/malaysia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/malaysia.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/my.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/my.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/new.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/new.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/noanswer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/noanswer.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/norway.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/norway.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/norway.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/norway.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/o.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/o.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/ohioMap.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/ohioMap.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/open.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/open.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/person.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/person.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/photo0.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/photo0.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/photo1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/photo1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/photo2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/photo2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/photo3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/photo3.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/photo4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/photo4.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/photo5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/photo5.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/photo6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/photo6.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/photo7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/photo7.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/print.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/print.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/queen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/queen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/radjb3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/radjb3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/radjb5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/radjb5.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/rbs.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/rbs.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/right.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/right.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/rightAlignment.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/rightAlignment.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/save.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/save.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide17.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide18.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide19.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide20.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide21.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide22.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide23.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide24.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/slide9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/slide9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/uk.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/uk.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/uk.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/uk.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/ukIcon.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/ukIcon.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/us.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/us.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/usIcon.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/usIcon.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/usa.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/usa.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/verticalRuler.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/verticalRuler.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/wrong.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/wrong.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/image/x.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/image/x.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_01_MyJavaFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_01_MyJavaFX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_02_4_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_02_4_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_02_MultipeStageDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_02_MultipeStageDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_03_ButtonPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_03_ButtonPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_04_ShowCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_04_ShowCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_05_ShowCircleCentered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_05_ShowCircleCentered.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_06_BindingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_06_BindingDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_07_NodeStyleRotateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_07_NodeStyleRotateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_08_FoneDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_08_FoneDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_09_ShowImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_09_ShowImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_10_ShowFlowPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_10_ShowFlowPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_11_ShowGridPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_11_ShowGridPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_12_ShowBorderPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_12_ShowBorderPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_13_ShowHBoxVBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_13_ShowHBoxVBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_14_ShowText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_14_ShowText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_15_ShowLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_15_ShowLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_16_ShowRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_16_ShowRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_17_ShowEllipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_17_ShowEllipse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_18_ShowArt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_18_ShowArt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_19_ShowPolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_19_ShowPolygon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_20_DisplayClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_20_DisplayClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_20_DisplayClock_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_20_DisplayClock_Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_21_ClockPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_21_ClockPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java14_21_ClockPane_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java14_21_ClockPane_Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_01_HandleEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_01_HandleEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_02_ControlCircleWithoutEvenHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_02_ControlCircleWithoutEvenHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_03_ControlCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_03_ControlCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_04_AnonymousHandlerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_04_AnonymousHandlerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_05_13_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_05_13_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_05_LambdaHandlerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_05_LambdaHandlerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_06_LoanCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_06_LoanCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_07_MouseEventDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_07_MouseEventDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_08_KeyEventDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_08_KeyEventDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_09_ControWithMouseAndKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_09_ControWithMouseAndKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_10_ObservablePropertyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_10_ObservablePropertyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_11_DisplayResizableClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_11_DisplayResizableClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_12_PathTransitionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_12_PathTransitionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_13_FlagRisingAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_13_FlagRisingAnimation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_14_FadeTransitionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_14_FadeTransitionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_15_TimelineDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_15_TimelineDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_16_ClockAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_16_ClockAnimation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_16_ClockAnimation_AddTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_16_ClockAnimation_AddTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_17_BallPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_17_BallPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java15_18_BounceBallControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java15_18_BounceBallControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_10_ScrollBarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_10_ScrollBarDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_11_SliderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_11_SliderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_12_BounceBallSlider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_12_BounceBallSlider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_13_TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_13_TicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_14_MediaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_14_MediaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_15_FlagAnthem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_15_FlagAnthem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_1_LabelWithGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_1_LabelWithGraphic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_2_ButtonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_2_ButtonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_3_CheckBoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_3_CheckBoxDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_4_RadioButtonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_4_RadioButtonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_5_TextFiledDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_5_TextFiledDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_6_DescriptionPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_6_DescriptionPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_7_TextAreaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_7_TextAreaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_8_ComboBoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_8_ComboBoxDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java16_9_ListViewDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java16_9_ListViewDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java3_27_ClassCode_ButtonEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java3_27_ClassCode_ButtonEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass/java3_31_classCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_JavaFX_Unit14_15_16/java3_31_classCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_1_TestFileStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_1_TestFileStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_2_TestDataStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_2_TestDataStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_3_DetectEndOfFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_3_DetectEndOfFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_4_Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_4_Copy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_5_TestObjectOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_5_TestObjectOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_6_TestObjectInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_6_TestObjectInputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_7_TestObjectStreamForArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_7_TestObjectStreamForArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/java17_8_TestRandomAccessFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_8_TestRandomAccessFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/javaclass_TestFileInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/javaclass_TestFileInputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaclass_Binary_IO_Unit17/javaclass_TestFileOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/javaclass_TestFileOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahomework/java3_19_ShowThreeCards_Homewoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAdvanceHomework/java3_19_ShowThreeCards_Homewoke.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahomework/java3_19_ShowThreeCards_Homework_FromCSDN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAdvanceHomework/java3_19_ShowThreeCards_Homework_FromCSDN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahomework/java4_12_Homework_Exercise15_04Extra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAdvanceHomework/java4_12_Homework_Exercise15_04Extra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahomework/java4_13_Exercise16_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAdvanceHomework/java4_13_Exercise16_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahomework/java4_13_Exercise16_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAdvanceHomework/java4_13_Exercise16_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahomework/java4_13_Homework_Exercise16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAdvanceHomework/java4_13_Homework_Exercise16.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -570,53 +254,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="javaClassProject" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="javaClassProject" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -782,14 +419,9 @@
       <workItem from="1586767594291" duration="30898000" />
       <workItem from="1586830027548" duration="25000" />
       <workItem from="1586844175778" duration="3314000" />
-      <workItem from="1586875641929" duration="1894000" />
-    </task>
-    <task id="LOCAL-00030" summary="3.19 15">
-      <created>1584603327917</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1584603327917</updated>
+      <workItem from="1586875641929" duration="2009000" />
+      <workItem from="1586878280843" duration="832000" />
+      <workItem from="1586879296667" duration="427000" />
     </task>
     <task id="LOCAL-00031" summary="3.19 17">
       <created>1584610415045</created>
@@ -1127,7 +759,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586764370850</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="4.14 23 - update java 4.13 Homework and javabook code clear">
+      <created>1586878078317</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1586878078318</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1136,7 +775,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="3.23 19 - update for 3.23 class" />
     <MESSAGE value="3.24 16 - update for 3.24 class" />
     <MESSAGE value="3.27 11 - update for 3.27 class - ButtonEvent" />
     <MESSAGE value="3.30 14 - update for 3.30 class - MouseEvent" />
@@ -1161,7 +799,8 @@
     <MESSAGE value="4.13 01 - update java homework" />
     <MESSAGE value="4.13 12 - update java 4.13 homework" />
     <MESSAGE value="4.13 15 - update java 4.13 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.13 15 - update java 4.13 class" />
+    <MESSAGE value="4.14 23 - update java 4.13 Homework and javabook code clear" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.14 23 - update java 4.13 Homework and javabook code clear" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -1200,10 +839,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="137" y="98" width="804" height="803" key="CommitChangelistDialog2" timestamp="1586764367369">
+    <state x="137" y="98" width="804" height="803" key="CommitChangelistDialog2" timestamp="1586878074127">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="137" y="98" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586764367369" />
+    <state x="137" y="98" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586878074127" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1256,11 +895,11 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="540" y="259" key="IDE.errors.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586750330447" />
-    <state x="278" y="118" width="1014" height="713" key="SettingsEditor" timestamp="1586622345703">
+    <state x="278" y="118" width="1014" height="713" key="SettingsEditor" timestamp="1586879135050">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="21" y="23" width="1014" height="713" key="SettingsEditor/0.0.1112.804@0.0.1112.804" timestamp="1584264827765" />
-    <state x="278" y="118" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586622345703" />
+    <state x="278" y="118" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586879135050" />
     <state x="1161" y="270" width="540" height="524" key="StructurePopup" timestamp="1584376792144">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
