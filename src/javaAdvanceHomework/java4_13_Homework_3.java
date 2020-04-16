@@ -30,9 +30,9 @@ public class java4_13_Homework_3 extends Application {
     private String logic;
 
     TextField view;
-    //记录第一次点击运算符之后的拼接操作
+    /** 记录第一次点击运算符之后的拼接操作 */
     private boolean flag;
-    //记录是否按了等号
+    /** 记录是否按了等号 */
     private boolean eq;
 
     @Override

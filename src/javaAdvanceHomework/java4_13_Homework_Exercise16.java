@@ -21,7 +21,7 @@ import javafx.stage.Stage;
  * 2.用事件驱动实现计算功能。
  */
 
-public class Exercise16 extends Application {
+public class java4_13_Homework_Exercise16 extends Application {
     TextField type1;
     TextField type2 = new TextField();
     TextArea log = new TextArea("计算结果记录:\n");
