@@ -13,6 +13,14 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
+/**
+ * 问题描述：
+ * 设计并实现一款计算器。
+ * 你的任务：
+ * 1.设计并实现计算器的UI架构及界面。
+ * 2.用事件驱动实现计算功能。
+ */
+
 public class Exercise16 extends Application {
     TextField type1;
     TextField type2 = new TextField();

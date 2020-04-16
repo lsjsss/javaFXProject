@@ -21,7 +21,7 @@ import javafx.stage.Stage;
  * 2.用事件驱动实现计算功能。
  */
 
-public class java4_13_Homework_Exercise16 extends Application {
+public class java4_13_Homework_3 extends Application {
     //存开始数字 0
     private int number1;
     //存结束数字 0
