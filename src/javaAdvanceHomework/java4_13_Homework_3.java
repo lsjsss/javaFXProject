@@ -22,11 +22,11 @@ import javafx.stage.Stage;
  */
 
 public class java4_13_Homework_3 extends Application {
-    //存开始数字 0
+    /** 开始数字 0 */
     private int number1;
-    //存结束数字 0
+    /** 存结束数字 0 */
     private int number2;
-    //存运算符的变量 null
+    /** 存运算符的变量 null */
     private String logic;
 
     TextField view;
