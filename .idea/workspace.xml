@@ -4,335 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.17 10 - update java 4.17 Class">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.17 11 - update java 4.17 Class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java17_7_TestObjectStreamForArray_array.dat" beforeDir="false" afterPath="$PROJECT_DIR$/java17_7_TestObjectStreamForArray_array.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/CancelHandlerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/CirclePane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/LinePain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/OKHandlerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/ShowInnerClass$InnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/ShowInnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/T1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/T2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/T3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L10.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L11.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L12.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L13.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L14.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L15.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L16.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L17.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L18.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L19.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L20.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L21.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L22.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L23.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L24.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L25.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L26.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L27.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L28.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L29.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L30.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L31.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L32.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L33.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L34.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L35.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L36.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L37.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L38.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L39.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L40.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L41.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L42.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L43.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L44.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L45.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L46.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L47.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L48.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L49.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L50.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L51.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L52.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L6.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L7.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L8.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/L9.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/TICTACTOE.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/ca.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/caIcon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/canada.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/43.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/46.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/47.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/49.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/51.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/52.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/54.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/b1fh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/b2fh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/b2fv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/card/backCard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/center.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/centerAlignment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/china.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/chinaIcon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/correct.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/denmark.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/denmarkIcon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flag0.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flag1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flag16.GIF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flag2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flag3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flag4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flag5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flag6.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flag7.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flag8.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flag9.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flagIcon0.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flagIcon1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flagIcon2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flagIcon3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flagIcon4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flagIcon5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/flagIcon6.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/fr.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/france.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/germany.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/germany.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/germanyIcon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/grapes.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/horizontalRuler.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/illinoisMap.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/india.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/india.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/indianaMap.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/intro1e.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/intro2e.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/intro3e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/introjb3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/introjb4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/introvj6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/knight.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/left.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/leftAlignment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/malaysia.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/malaysia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/my.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/new.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/noanswer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/norway.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/norway.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/o.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/ohioMap.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/open.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/person.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/photo0.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/photo1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/photo2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/photo3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/photo4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/photo5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/photo6.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/photo7.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/print.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/queen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/radjb3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/radjb5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/rbs.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/right.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/rightAlignment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/save.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/slide9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/uk.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/uk.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/ukIcon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/us.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/usIcon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/usa.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/verticalRuler.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/wrong.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/image/x.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_01_MyJavaFX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_02_4_Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_02_MultipeStageDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_03_ButtonPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_04_ShowCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_05_ShowCircleCentered.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_06_BindingDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_07_NodeStyleRotateDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_08_FoneDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_09_ShowImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_10_ShowFlowPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_11_ShowGridPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_12_ShowBorderPane$CustomPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_12_ShowBorderPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_13_ShowHBoxVBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_14_ShowText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_15_ShowLine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_16_ShowRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_17_ShowEllipse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_18_ShowArt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_19_ShowPolygon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_20_DisplayClock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_20_DisplayClock_Tests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_21_ClockPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java14_21_ClockPane_Tests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_01_HandleEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_02_ControlCircleWithoutEvenHandling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_03_ControlCircle$EnlargeHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_03_ControlCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_04_AnonymousHandlerDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_04_AnonymousHandlerDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_04_AnonymousHandlerDemo$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_04_AnonymousHandlerDemo$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_04_AnonymousHandlerDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_05_13_Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_05_LambdaHandlerDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_06_LoanCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_07_MouseEventDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_08_KeyEventDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_08_KeyEventDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_09_ControWithMouseAndKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_10_ObservablePropertyDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_10_ObservablePropertyDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_11_DisplayResizableClock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_12_PathTransitionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_13_FlagRisingAnimation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_14_FadeTransitionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_15_TimelineDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_16_ClockAnimation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_16_ClockAnimation_AddTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_17_BallPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java15_18_BounceBallControl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_10_ScrollBarDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_11_SliderDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_12_BounceBallSlider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_13_TicTacToe$Cell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_13_TicTacToe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_14_MediaDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_15_FlagAnthem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_1_LabelWithGraphic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_2_ButtonDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_3_CheckBoxDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_4_RadioButtonDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_5_TextFiledDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_6_DescriptionPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_7_TextAreaDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_8_ComboBoxDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java16_9_ListViewDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java3_27_ClassCode_ButtonEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaClass/java3_31_classCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_1_TestFileStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_2_TestDataStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_3_DetectEndOfFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_4_Copy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_5_TestObjectOutputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_6_TestObjectInputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_7_TestObjectStreamForArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/java17_8_TestRandomAccessFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/javaclass_TestFileInputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaclass_Binary_IO_Unit17/javaclass_TestFileOutputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/Exercise16$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/Exercise16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/RegularPolygonPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java3_19_ShowThreeCards_Homewoke.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java3_19_ShowThreeCards_Homework_FromCSDN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_12_Homework_Exercise15_04Extra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13Homework_10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13Homework_11$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13Homework_11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13_Exercise16_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13_Homework_Exercise16$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13_Homework_Exercise16$LogicEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13_Homework_Exercise16$NumberEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javahomework/java4_13_Homework_Exercise16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_6_TestObjectInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_6_TestObjectInputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_7_TestObjectStreamForArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_7_TestObjectStreamForArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_8_TestRandomAccessFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_8_TestRandomAccessFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -453,7 +127,7 @@
       <recent name="E:\Idea Project\javaFXProject\src\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java17_7_TestObjectStreamForArray">
+  <component name="RunManager" selected="Application.java17_8_TestRandomAccessFile">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -478,20 +152,6 @@
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
-    </configuration>
-    <configuration name="L1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PTA2018test.L1_3" />
-      <module name="PTAtest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PTA2018test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="L1_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PTA2018Mtest.L1_5" />
@@ -571,6 +231,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java17_8_TestRandomAccessFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBook_Binary_IO_Unit17.java17_8_TestRandomAccessFile" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBook_Binary_IO_Unit17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -604,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java17_8_TestRandomAccessFile" />
         <item itemvalue="Application.java17_7_TestObjectStreamForArray" />
         <item itemvalue="Application.java17_6_TestObjectInputStream" />
         <item itemvalue="Application.java17_5_TestObjectOutputStream" />
         <item itemvalue="Application.L1_5" />
-        <item itemvalue="Application.L1_3" />
       </list>
     </recent_temporary>
   </component>
@@ -753,14 +427,7 @@
       <workItem from="1587038083489" duration="875000" />
       <workItem from="1587050846903" duration="704000" />
       <workItem from="1587052986591" duration="2378000" />
-      <workItem from="1587088092129" duration="4854000" />
-    </task>
-    <task id="LOCAL-00037" summary="3.20 13">
-      <created>1584682332092</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1584682332092</updated>
+      <workItem from="1587088092129" duration="5343000" />
     </task>
     <task id="LOCAL-00038" summary="3.20 14">
       <created>1584686293320</created>
@@ -1098,7 +765,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587091269799</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="4.17 11 - update java 4.17 Class">
+      <created>1587094163962</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1587094163962</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1107,7 +781,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="3.30 22 - update java book 16" />
     <MESSAGE value="3.30 22 - update java book 16 all" />
     <MESSAGE value="3.21 14 - update 3.21 java class" />
     <MESSAGE value="3.31 15 - update 3.31 java class" />
@@ -1132,7 +805,8 @@
     <MESSAGE value="4.17 00 - update java 4.13 code clear" />
     <MESSAGE value="4.17 00 - update java 4.14 Homework" />
     <MESSAGE value="4.17 10 - update java 4.17 Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.17 10 - update java 4.17 Class" />
+    <MESSAGE value="4.17 11 - update java 4.17 Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.17 11 - update java 4.17 Class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -1171,10 +845,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="155" y="67" width="804" height="803" key="CommitChangelistDialog2" timestamp="1587091266743">
+    <state x="155" y="67" width="804" height="803" key="CommitChangelistDialog2" timestamp="1587094156930">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="155" y="67" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587091266743" />
+    <state x="155" y="67" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587094156930" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1187,26 +861,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="156" key="GridCell.Tab.0.bottom" timestamp="1587093404852">
+    <state width="1877" height="156" key="GridCell.Tab.0.bottom" timestamp="1587094311586">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587093404852" />
-    <state width="1877" height="156" key="GridCell.Tab.0.center" timestamp="1587093404852">
+    <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587094311586" />
+    <state width="1877" height="156" key="GridCell.Tab.0.center" timestamp="1587094311586">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587093404852" />
-    <state width="1877" height="156" key="GridCell.Tab.0.left" timestamp="1587093404852">
+    <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587094311586" />
+    <state width="1877" height="156" key="GridCell.Tab.0.left" timestamp="1587094311586">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587093404852" />
-    <state width="1877" height="156" key="GridCell.Tab.0.right" timestamp="1587093404852">
+    <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587094311586" />
+    <state width="1877" height="156" key="GridCell.Tab.0.right" timestamp="1587094311586">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587093404852" />
+    <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587094311586" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1244,10 +918,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1587054729060" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1587091273290">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1587094169228">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587091273290" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587094169228" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1586782516632">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
