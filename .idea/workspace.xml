@@ -129,7 +129,7 @@
       <recent name="E:\Idea Project\javaFXProject\src\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java18_1_ComputerFactorial">
+  <component name="RunManager" selected="Application.java18_3_RecursivePalindromeUsingSubstring">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -191,20 +191,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java16_3_CheckBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBook_JavaFX_Unit14_15_16.java16_3_CheckBoxDemo" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaBook_JavaFX_Unit14_15_16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="java17_8_TestRandomAccessFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaBook_Binary_IO_Unit17.java17_8_TestRandomAccessFile" />
       <module name="javaFXProject" />
@@ -221,6 +207,20 @@
     </configuration>
     <configuration name="java18_1_ComputerFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_Unit18.java18_1_ComputerFactorial" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java18_3_RecursivePalindromeUsingSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit18.java18_3_RecursivePalindromeUsingSubstring" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -280,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java18_3_RecursivePalindromeUsingSubstring" />
         <item itemvalue="Application.java18_1_ComputerFactorial" />
         <item itemvalue="Application.java17_8_TestRandomAccessFile" />
         <item itemvalue="Application.java_Unit17_Contacts" />
         <item itemvalue="Application.java16_2_ButtonDemo" />
-        <item itemvalue="Application.java16_3_CheckBoxDemo" />
       </list>
     </recent_temporary>
   </component>
