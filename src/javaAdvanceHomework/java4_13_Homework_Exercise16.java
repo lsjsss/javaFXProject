@@ -14,49 +14,49 @@ import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
 /**
- * é—®é¢˜æè¿°ï¼š
- * è®¾è®¡å¹¶å®ç°ä¸€æ¬¾è®¡ç®—å™¨ã€‚
- * ä½ çš„ä»»åŠ¡ï¼š
- * 1.è®¾è®¡å¹¶å®ç°è®¡ç®—å™¨çš„UIæ¶æ„åŠç•Œé¢ã€‚
- * 2.ç”¨äº‹ä»¶é©±åŠ¨å®ç°è®¡ç®—åŠŸèƒ½ã€‚
+ * ÎÊÌâÃèÊö£º
+ * Éè¼Æ²¢ÊµÏÖÒ»¿î¼ÆËãÆ÷¡£
+ * ÄãµÄÈÎÎñ£º
+ * 1.Éè¼Æ²¢ÊµÏÖ¼ÆËãÆ÷µÄUI¼Ü¹¹¼°½çÃæ¡£
+ * 2.ÓÃÊÂ¼şÇı¶¯ÊµÏÖ¼ÆËã¹¦ÄÜ¡£
  */
 
 public class java4_13_Homework_Exercise16 extends Application {
     TextField type1;
     TextField type2 = new TextField();
-    TextArea log = new TextArea("è®¡ç®—ç»“æœè®°å½•:\n");
+    TextArea log = new TextArea("¼ÆËã½á¹û¼ÇÂ¼:\n");
 
-    /** æ•°å€¼æ˜¾ç¤º */
+    /** ÊıÖµÏÔÊ¾ */
     VBox vBox = new VBox();
-    /** è®°å½•æ˜¾ç¤º */
+    /** ¼ÇÂ¼ÏÔÊ¾ */
     VBox vBox2 = new VBox();
-    /** æŒ‰é’®æ˜¾ç¤º */
+    /** °´Å¥ÏÔÊ¾ */
     GridPane gridPane = new GridPane();
 
     @Override
     public void start(Stage primaryStage) throws Exception {
 
-        /** æ•°å€¼æ˜¾ç¤º */
+        /** ÊıÖµÏÔÊ¾ */
         showType();
 
-        /** è®°å½•æ˜¾ç¤º */
+        /** ¼ÇÂ¼ÏÔÊ¾ */
         log.setMinSize(200,160);
         log.setMaxSize(200,160);
         log.setEditable(false);
 
-        /** æ·»åŠ æ•°å­—æŒ‰é’® */
+        /** Ìí¼ÓÊı×Ö°´Å¥ */
         numButton();
 
-        /** æ·»åŠ ç¬¦å·æŒ‰é’® */
+        /** Ìí¼Ó·ûºÅ°´Å¥ */
         symbalButton();
 
-        //æ”¾ç½®é¢æ¿åŠé¢æ¿å…ƒç´ 
+        //·ÅÖÃÃæ°å¼°Ãæ°åÔªËØ
         BorderPane borderPane = new BorderPane();
         borderPane.setTop(vBox);
         borderPane.setCenter(vBox2);
         borderPane.setLeft(gridPane);
 
-        //æ”¾ç½®åœºæ™¯
+        //·ÅÖÃ³¡¾°
         Scene scene = new Scene(borderPane, 430, 220);
         primaryStage.setTitle("Exercise16");
         primaryStage.setScene(scene);
@@ -64,32 +64,32 @@ public class java4_13_Homework_Exercise16 extends Application {
         primaryStage.setAlwaysOnTop(true);
         primaryStage.show();
 
-        /** é”®ç›˜åŠ¨ä½œäº‹ä»¶ */
+        /** ¼üÅÌ¶¯×÷ÊÂ¼ş */
         scene.setOnKeyReleased(e -> {
             keyEvent(e);
         });
     }
 
-    /** æ•°å€¼æ˜¾ç¤º */
+    /** ÊıÖµÏÔÊ¾ */
     public void showType() {
-        //æ·»åŠ æ•°å€¼æ˜¾ç¤ºæ¡†
+        //Ìí¼ÓÊıÖµÏÔÊ¾¿ò
         type1 = new TextField("");
-        type2 = new TextField("å®æ—¶è®¡ç®—ç»“æœ");
+        type2 = new TextField("ÊµÊ±¼ÆËã½á¹û");
         type1.setMinSize(200, 20);
         type2.setMaxSize(230, 20);
         type1.setLayoutX(10);
         type1.setLayoutY(15);
-        //è®¾ç½®ç»“æœæ˜¾ç¤ºåŒºåŸŸä¸ºåªè¯»
+        //ÉèÖÃ½á¹ûÏÔÊ¾ÇøÓòÎªÖ»¶Á
         type2.setEditable(false);
-        //æ–‡å­—å†…å®¹å³å¯¹é½
+        //ÎÄ×ÖÄÚÈİÓÒ¶ÔÆë
         type1.setAlignment(Pos.CENTER_RIGHT);
-        //è®¾ç½®å­—ä½“
+        //ÉèÖÃ×ÖÌå
         type1.setFont(new Font("Consolas", 20));
     }
 
-    /** æ·»åŠ æ•°å­—æŒ‰é’® */
+    /** Ìí¼ÓÊı×Ö°´Å¥ */
     private void numButton() {
-        //æ•°å­—æŒ‰é’®
+        //Êı×Ö°´Å¥
         Button bt[] = new Button[10];
         int x = 0, y = 2;
         for (int i = 0; i < bt.length; i++) {
@@ -101,7 +101,7 @@ public class java4_13_Homework_Exercise16 extends Application {
                 String news = type1.getText() + num;
                 type1.setText(news);
 
-                //åˆ¤æ–­é¦–ä¸ªæ•°å­—æ˜¯å¦ä¸º 0
+                //ÅĞ¶ÏÊ×¸öÊı×ÖÊÇ·ñÎª 0
                 String olds = type1.getText();
                 if(olds.charAt(0) == '0') {
                     String news2 = "";
@@ -116,21 +116,21 @@ public class java4_13_Homework_Exercise16 extends Application {
                 try {
                     type2.setText("" + calculate(s));
                 } catch (Exception e1) {
-                    type2.setText("è¾“å…¥é”™è¯¯");
+                    type2.setText("ÊäÈë´íÎó");
                 }
                 type1.requestFocus();
             });
         }
 
-        //å°†æŒ‰é’® 0 æ·»åŠ åˆ°é¢æ¿ä¸Š
+        //½«°´Å¥ 0 Ìí¼Óµ½Ãæ°åÉÏ
         gridPane.add(bt[0], 1, 3);
 
-        /** é¢æ¿æ·»åŠ  */
-        //æ·»åŠ æ–‡æœ¬æ¡†
+        /** Ãæ°åÌí¼Ó */
+        //Ìí¼ÓÎÄ±¾¿ò
         vBox.getChildren().addAll(type1, type2);
         vBox2.getChildren().add(log);
 
-        //å°†æŒ‰é’® 1-9 æ·»åŠ åˆ°é¢æ¿ä¸Š
+        //½«°´Å¥ 1-9 Ìí¼Óµ½Ãæ°åÉÏ
         for (int i = 1; i < bt.length; i++) {
             gridPane.add(bt[i], x, y);
             x++;
@@ -146,9 +146,9 @@ public class java4_13_Homework_Exercise16 extends Application {
         }
     }
 
-    /** æ·»åŠ ç¬¦å·æŒ‰é’® */
+    /** Ìí¼Ó·ûºÅ°´Å¥ */
     public void symbalButton() {
-        //æ”¾ç½®è®¡ç®—æŒ‰é’® + - * /ï¼Œå¹¶ç»™æŒ‰é’®æ·»åŠ äº‹ä»¶ç›‘å¬å™¨
+        //·ÅÖÃ¼ÆËã°´Å¥ + - * /£¬²¢¸ø°´Å¥Ìí¼ÓÊÂ¼ş¼àÌıÆ÷
         Button bt_add = new Button("+");
         bt_add.setMinSize(40,40);
         bt_add.setMaxSize(40,40);
@@ -182,32 +182,32 @@ public class java4_13_Homework_Exercise16 extends Application {
         gridPane.add(bt_div, 3, 3);
 
 
-        //è¿ç®—ç¬¦çš„æŒ‰é’® =
+        //ÔËËã·ûµÄ°´Å¥ =
         Button bt_eq = new Button("=");
         bt_eq.setMinSize(50,40);
         bt_eq.setMaxSize(50,40);
         bt_eq.setOnMouseClicked(e -> {
-            //æŠŠç»“æœæ˜¾ç¤ºå›æ˜¾ç¤ºæ¡†
-            System.out.println("è®¡ç®—ç»“æœ");
+            //°Ñ½á¹ûÏÔÊ¾»ØÏÔÊ¾¿ò
+            System.out.println("¼ÆËã½á¹û");
 
             String oldls = log.getText();
             log.setText(oldls + type1.getText() + "=" + calculate(type1.getText()) + "\n");
         });
         gridPane.add(bt_eq, 2, 3);
 
-        //æ·»åŠ æ¸…ç©ºæ•°å­—æŒ‰é’® C
+        //Ìí¼ÓÇå¿ÕÊı×Ö°´Å¥ C
         Button bt_C = new Button("C");
         bt_C.setMinSize(50,40);
         bt_C.setMinSize(50,40);
         bt_C.setOnMouseClicked(e -> {
             type1.setText("0");
             type2.setText("");
-            System.out.println("æ¸…é›¶");
+            System.out.println("ÇåÁã");
         });
         gridPane.add(bt_C, 0, 3);
 
 
-        //æ·»åŠ å€’æ•°æŒ‰é’®
+        //Ìí¼Óµ¹Êı°´Å¥
         Button bt_re = new Button("1/x");
         bt_re.setMinSize(40,40);
         bt_re.setMaxSize(40,40);
@@ -215,29 +215,29 @@ public class java4_13_Homework_Exercise16 extends Application {
             try {
                 String s = type1.getText();
                 type2.setText("" + 1/calculate(s));
-                System.out.println("å€’æ•°è¿ç®—");
+                System.out.println("µ¹ÊıÔËËã");
             } catch(Exception e1) {
-                System.out.println("ç®—å¼æ ¼å¼æœ‰è¯¯ï¼Œæ— æ³•è¿›è¡Œå€’æ•°è®¡ç®—");
+                System.out.println("ËãÊ½¸ñÊ½ÓĞÎó£¬ÎŞ·¨½øĞĞµ¹Êı¼ÆËã");
             }
         });
         gridPane.add(bt_re, 4, 0);
 
-        //æ·»åŠ å¼€å¹³æ–¹æŒ‰é’®
-        Button bt_ex = new Button("âˆš");
+        //Ìí¼Ó¿ªÆ½·½°´Å¥
+        Button bt_ex = new Button("¡Ì");
         bt_ex.setMinSize(40,40);
         bt_ex.setMaxSize(40,40);
         bt_ex.setOnMouseClicked(e -> {
             try {
                 String s = type1.getText();
                 type2.setText("" + Math.sqrt(calculate(s)));
-                System.out.println("å¼€å¹³æ–¹");
+                System.out.println("¿ªÆ½·½");
             } catch(Exception e1) {
-                System.out.println("ç®—å¼æ ¼å¼æœ‰è¯¯ï¼Œæ— æ³•è¿›è¡Œå€’æ•°è®¡ç®—");
+                System.out.println("ËãÊ½¸ñÊ½ÓĞÎó£¬ÎŞ·¨½øĞĞµ¹Êı¼ÆËã");
             }
         });
         gridPane.add(bt_ex, 4, 1);
 
-        //æ·»åŠ å¹³æ–¹æŒ‰é’®
+        //Ìí¼ÓÆ½·½°´Å¥
         Button bt_sq = new Button("x^2");
         bt_sq.setMinSize(40,40);
         bt_sq.setMaxSize(40,40);
@@ -245,14 +245,14 @@ public class java4_13_Homework_Exercise16 extends Application {
             try {
                 String s = type1.getText();
                 type2.setText("" + Math.pow(calculate(s), 2));
-                System.out.println("è®¡ç®—å¹³æ–¹å€¼");
+                System.out.println("¼ÆËãÆ½·½Öµ");
             } catch(Exception e1) {
-                System.out.println("ç®—å¼æ ¼å¼æœ‰è¯¯ï¼Œæ— æ³•è¿›è¡Œå€’æ•°è®¡ç®—");
+                System.out.println("ËãÊ½¸ñÊ½ÓĞÎó£¬ÎŞ·¨½øĞĞµ¹Êı¼ÆËã");
             }
         });
         gridPane.add(bt_sq, 4, 2);
 
-        //æ·»åŠ å°æ•°ç‚¹æŒ‰é’®
+        //Ìí¼ÓĞ¡Êıµã°´Å¥
         Button bt_po = new Button(".");
         bt_po.setMinSize(40,40);
         bt_po.setOnMouseClicked(e -> {
@@ -262,7 +262,7 @@ public class java4_13_Homework_Exercise16 extends Application {
     }
 
 
-    /** æŒ‰é’® + - * / äº‹ä»¶ */
+    /** °´Å¥ + - * / ÊÂ¼ş */
     private void calculateEvent(String ch) {
         String news = type1.getText() + ch;
         type1.setText(news);
@@ -272,55 +272,55 @@ public class java4_13_Homework_Exercise16 extends Application {
         try {
             type2.setText("" + calculate(s));
         } catch (Exception e1) {
-            type2.setText("è¾“å…¥é”™è¯¯");
+            type2.setText("ÊäÈë´íÎó");
         }
     }
 
     public void keyEvent(KeyEvent e) {
         String s;
         switch (e.getCode()) {
-            //æŒ‰ä¸‹enteré”®
+            //°´ÏÂenter¼ü
             case ENTER:
-                System.out.println("è®¡ç®—ç»“æœ");
+                System.out.println("¼ÆËã½á¹û");
 
                 String oldls = log.getText();
                 log.setText(oldls + type1.getText() + "=" + calculate(type1.getText()) + "\n");
                 break;
-            //å¦‚æœæŒ‰ä¸‹çš„ä¸æ˜¯enteré”®
+            //Èç¹û°´ÏÂµÄ²»ÊÇenter¼ü
             default:
                 s = type1.getText();
                 try {
                     type2.setText("" + calculate(s));
                 } catch (Exception e1) {
-                    type2.setText("è¾“å…¥é”™è¯¯");
+                    type2.setText("ÊäÈë´íÎó");
                 }
         }
     }
 
 
-    /** æ ¸å¿ƒè®¡ç®— */
+    /** ºËĞÄ¼ÆËã */
     public double calculate(String s) {
         double sum = 0;
         String sn = s;
-        //åˆ¤æ–­æ˜¯å¦åŒ…å«"-"å·
+        //ÅĞ¶ÏÊÇ·ñ°üº¬"-"ºÅ
         if (sn.contains("-")) {
             sn = sn.replace("-", "+-");
         }
-        //æ’é™¤è¿"++"å·çš„å½±å“ï¼Œå¦‚5-3++-3
+        //ÅÅ³ıÁ¬"++"ºÅµÄÓ°Ïì£¬Èç5-3++-3
         String[] ss = sn.split("\\+");
         for (int k = 0; k < ss.length; k++) {
             if (ss[k].equals("")) {
                 ss[k] = "0";
             }
         }
-        //å‰¥ç¦»ç¬¦å·ï¼Œè¿›è¡Œè¿ç®—
+        //°şÀë·ûºÅ£¬½øĞĞÔËËã
         for (int i = 0; i < ss.length; i++) {
-            //åˆ¤æ–­æ˜¯å¦åŒæ—¶å…·æœ‰"*"å’Œ"/"
+            //ÅĞ¶ÏÊÇ·ñÍ¬Ê±¾ßÓĞ"*"ºÍ"/"
             if (ss[i].contains("*") && ss[i].contains("/")) {
                 double sum1 = 1;
                 String[] sss = ss[i].split("\\*");
                 for (int l = 0; l < sss.length; l++) {
-                    //åˆ¤æ–­æ˜¯å¦æœ‰"/",å¦‚æœæœ‰ç»§ç»­å‰¥ç¦»
+                    //ÅĞ¶ÏÊÇ·ñÓĞ"/",Èç¹ûÓĞ¼ÌĞø°şÀë
                     if (sss[l].contains("/")) {
                         String[] ssss = sss[l].split("\\/");
                         double sum2 = Double.parseDouble(ssss[0]);
@@ -334,7 +334,7 @@ public class java4_13_Homework_Exercise16 extends Application {
                 }
                 sum += sum1;
             }
-            //åˆ¤æ–­æ˜¯å¦åªæœ‰"*"
+            //ÅĞ¶ÏÊÇ·ñÖ»ÓĞ"*"
             else if (ss[i].contains("*") && !ss[i].contains("/")) {
                 String[] sss = ss[i].split("\\*");
                 double sum1 = 1;
@@ -343,7 +343,7 @@ public class java4_13_Homework_Exercise16 extends Application {
                 }
                 sum += sum1;
             }
-            //åˆ¤æ–­æ˜¯å¦åªæœ‰"/"
+            //ÅĞ¶ÏÊÇ·ñÖ»ÓĞ"/"
             else if (ss[i].contains("/") && !ss[i].contains("*")) {
                 String[] sss = ss[i].split("\\/");
                 double sum1 = Double.parseDouble(sss[0]);
@@ -352,12 +352,12 @@ public class java4_13_Homework_Exercise16 extends Application {
                 }
                 sum += sum1;
             }
-            //åªåŒ…å«æ•°å­—
+            //Ö»°üº¬Êı×Ö
             else {
                 sum += Double.parseDouble(ss[i]);
             }
         }
-        //æ§åˆ¶å°å³æ—¶è¾“å‡ºè®¡ç®—æ—¥å¿—
+        //¿ØÖÆÌ¨¼´Ê±Êä³ö¼ÆËãÈÕÖ¾
         System.out.println(s + "=" + sum);
         return sum;
     }
