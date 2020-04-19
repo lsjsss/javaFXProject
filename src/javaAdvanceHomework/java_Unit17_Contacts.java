@@ -17,7 +17,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 
-
 public class java_Unit17_Contacts extends Application {
     @Override
     public void start(Stage primaryStage) throws IOException {

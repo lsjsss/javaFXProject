@@ -4,9 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.19 01 - update Unit 18">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.19 17 - update Unit 18">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit18/java18_9_SierpinskiTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit18/java18_9_SierpinskiTriangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.25848302" />
   </component>
   <component name="RecentsManager">
@@ -437,14 +436,8 @@
       <workItem from="1587220187665" duration="8507000" />
       <workItem from="1587229852150" duration="1592000" />
       <workItem from="1587268071522" duration="199000" />
-      <workItem from="1587289559404" duration="583000" />
-    </task>
-    <task id="LOCAL-00051" summary="3.30 21 - update java book 16">
-      <created>1585573437722</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1585573437723</updated>
+      <workItem from="1587289559404" duration="625000" />
+      <workItem from="1587302527350" duration="167000" />
     </task>
     <task id="LOCAL-00052" summary="3.30 22 - update java book 16">
       <created>1585578660053</created>
@@ -782,7 +775,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587231410831</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="4.19 17 - update Unit 18">
+      <created>1587290181536</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1587290181536</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -791,7 +791,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="4.7 14 - update for 4.7 class" />
     <MESSAGE value="4.7 15 - update for 4.7 class" />
     <MESSAGE value="4.7 16 - update for 4.7 class" />
     <MESSAGE value="4.9 13 - update for 4.7 class" />
@@ -816,7 +815,8 @@
     <MESSAGE value="4.19 00 - update Contacts" />
     <MESSAGE value="4.19 00 - update Unit 18" />
     <MESSAGE value="4.19 01 - update Unit 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.19 01 - update Unit 18" />
+    <MESSAGE value="4.19 17 - update Unit 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.19 17 - update Unit 18" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -855,10 +855,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="220" y="116" width="804" height="803" key="CommitChangelistDialog2" timestamp="1587231409590">
+    <state x="220" y="116" width="804" height="803" key="CommitChangelistDialog2" timestamp="1587290176317">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="220" y="116" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587231409590" />
+    <state x="220" y="116" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587290176317" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -915,11 +915,11 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="373" y="224" key="NewModule_or_Project.wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1586914484780" />
-    <state x="278" y="118" width="1014" height="713" key="SettingsEditor" timestamp="1587038193560">
+    <state x="278" y="118" width="1014" height="713" key="SettingsEditor" timestamp="1587302714597">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="21" y="23" width="1014" height="713" key="SettingsEditor/0.0.1112.804@0.0.1112.804" timestamp="1584264827765" />
-    <state x="278" y="118" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587038193560" />
+    <state x="278" y="118" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587302714597" />
     <state x="1161" y="270" width="540" height="524" key="StructurePopup" timestamp="1584376792144">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -928,10 +928,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1587231204001" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1587231412822">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1587290194364">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587231412822" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587290194364" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1587230174602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
