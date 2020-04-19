@@ -31,8 +31,10 @@ public class java18_9_SierpinskiTriangle extends Application {
 
         // Create a scene and place it in the stage
         Scene scene = new Scene(borderPane, 200, 210);
-        primaryStage.setTitle("SierpinskiTriangle"); // Set the stage title
-        primaryStage.setScene(scene); // Place the scene in the stage
+        // Set the stage title
+        primaryStage.setTitle("SierpinskiTriangle");
+        // Place the scene in the stage
+        primaryStage.setScene(scene);
         primaryStage.show(); // Display the stage
         pane.widthProperty().addListener(ov -> pane.paint());
         pane.heightProperty().addListener(ov -> pane.paint());
