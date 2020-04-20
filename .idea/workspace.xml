@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.19 21 - update Unit 18">
+      <change afterPath="$PROJECT_DIR$/src/java_Unit19/java19_1_GenericStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -440,13 +441,9 @@
       <workItem from="1587302527350" duration="167000" />
       <workItem from="1587302741128" duration="159000" />
       <workItem from="1587302974098" duration="69000" />
-    </task>
-    <task id="LOCAL-00054" summary="3.21 14 - update 3.21 java class">
-      <created>1585636614338</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1585636614338</updated>
+      <workItem from="1587303068608" duration="425000" />
+      <workItem from="1587362581524" duration="1436000" />
+      <workItem from="1587373982230" duration="601000" />
     </task>
     <task id="LOCAL-00055" summary="3.31 15 - update 3.31 java class">
       <created>1585641172260</created>
@@ -784,7 +781,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587303019821</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="4.19 21 - update Unit 18">
+      <created>1587303179803</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1587303179803</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -857,10 +861,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="220" y="116" width="804" height="803" key="CommitChangelistDialog2" timestamp="1587303018041">
+    <state x="220" y="116" width="804" height="803" key="CommitChangelistDialog2" timestamp="1587303177741">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="220" y="116" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587303018041" />
+    <state x="220" y="116" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587303177741" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -930,10 +934,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1587231204001" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1587303021835">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1587303187069">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587303021835" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587303187069" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1587230174602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
