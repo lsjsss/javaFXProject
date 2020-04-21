@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.21 15 - update 4.21 class">
-      <change afterPath="$PROJECT_DIR$/src/java_Unit19/java19_6_MaxUsingGenericType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit13/Rational.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit13/java13_1_GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit13/java13_4TestGeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit19/java19_10_GenericMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit19/java19_11_IntegerMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit19/java19_12_RationalMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit19/java19_13_TestIntegerMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit19/java19_14_TestRationalMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_3_BoundedTypeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19/java19_3_BoundedTypeDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,20 +122,23 @@
     <property name="settings.editor.splitter.proportion" value="0.25848302" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Idea Project\javaFXProject\src\javafxsource" />
-      <recent name="E:\Idea Project\javaFXProject\src" />
-      <recent name="E:\Idea Project\javaFXProject" />
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="java_Unit13" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Idea Project\javaFXProject\src\image" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="javahomework" />
       <recent name="javaclass" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Idea Project\javaFXProject\src\image" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Idea Project\javaFXProject\src\javafxsource" />
+      <recent name="E:\Idea Project\javaFXProject\src" />
+      <recent name="E:\Idea Project\javaFXProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java19_4_GenericSort">
+  <component name="RunManager" selected="Application.java19_13_TestIntegerMatrix">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -217,13 +228,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java19_4_GenericSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit19.java19_4_GenericSort" />
+    <configuration name="java19_13_TestIntegerMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit19.java19_13_TestIntegerMatrix" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Unit19.java19_6_MaxUsingGenericType" />
+          <option name="PATTERN" value="java_Unit19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,13 +242,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_18_4_RecursivePalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit18.java_18_4_RecursivePalindrome" />
+    <configuration name="java19_4_GenericSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit19.java19_4_GenericSort" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Unit18.*" />
+          <option name="PATTERN" value="java_Unit19.java19_6_MaxUsingGenericType" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java19_13_TestIntegerMatrix" />
         <item itemvalue="Application.java19_4_GenericSort" />
         <item itemvalue="Application.java18_9_SierpinskiTriangle" />
         <item itemvalue="Application.java18_8_TowerOfHanoi" />
         <item itemvalue="Application.java18_7_DirectorySize" />
-        <item itemvalue="Application.java_18_4_RecursivePalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -446,14 +457,7 @@
       <workItem from="1587373982230" duration="986000" />
       <workItem from="1587439116180" duration="1989000" />
       <workItem from="1587447980989" duration="2913000" />
-      <workItem from="1587451671137" duration="3611000" />
-    </task>
-    <task id="LOCAL-00062" summary="4.9 13 - update for 4.7 class">
-      <created>1586409902618</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1586409902618</updated>
+      <workItem from="1587451671137" duration="12769000" />
     </task>
     <task id="LOCAL-00063" summary="4.10 12 - update for 4.10 class">
       <created>1586491465592</created>
@@ -791,7 +795,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587454230191</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="4.21 15 - update 4.21 class">
+      <created>1587455617550</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1587455617550</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -852,22 +863,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="419" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586762199930" />
-    <state x="383" y="269" key="#com.intellij.ide.util.MemberChooser" timestamp="1587221294839">
+    <state x="383" y="269" key="#com.intellij.ide.util.MemberChooser" timestamp="1587469414057">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="383" y="269" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1587221294839" />
+    <state x="383" y="269" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1587469414057" />
     <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1586609160758">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586609160758" />
+    <state x="629" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587465618238">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="629" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587465618238" />
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584786616102">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="220" y="116" width="804" height="803" key="CommitChangelistDialog2" timestamp="1587454229035">
+    <state x="220" y="116" width="804" height="803" key="CommitChangelistDialog2" timestamp="1587455615675">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="220" y="116" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587454229035" />
+    <state x="220" y="116" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587455615675" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -880,26 +895,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="134" key="GridCell.Tab.0.bottom" timestamp="1587231462864">
+    <state width="1877" height="134" key="GridCell.Tab.0.bottom" timestamp="1587460432050">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="134" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587231462864" />
-    <state width="1877" height="134" key="GridCell.Tab.0.center" timestamp="1587231462864">
+    <state width="1877" height="134" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587460432050" />
+    <state width="1877" height="134" key="GridCell.Tab.0.center" timestamp="1587460432050">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="134" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587231462864" />
-    <state width="1877" height="134" key="GridCell.Tab.0.left" timestamp="1587231462864">
+    <state width="1877" height="134" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587460432050" />
+    <state width="1877" height="134" key="GridCell.Tab.0.left" timestamp="1587460432050">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="134" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587231462864" />
-    <state width="1877" height="134" key="GridCell.Tab.0.right" timestamp="1587231462864">
+    <state width="1877" height="134" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587460432050" />
+    <state width="1877" height="134" key="GridCell.Tab.0.right" timestamp="1587460432050">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="134" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587231462864" />
+    <state width="1877" height="134" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587460432050" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -933,14 +948,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1161" y="270" width="540" height="524" key="StructurePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1584376792144" />
-    <state x="525" y="448" key="VCS.ChangelistChooser" timestamp="1587453919920">
+    <state x="525" y="448" key="VCS.ChangelistChooser" timestamp="1587455798957">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1587453919920" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1587454253754">
+    <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1587455798957" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1587455788113">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587454253754" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587455788113" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1587230174602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
