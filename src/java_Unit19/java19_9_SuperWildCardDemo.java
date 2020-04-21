@@ -12,7 +12,7 @@ public class java19_9_SuperWildCardDemo {
         java19_8_AnyWildCardDemo.print(stack2);
     }
 
-    public static void add(java19_1_GenericStack stack1, java19_1_GenericStack stack2) {
+    public static <T> void add(java19_1_GenericStack<T> stack1, java19_1_GenericStack<? super T> stack2) {
         while (!stack1.isEmpty()) {
             stack2.push(stack1.pop());
         }
