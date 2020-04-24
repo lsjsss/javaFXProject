@@ -2,7 +2,7 @@ package java_Unit20;
 
 import java.util.*;
 
-public class java_20_2_TestIterator {
+public class java20_2_TestIterator {
     public static void main(String[] args) {
         Collection<String> collection = new ArrayList<>();
         collection.add("New York");
