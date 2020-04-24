@@ -84,5 +84,3 @@ public class java19_04_GenericSort {
         System.out.println();
     }
 }
-
-
