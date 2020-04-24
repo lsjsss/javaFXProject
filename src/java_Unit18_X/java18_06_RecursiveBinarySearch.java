@@ -1,4 +1,4 @@
-package java_Unit18;
+package java_Unit18_X;
 
 public class java18_06_RecursiveBinarySearch {
     public static int recursiveBinarySearch(int[] list, int key) {

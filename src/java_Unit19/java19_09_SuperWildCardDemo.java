@@ -1,4 +1,4 @@
-package java_Unit19_X;
+package java_Unit19;
 
 /** ÏÂÏŞÍ¨Åä */
 public class java19_09_SuperWildCardDemo {

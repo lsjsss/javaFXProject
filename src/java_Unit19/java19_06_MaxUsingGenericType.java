@@ -1,4 +1,4 @@
-package java_Unit19_X;
+package java_Unit19;
 
 public class java19_06_MaxUsingGenericType {
     /** Return the maximum of two objects */

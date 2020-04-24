@@ -1,4 +1,4 @@
-package java_Unit19_X;
+package java_Unit19;
 
 public class java19_11_IntegerMatrix extends java19_10_GenericMatrix<Integer> {
     @Override /** Add two integers */

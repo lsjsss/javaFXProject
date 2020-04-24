@@ -1,4 +1,4 @@
-package java_Unit19_X;
+package java_Unit19;
 
 public abstract class java19_10_GenericMatrix<E extends Number> {
     /**

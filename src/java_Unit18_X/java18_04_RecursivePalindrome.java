@@ -1,4 +1,4 @@
-package java_Unit18;
+package java_Unit18_X;
 
 public class java18_04_RecursivePalindrome {
     public static boolean isPalindrome(String s) {
