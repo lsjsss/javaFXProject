@@ -1,6 +1,5 @@
 package java_Unit19;
 
-
 import java_Unit13.Rational;
 
 public class java19_14_TestRationalMatrix {
