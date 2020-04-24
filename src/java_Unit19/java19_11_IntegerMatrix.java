@@ -14,4 +14,3 @@ public class java19_11_IntegerMatrix extends java19_10_GenericMatrix<Integer> {
         return 0;
     }
 }
-
