@@ -10,7 +10,7 @@ public class java19_08_AnyWildCardDemo {
 
         print(intStack);
     }
-    /** Prints objects and empties the stack */
+    /** 打印对象并清空堆栈  Prints objects and empties the stack */
     // java19_1_GenericStack<Integer> 是 java19_1_GenericStack<?> 的子类
     /** 非受限通配 <?>   ? 代表为任意类型 */
     public static void print(java19_01_GenericStack<?> stack) {

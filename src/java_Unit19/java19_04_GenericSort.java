@@ -75,7 +75,7 @@ public class java19_04_GenericSort {
     }
 
     /**
-     * Print an array of objects
+     * 打印对象数组  Print an array of objects
      */
     public static void printList(Object[] list) {
         for (int i = 0; i < list.length; i++) {
