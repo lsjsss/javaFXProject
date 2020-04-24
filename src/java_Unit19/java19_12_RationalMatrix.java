@@ -16,5 +16,3 @@ class java19_12_RationalMatrix extends java19_10_GenericMatrix<Rational> {
         return new Rational(0, 1);
     }
 }
-//13-13
-
