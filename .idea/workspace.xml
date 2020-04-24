@@ -5,49 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.24 14 - update Unit20">
-      <change afterPath="$PROJECT_DIR$/src/java_Unit20/java20_05_GeometricObjectComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit20/java20_06_TestComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit20/java20_07_SortStringByLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit20/java20_08_SortStringIgnoreCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit20/java20_09_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit20/java20_10_TestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit20/java20_11_PriorityQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit20/java20_12_EvaluateExpression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_1_TestFileStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_01_TestFileStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_2_TestDataStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_02_TestDataStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_3_DetectEndOfFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_03_DetectEndOfFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_4_Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_04_Copy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_5_TestObjectOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_05_TestObjectOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_6_TestObjectInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_06_TestObjectInputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_7_TestObjectStreamForArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_07_TestObjectStreamForArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_8_TestRandomAccessFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBook_Binary_IO_Unit17/java17_08_TestRandomAccessFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit13/java13_1_GeometricObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit13/java13_01_GeometricObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit13/java13_4TestGeometricObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit13/java13_04_TestGeometricObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit18/java18_1_ComputerFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit18/java18_01_ComputerFactorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit18/java18_2_ComputeFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit18/java18_02_ComputeFibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit18/java18_3_RecursivePalindromeUsingSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit18/java18_03_RecursivePalindromeUsingSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit18/java18_4_RecursivePalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit18/java18_04_RecursivePalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit18/java18_5_RecursiveSelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit18/java18_05_RecursiveSelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit18/java18_6_RecursiveBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit18/java18_06_RecursiveBinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit18/java18_7_DirectorySize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit18/java18_07_DirectorySize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit18/java18_8_TowerOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit18/java18_08_TowerOfHanoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit18/java18_9_SierpinskiTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit18/java18_09_SierpinskiTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_10_GenericMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_10_GenericMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_11_IntegerMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_11_IntegerMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_12_RationalMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_12_RationalMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_13_TestIntegerMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_13_TestIntegerMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_14_TestRationalMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_14_TestRationalMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_1_GenericStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_01_GenericStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_2_GenericMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_02_GenericMethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_3_BoundedTypeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_03_BoundedTypeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_4_GenericSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_04_GenericSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_5_Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_05_Max.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_6_MaxUsingGenericType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_06_MaxUsingGenericType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_7_WildCardNeedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_07_WildCardNeedDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_8_AnyWildCardDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_08_AnyWildCardDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_9_SuperWildCardDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19_X/java19_09_SuperWildCardDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit20/java20_1_TestCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit20/java20_01_TestCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit20/java20_2_TestIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit20/java20_02_TestIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit20/java20_3_TestForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit20/java20_03_TestForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit20/java20_4_TestArrayAndLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit20/java20_04_TestArrayAndLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +132,7 @@
       <recent name="E:\Idea Project\javaFXProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java20_03_TestForEach">
+  <component name="RunManager" selected="Application.java20_12_EvaluateExpression">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -215,20 +176,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java18_09_SierpinskiTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit18.java18_09_SierpinskiTriangle" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -289,6 +236,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java20_12_EvaluateExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit20.java20_12_EvaluateExpression" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -322,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java20_12_EvaluateExpression" />
         <item itemvalue="Application.java20_03_TestForEach" />
         <item itemvalue="Application.java19_14_TestRationalMatrix" />
         <item itemvalue="Application.java19_13_TestIntegerMatrix" />
         <item itemvalue="Application.java19_04_GenericSort" />
-        <item itemvalue="Application.java18_09_SierpinskiTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -492,14 +453,7 @@
       <workItem from="1587447980989" duration="2913000" />
       <workItem from="1587451671137" duration="13151000" />
       <workItem from="1587532552767" duration="592000" />
-      <workItem from="1587693097456" duration="12040000" />
-    </task>
-    <task id="LOCAL-00068" summary="4.12 16 - update Unit 17">
-      <created>1586681184331</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1586681184331</updated>
+      <workItem from="1587693097456" duration="13247000" />
     </task>
     <task id="LOCAL-00069" summary="4.12 16 - update Unit 17">
       <created>1586681901703</created>
@@ -837,7 +791,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587708170232</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="4.24 14 - update Unit20">
+      <created>1587711100356</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1587711100356</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -914,10 +875,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="522" y="127" width="804" height="803" key="CommitChangelistDialog2" timestamp="1587708167841">
+    <state x="522" y="127" width="804" height="803" key="CommitChangelistDialog2" timestamp="1587711095110">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="522" y="127" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587708167841" />
+    <state x="522" y="127" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587711095110" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -930,26 +891,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="134" key="GridCell.Tab.0.bottom" timestamp="1587707677277">
+    <state width="1877" height="134" key="GridCell.Tab.0.bottom" timestamp="1587712019208">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="134" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587707677277" />
-    <state width="1877" height="134" key="GridCell.Tab.0.center" timestamp="1587707677277">
+    <state width="1877" height="134" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587712019208" />
+    <state width="1877" height="134" key="GridCell.Tab.0.center" timestamp="1587712019208">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="134" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587707677277" />
-    <state width="1877" height="134" key="GridCell.Tab.0.left" timestamp="1587707677277">
+    <state width="1877" height="134" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587712019208" />
+    <state width="1877" height="134" key="GridCell.Tab.0.left" timestamp="1587712019208">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="134" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587707677277" />
-    <state width="1877" height="134" key="GridCell.Tab.0.right" timestamp="1587707677277">
+    <state width="1877" height="134" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587712019208" />
+    <state width="1877" height="134" key="GridCell.Tab.0.right" timestamp="1587712019208">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="134" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587707677277" />
+    <state width="1877" height="134" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587712019208" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -987,10 +948,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1587455798957" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1587708177911">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1587711104454">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587708177911" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587711104454" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1587230174602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
