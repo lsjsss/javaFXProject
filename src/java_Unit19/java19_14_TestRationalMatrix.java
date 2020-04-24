@@ -5,7 +5,7 @@ import java_Unit13.Rational;
 
 public class java19_14_TestRationalMatrix {
     public static void main(String[] args) {
-// Create two Rational arrays m1 and m2
+        // Create two Rational arrays m1 and m2
         Rational[][] m1 = new Rational[3][3];
         Rational[][] m2 = new Rational[3][3];
         for (int i = 0; i < m1.length; i++) {
