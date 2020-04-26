@@ -4,16 +4,385 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.24 15 - update Unit 19 Translate">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.25 00 - update Unit 19 Translate">
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/META-INF/javaFXProject.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/RegularPolygonPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java3_19_ShowThreeCards_Homewoke.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java3_19_ShowThreeCards_Homework_FromCSDN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_12_Homework_Exercise15_04Extra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13Homework_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13Homework_11$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13Homework_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Exercise16_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Exercise16_02$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Exercise16_02$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Exercise16_02$LogicEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Exercise16_02$NumberEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Exercise16_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Homework_3$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Homework_3$LogicEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Homework_3$NumberEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Homework_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Homework_Exercise16$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Homework_Exercise16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java_Unit17_Contacts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_Binary_IO_Unit17/java17_01_TestFileStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_Binary_IO_Unit17/java17_02_TestDataStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_Binary_IO_Unit17/java17_03_DetectEndOfFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_Binary_IO_Unit17/java17_04_Copy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_Binary_IO_Unit17/java17_05_TestObjectOutputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_Binary_IO_Unit17/java17_06_TestObjectInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_Binary_IO_Unit17/java17_07_TestObjectStreamForArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_Binary_IO_Unit17/java17_08_TestRandomAccessFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_Binary_IO_Unit17/javaclass_TestFileInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_Binary_IO_Unit17/javaclass_TestFileOutputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/CancelHandlerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/CirclePane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/LinePain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/OKHandlerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/ShowInnerClass$InnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/ShowInnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/T1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/T2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/T3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/L9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/TICTACTOE.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/ca.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/caIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/canada.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/b1fh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/b2fh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/b2fv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/card/backCard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/center.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/centerAlignment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/china.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/chinaIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/correct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/denmark.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/denmarkIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flag0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flag1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flag16.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flag2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flag3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flag4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flag5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flag6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flag7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flag8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flag9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flagIcon0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flagIcon1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flagIcon2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flagIcon3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flagIcon4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flagIcon5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/flagIcon6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/fr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/france.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/germany.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/germany.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/germanyIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/grapes.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/horizontalRuler.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/illinoisMap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/india.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/india.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/indianaMap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/intro1e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/intro2e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/intro3e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/introjb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/introjb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/introvj6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/knight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/leftAlignment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/malaysia.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/malaysia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/my.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/noanswer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/norway.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/norway.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/o.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/ohioMap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/open.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/person.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/photo0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/photo1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/photo2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/photo3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/photo4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/photo5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/photo6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/photo7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/print.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/queen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/radjb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/radjb5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/rbs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/rightAlignment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/save.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/slide9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/uk.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/uk.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/ukIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/us.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/usIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/usa.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/verticalRuler.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/wrong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/image/x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_01_MyJavaFX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_02_4_Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_02_MultipeStageDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_03_ButtonPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_04_ShowCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_05_ShowCircleCentered.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_06_BindingDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_07_NodeStyleRotateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_08_FoneDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_09_ShowImage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_10_ShowFlowPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_11_ShowGridPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_12_ShowBorderPane$CustomPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_12_ShowBorderPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_13_ShowHBoxVBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_14_ShowText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_15_ShowLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_16_ShowRectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_17_ShowEllipse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_18_ShowArt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_19_ShowPolygon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_20_DisplayClock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_20_DisplayClock_Tests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_21_ClockPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java14_21_ClockPane_Tests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_01_HandleEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_02_ControlCircleWithoutEvenHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_03_ControlCircle$EnlargeHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_03_ControlCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_04_AnonymousHandlerDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_04_AnonymousHandlerDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_04_AnonymousHandlerDemo$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_04_AnonymousHandlerDemo$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_04_AnonymousHandlerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_05_13_Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_05_LambdaHandlerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_06_LoanCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_07_MouseEventDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_08_KeyEventDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_08_KeyEventDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_09_ControWithMouseAndKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_10_ObservablePropertyDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_10_ObservablePropertyDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_11_DisplayResizableClock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_12_PathTransitionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_13_FlagRisingAnimation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_14_FadeTransitionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_15_TimelineDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_16_ClockAnimation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_16_ClockAnimation_AddTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_17_BallPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java15_18_BounceBallControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_10_ScrollBarDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_11_SliderDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_12_BounceBallSlider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_13_TicTacToe$Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_13_TicTacToe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_14_MediaDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_15_FlagAnthem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_1_LabelWithGraphic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_2_ButtonDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_3_CheckBoxDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_4_RadioButtonDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_5_TextFiledDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_6_DescriptionPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_7_TextAreaDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_8_ComboBoxDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java16_9_ListViewDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java3_27_ClassCode_ButtonEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaBook_JavaFX_Unit14_15_16/java3_31_classCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit13/Rational.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit13/java13_01_GeometricObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit13/java13_04_TestGeometricObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit18_X/java18_01_ComputerFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit18_X/java18_02_ComputeFibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit18_X/java18_03_RecursivePalindromeUsingSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit18_X/java18_04_RecursivePalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit18_X/java18_05_RecursiveSelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit18_X/java18_06_RecursiveBinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit18_X/java18_07_DirectorySize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit18_X/java18_08_TowerOfHanoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit18_X/java18_09_SierpinskiTriangle$SierpinskiTrianglePane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit18_X/java18_09_SierpinskiTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit18_X/java18_10_ComputeFactorialTailRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_01_GenericStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_02_GenericMethodDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_03_BoundedTypeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_04_GenericSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_05_Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_06_MaxUsingGenericType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_07_WildCardNeedDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_08_AnyWildCardDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_09_SuperWildCardDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_10_GenericMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_11_IntegerMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_12_RationalMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_13_TestIntegerMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit19/java19_14_TestRationalMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_01_TestCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_02_TestIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_03_TestForEach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_04_TestArrayAndLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_05_GeometricObjectComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_06_TestComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_07_SortStringByLength$MyComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_07_SortStringByLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_08_SortStringIgnoreCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_09_MultipleBounceBall$Ball.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_09_MultipleBounceBall$MultipleBallPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_09_MultipleBounceBall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_10_TestQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_11_PriorityQueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java20_12_EvaluateExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java4_26class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit20/java4_26class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_04_GenericSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19/java19_04_GenericSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_05_Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19/java19_05_Max.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_06_MaxUsingGenericType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19/java19_06_MaxUsingGenericType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_07_WildCardNeedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19/java19_07_WildCardNeedDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_08_AnyWildCardDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19/java19_08_AnyWildCardDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_11_IntegerMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19/java19_11_IntegerMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_13_TestIntegerMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19/java19_13_TestIntegerMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit19/java19_14_TestRationalMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit19/java19_14_TestRationalMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit20/java20_04_TestArrayAndLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit20/java20_04_TestArrayAndLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +506,7 @@
       <recent name="E:\Idea Project\javaFXProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java4_13_Homework_Exercise16">
+  <component name="RunManager" selected="Application.java4_26class">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -181,20 +550,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java19_13_TestIntegerMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit19.java19_13_TestIntegerMatrix" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -255,6 +610,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java4_26class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit20.java4_26class" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -288,11 +657,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java4_26class" />
         <item itemvalue="Application.java4_13_Homework_Exercise16" />
         <item itemvalue="Application.java20_12_EvaluateExpression" />
         <item itemvalue="Application.java20_03_TestForEach" />
         <item itemvalue="Application.java19_14_TestRationalMatrix" />
-        <item itemvalue="Application.java19_13_TestIntegerMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -460,14 +829,8 @@
       <workItem from="1587532552767" duration="592000" />
       <workItem from="1587693097456" duration="15088000" />
       <workItem from="1587745672834" duration="226000" />
-      <workItem from="1587746892766" duration="321000" />
-    </task>
-    <task id="LOCAL-00076" summary="4.13 01 - update java homework">
-      <created>1586711646303</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1586711646303</updated>
+      <workItem from="1587746892766" duration="789000" />
+      <workItem from="1587881022180" duration="4807000" />
     </task>
     <task id="LOCAL-00077" summary="4.13 12 - update java 4.13 homework">
       <created>1586751131534</created>
@@ -805,7 +1168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587713920507</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="4.25 00 - update Unit 19 Translate">
+      <created>1587747274918</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1587747274919</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -814,7 +1184,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="4.13 15 - update java 4.13 class" />
     <MESSAGE value="4.14 23 - update java 4.13 Homework and javabook code clear" />
     <MESSAGE value="4.14 23 - update java 4.13 code clear" />
     <MESSAGE value="4.15 00 - update java 4.13 code clear" />
@@ -839,7 +1208,8 @@
     <MESSAGE value="4.24 15 - update Unit20" />
     <MESSAGE value="4.24 15 - update Unit20 Translate" />
     <MESSAGE value="4.24 15 - update Unit 19 Translate" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.24 15 - update Unit 19 Translate" />
+    <MESSAGE value="4.25 00 - update Unit 19 Translate" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.25 00 - update Unit 19 Translate" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -882,10 +1252,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="522" y="127" width="804" height="803" key="CommitChangelistDialog2" timestamp="1587713918373">
+    <state x="522" y="127" width="804" height="803" key="CommitChangelistDialog2" timestamp="1587747262330">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="522" y="127" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587713918373" />
+    <state x="522" y="127" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587747262330" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -898,26 +1268,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="134" key="GridCell.Tab.0.bottom" timestamp="1587713953906">
+    <state width="1877" height="120" key="GridCell.Tab.0.bottom" timestamp="1587886657258">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="134" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587713953906" />
-    <state width="1877" height="134" key="GridCell.Tab.0.center" timestamp="1587713953905">
+    <state width="1877" height="120" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587886657258" />
+    <state width="1877" height="120" key="GridCell.Tab.0.center" timestamp="1587886657258">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="134" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587713953905" />
-    <state width="1877" height="134" key="GridCell.Tab.0.left" timestamp="1587713953905">
+    <state width="1877" height="120" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587886657258" />
+    <state width="1877" height="120" key="GridCell.Tab.0.left" timestamp="1587886657258">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="134" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587713953905" />
-    <state width="1877" height="134" key="GridCell.Tab.0.right" timestamp="1587713953905">
+    <state width="1877" height="120" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587886657258" />
+    <state width="1877" height="120" key="GridCell.Tab.0.right" timestamp="1587886657258">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="134" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587713953905" />
+    <state width="1877" height="120" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587886657258" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -955,10 +1325,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1587712705546" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1587713921864">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1587747314965">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587713921864" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587747314965" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1587230174602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
