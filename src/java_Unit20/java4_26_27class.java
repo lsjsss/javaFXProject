@@ -2,7 +2,7 @@ package java_Unit20;
 
 import java.util.ArrayList;
 
-public class java4_26class {
+public class java4_26_27class {
     public static void main(String[] args) {
         //创建一个集合，添加进几个元素  泛型类
         ArrayList<String> al = new ArrayList<>();
@@ -71,5 +71,32 @@ public class java4_26class {
         for (int i = 0; i < s.length; i++) {
             System.out.println(s[i]);
         }
+
+        //println能够输出各种数据类型、集合，但不能输出数组
+        String[] a = {"北京","上海","呼和浩特"};
+
+        ArrayList<String> al5 = new ArrayList<>();
+        al5.add("name1");
+        al5.add("name2");
+        al5.add("name3");
+        al5.add("name4");
+        al5.add("name5");
+        al5.add("name1");
+        System.out.println(al5);
+
+        System.out.println("indexOf 顺序查找对象的下标" + al5.indexOf("name1"));
+        System.out.println("lastIndexOf 倒序查找对象的下标" + al5.lastIndexOf("name1"));
+
+        //修改元素
+        al5.set(5, "name6");
+        System.out.println(al5);
+
+        //删除 某个下标位置 的元素
+        al5.remove(3);
+        System.out.println(al5);
+
+        System.out.println(al5.subList(1, 4));
+
+
     }
 }
