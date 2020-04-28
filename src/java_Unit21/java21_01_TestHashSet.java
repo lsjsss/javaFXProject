@@ -4,7 +4,7 @@ import java.util.*;
 
 public class java21_01_TestHashSet {
   public static void main(String[] args) {
-    // Create a hash set
+    // 创建一个哈希集 Create a hash set
     Set<String> set = new HashSet<>();
 
     // Add strings to the set
@@ -17,12 +17,12 @@ public class java21_01_TestHashSet {
 
     System.out.println(set);
 
-    // Display the elements in the hash set
+    // 显示哈希集中的元素 display the elements in the hash set
     for (String s: set) {
       System.out.print(s.toUpperCase() + " ");
     }
     
-    // Process the elements using a forEach method
+    // 使用forEach方法处理元素 Process the elements using a forEach method
     System.out.println();
     set.forEach(e -> System.out.print(e.toLowerCase() + " "));
   }

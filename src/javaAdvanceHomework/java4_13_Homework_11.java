@@ -12,7 +12,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
-public class java4_13Homework_11 extends Application {
+public class java4_13_Homework_11 extends Application {
     TextField type1;
     TextField type2 = new TextField();
     TextArea log = new TextArea("计算结果记录:\n");

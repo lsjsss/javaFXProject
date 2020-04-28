@@ -1,8 +1,8 @@
-package java_Unit19;
+package javaAdvanceHomework;
 
 import java.util.ArrayList;
 
-public class select {
+public class java4_18_select {
     public static void main(String[] args) {
         //集合中 11 个题目
         ArrayList<String> al = new ArrayList<>();

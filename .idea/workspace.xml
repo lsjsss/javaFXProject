@@ -4,18 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.28 21 - update Unit21 Unit22">
-      <change afterPath="$PROJECT_DIR$/src/java_Unit24/java24_01_MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit24/java24_03_MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit24/java24_04_TestMyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit24/java24_05_TestMyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit24/java24_06_MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit24/java24_07_GenericQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit24/java24_08_TestStackQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit24/java24_09_MyPriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit24/java24_10_TestPriorityQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.28 21 - update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -232,13 +221,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java4_28_Exercise19_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit19.java4_28_Exercise19_4" />
+    <configuration name="java4_18_select" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAdvanceHomework.java4_18_select" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Unit19.*" />
+          <option name="PATTERN" value="javaAdvanceHomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,13 +235,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="select" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit19.select" />
+    <configuration name="java4_28_Exercise19_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAdvanceHomework.java4_28_Exercise19_4" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Unit19.*" />
+          <option name="PATTERN" value="javaAdvanceHomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,7 +283,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.java4_28_Exercise19_4" />
-        <item itemvalue="Application.select" />
+        <item itemvalue="Application.java4_18_select" />
         <item itemvalue="Application.java15_16_ClockAnimation_AddTests" />
         <item itemvalue="Application.java14_20_DisplayClock_Tests" />
         <item itemvalue="Application.java20_02_TestIterator" />
@@ -475,21 +464,7 @@
       <workItem from="1588062277253" duration="592000" />
       <workItem from="1588064545102" duration="584000" />
       <workItem from="1588070335667" duration="185000" />
-      <workItem from="1588075410426" duration="3044000" />
-    </task>
-    <task id="LOCAL-00082" summary="4.17 00 - update java 4.13 code clear">
-      <created>1587053187653</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1587053187653</updated>
-    </task>
-    <task id="LOCAL-00083" summary="4.17 00 - update java 4.14 Homework">
-      <created>1587054528592</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1587054528592</updated>
+      <workItem from="1588075410426" duration="3793000" />
     </task>
     <task id="LOCAL-00084" summary="4.17 00 - update java 4.14 Homework">
       <created>1587054733965</created>
@@ -820,7 +795,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588080661862</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="4.28 21 - update Unit24">
+      <created>1588081009821</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1588081009821</updated>
+    </task>
+    <task id="LOCAL-00132" summary="4.28 21 - update">
+      <created>1588081155023</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1588081155023</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -829,8 +818,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="4.17 10 - update java 4.17 Class" />
-    <MESSAGE value="4.17 11 - update java 4.17 Class" />
     <MESSAGE value="4.17 19 - update java 4.17 Class" />
     <MESSAGE value="4.18 01 - update java 4.17 Class" />
     <MESSAGE value="4.19 00 - update Contacts" />
@@ -854,7 +841,9 @@
     <MESSAGE value="4.28 17 - update java 4.28 class" />
     <MESSAGE value="4.28 21 - update Unit21 Unit22" />
     <MESSAGE value="4.28 21 - update Unit23" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.28 21 - update Unit23" />
+    <MESSAGE value="4.28 21 - update Unit24" />
+    <MESSAGE value="4.28 21 - update" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.28 21 - update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -897,10 +886,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="192" y="103" width="804" height="803" key="CommitChangelistDialog2" timestamp="1588080659752">
+    <state x="192" y="103" width="804" height="803" key="CommitChangelistDialog2" timestamp="1588081151760">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="192" y="103" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1588080659752" />
+    <state x="192" y="103" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1588081151760" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -970,10 +959,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1588079087453" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1588080720040">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1588081157602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1588080720040" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1588081157602" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1587230174602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

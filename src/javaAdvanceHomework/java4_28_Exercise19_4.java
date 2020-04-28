@@ -1,4 +1,4 @@
-package java_Unit19;
+package javaAdvanceHomework;
 //6组 - 19.4 实现对泛型类型的线性搜索
 import java.util.Scanner;
 
