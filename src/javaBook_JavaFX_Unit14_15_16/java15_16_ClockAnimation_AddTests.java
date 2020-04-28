@@ -15,9 +15,9 @@ import javafx.util.Duration;
 public class java15_16_ClockAnimation_AddTests extends Application {
     @Override
     public void start(Stage primaryStage) {
-        //åˆ›å»ºä¸€ä¸ªæ—¶é’Ÿ å½¢çŠ¶
+        //´´½¨Ò»¸öÊ±ÖÓ ĞÎ×´
         java14_21_ClockPane_Tests clock = new java14_21_ClockPane_Tests();
-        String timeString = "åŒ—äº¬æ—¶é—´  " + clock.getHour() + ":" + clock.getMinute() + ":" + clock.getSecond();
+        String timeString = "±±¾©Ê±¼ä  " + clock.getHour() + ":" + clock.getMinute() + ":" + clock.getSecond();
         Label lblCurrentTime = new Label(timeString);
 
         BorderPane pane = new BorderPane();
@@ -30,9 +30,9 @@ public class java15_16_ClockAnimation_AddTests extends Application {
         };
 
         Timeline animation = new Timeline(
-                //å‘¨æœŸï¼š1000ms
+                //ÖÜÆÚ£º1000ms
                 new KeyFrame(Duration.millis(1000), eventHandler));
-        //è®¾ç½®åŠ¨ç”»å¾ªç¯æ¬¡æ•°                æ— é™æ¬¡å¾ªç¯
+        //ÉèÖÃ¶¯»­Ñ­»·´ÎÊı                ÎŞÏŞ´ÎÑ­»·
         animation.setCycleCount(Timeline.INDEFINITE);
         animation.play();
 
