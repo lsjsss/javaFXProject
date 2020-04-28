@@ -2,7 +2,7 @@ package java_Unit22;
 
 import java.util.Scanner;
 
-public class java22_5_PrimeNumbers {
+public class java22_05_PrimeNumbers {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.print("Find all prime numbers <= n, enter n: ");

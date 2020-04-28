@@ -1,14 +1,14 @@
 package java_Unit23;
 
-public class java23_9_Heap<E extends Comparable> {
+public class java23_09_Heap<E extends Comparable> {
   private java.util.ArrayList<E> list = new java.util.ArrayList<E>();
 
   /** Create a default heap */
-  public java23_9_Heap() {
+  public java23_09_Heap() {
   }
 
   /** Create a heap from an array of objects */
-  public java23_9_Heap(E[] objects) {
+  public java23_09_Heap(E[] objects) {
     for (int i = 0; i < objects.length; i++)
       add(objects[i]);
   }

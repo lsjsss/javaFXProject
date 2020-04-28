@@ -2,7 +2,7 @@ package java_Unit22;
 
 import java.util.Scanner;
 
-public class java22_2_ImprovedFibonacci {
+public class java22_02_ImprovedFibonacci {
   /** Main method */
   public static void main(String[] args) {
     // Create a Scanner

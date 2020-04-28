@@ -1,6 +1,6 @@
 package java_Unit23;
 
-public class java23_1_InsertionSort {
+public class java23_01_InsertionSort {
   /** The method for sorting the numbers */
   public static void insertionSort(double[] list) {
     for (int i = 1; i < list.length; i++) {

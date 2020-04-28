@@ -2,7 +2,7 @@ package java_Unit21;
 
 import java.util.*;
 
-public class java21_9_CountOccurrenceOfWords {
+public class java21_09_CountOccurrenceOfWords {
   public static void main(String[] args) {
     // Set text in a string
     String text = "Good morning. Have a good class. " +

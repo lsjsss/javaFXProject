@@ -1,6 +1,6 @@
 package java_Unit23;
 
-public class java23_4_BubbleSort {
+public class java23_04_BubbleSort {
   /** Bubble sort method */
   public static void bubbleSort(int[] list) {
     boolean needNextPass = true;

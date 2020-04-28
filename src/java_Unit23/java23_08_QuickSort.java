@@ -1,6 +1,6 @@
 package java_Unit23;
 
-public class java23_8_QuickSort {
+public class java23_08_QuickSort {
   public static void quickSort(int[] list) {
     quickSort(list, 0, list.length - 1);
   }

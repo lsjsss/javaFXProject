@@ -2,11 +2,11 @@ package java_Unit21;
 
 import java.util.*;
 
-public class java21_3_TestLinkedHashSet {
+public class java21_01_TestHashSet {
   public static void main(String[] args) {
     // Create a hash set
-    Set<String> set = new LinkedHashSet<>();
-    
+    Set<String> set = new HashSet<>();
+
     // Add strings to the set
     set.add("London");
     set.add("Paris");
@@ -18,7 +18,12 @@ public class java21_3_TestLinkedHashSet {
     System.out.println(set);
 
     // Display the elements in the hash set
-    for (String element: set)
-      System.out.print(element.toLowerCase() + " ");
+    for (String s: set) {
+      System.out.print(s.toUpperCase() + " ");
+    }
+    
+    // Process the elements using a forEach method
+    System.out.println();
+    set.forEach(e -> System.out.print(e.toLowerCase() + " "));
   }
-} 
+}

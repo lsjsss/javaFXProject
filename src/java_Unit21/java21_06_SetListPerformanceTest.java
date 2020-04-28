@@ -2,7 +2,7 @@ package java_Unit21;
 
 import java.util.*;
 
-public class java21_6_SetListPerformanceTest {
+public class java21_06_SetListPerformanceTest {
   static final int N = 50000;
   
   public static void main(String[] args) {  

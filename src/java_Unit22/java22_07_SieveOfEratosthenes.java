@@ -2,7 +2,7 @@ package java_Unit22;
 
 import java.util.Scanner;
 
-public class java22_7_SieveOfEratosthenes {
+public class java22_07_SieveOfEratosthenes {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.print("Find all prime numbers <= n, enter n: ");

@@ -1,6 +1,6 @@
 package java_Unit22;
 
-public class java22_1_PerformanceTest {
+public class java22_01_PerformanceTest {
   public static void main(String[] args) {
     getTime(1000000);
     getTime(10000000);

@@ -4,7 +4,7 @@ public class java23_10_HeapSort {
   /** Heap sort method */
   public static <E extends Comparable> void heapSort(E[] list) {
     // Create a Heap of integers
-    java23_9_Heap<E> heap = new java23_9_Heap<E>();
+    java23_09_Heap<E> heap = new java23_09_Heap<E>();
 
     // Add elements to the heap
     for (int i = 0; i < list.length; i++)

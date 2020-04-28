@@ -3,7 +3,7 @@ package java_Unit21;
 import java.util.*;
 import java.io.*;
 
-public class java21_7_CountKeywords {
+public class java21_07_CountKeywords {
   public static void main(String[] args) throws Exception {  
     Scanner input = new Scanner(System.in);
     System.out.print("Enter a Java source file: ");

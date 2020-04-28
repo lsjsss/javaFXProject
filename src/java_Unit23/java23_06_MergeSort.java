@@ -1,6 +1,6 @@
 package java_Unit23;
 
-public class java23_6_MergeSort {
+public class java23_06_MergeSort {
   /** The method for sorting the numbers */
   public static void mergeSort(int[] list) {
     if (list.length > 1) {

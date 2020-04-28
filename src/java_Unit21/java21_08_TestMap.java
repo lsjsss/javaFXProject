@@ -2,7 +2,7 @@ package java_Unit21;
 
 import java.util.*;
 
-public class java21_8_TestMap {
+public class java21_08_TestMap {
   public static void main(String[] args) {
     // Create a HashMap
     Map<String, Integer> hashMap = new HashMap<>();

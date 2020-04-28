@@ -6,7 +6,7 @@ import chapter13.Rectangle;
 import chapter20.GeometricObjectComparator;
 import java.util.*;
 
-public class java21_5_TestTreeSetWithComparator {
+public class java21_05_TestTreeSetWithComparator {
   public static void main(String[] args) {
     // Create a tree set for geometric objects using a comparator
     Set<GeometricObject> set =
