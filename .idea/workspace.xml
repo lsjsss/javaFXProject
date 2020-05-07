@@ -4,7 +4,17 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.28 21 - update" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="4.28 21 - update">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13Homework_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13Homework_11$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13Homework_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit21/java21_05_TestTreeSetWithComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit21/java21_05_TestTreeSetWithComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit24/java24_08_TestStackQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit24/java24_08_TestStackQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit24/java24_09_MyPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit24/java24_09_MyPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit24/java24_10_TestPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit24/java24_10_TestPriorityQueue.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,6 +101,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -103,7 +114,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -131,7 +142,7 @@
       <recent name="E:\Idea Project\javaFXProject\src\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java4_28_Exercise19_4">
+  <component name="RunManager" selected="Application.java16_4_RadioButtonDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -179,8 +190,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java14_20_DisplayClock_Tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBook_JavaFX_Unit14_15_16.java14_20_DisplayClock_Tests" />
+    <configuration name="java15_15_TimelineDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBook_JavaFX_Unit14_15_16.java15_15_TimelineDemo" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -193,8 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java15_16_ClockAnimation_AddTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBook_JavaFX_Unit14_15_16.java15_16_ClockAnimation_AddTests" />
+    <configuration name="java16_11_SliderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBook_JavaFX_Unit14_15_16.java16_11_SliderDemo" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -207,13 +218,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java20_02_TestIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit20.java20_02_TestIterator" />
+    <configuration name="java16_2_ButtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBook_JavaFX_Unit14_15_16.java16_2_ButtonDemo" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Unit20.*" />
+          <option name="PATTERN" value="javaBook_JavaFX_Unit14_15_16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,13 +232,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java4_18_select" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaAdvanceHomework.java4_18_select" />
+    <configuration name="java16_4_RadioButtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBook_JavaFX_Unit14_15_16.java16_4_RadioButtonDemo" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaAdvanceHomework.*" />
+          <option name="PATTERN" value="javaBook_JavaFX_Unit14_15_16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java16_4_RadioButtonDemo" />
+        <item itemvalue="Application.java16_2_ButtonDemo" />
+        <item itemvalue="Application.java15_15_TimelineDemo" />
+        <item itemvalue="Application.java16_11_SliderDemo" />
         <item itemvalue="Application.java4_28_Exercise19_4" />
-        <item itemvalue="Application.java4_18_select" />
-        <item itemvalue="Application.java15_16_ClockAnimation_AddTests" />
-        <item itemvalue="Application.java14_20_DisplayClock_Tests" />
-        <item itemvalue="Application.java20_02_TestIterator" />
       </list>
     </recent_temporary>
   </component>
@@ -464,14 +475,10 @@
       <workItem from="1588062277253" duration="592000" />
       <workItem from="1588064545102" duration="584000" />
       <workItem from="1588070335667" duration="185000" />
-      <workItem from="1588075410426" duration="3793000" />
-    </task>
-    <task id="LOCAL-00084" summary="4.17 00 - update java 4.14 Homework">
-      <created>1587054733965</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1587054733965</updated>
+      <workItem from="1588075410426" duration="4046000" />
+      <workItem from="1588169527267" duration="201000" />
+      <workItem from="1588394887407" duration="46000" />
+      <workItem from="1588844851384" duration="5694000" />
     </task>
     <task id="LOCAL-00085" summary="4.17 10 - update java 4.17 Class">
       <created>1587091269799</created>
@@ -809,7 +816,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588081155023</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="4.28 21 - update">
+      <created>1588081954545</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1588081954545</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -862,6 +876,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="165" key="#Plugins/0.0.1920.1050@0.0.1920.1050" timestamp="1586611694445" />
+    <state x="-35" y="133" key="#Project_Structure" timestamp="1588845068157">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-35" y="133" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1588845068157" />
     <state x="1170" y="283" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585571457684">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -886,42 +904,42 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="192" y="103" width="804" height="803" key="CommitChangelistDialog2" timestamp="1588081151760">
+    <state x="192" y="103" width="804" height="803" key="CommitChangelistDialog2" timestamp="1588081950899">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="192" y="103" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1588081151760" />
+    <state x="192" y="103" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1588081950899" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="0" y="90" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584621334054" />
-    <state x="504" y="222" key="FileChooserDialogImpl" timestamp="1586914477201">
+    <state x="504" y="222" key="FileChooserDialogImpl" timestamp="1588845704813">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="504" y="222" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586914477201" />
+    <state x="504" y="222" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1588845704813" />
     <state x="819" y="415" key="Github.ShareDialog" timestamp="1584340175443">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="155" key="GridCell.Tab.0.bottom" timestamp="1588060413161">
+    <state width="1877" height="155" key="GridCell.Tab.0.bottom" timestamp="1588863182100">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="155" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1588060413161" />
-    <state width="1877" height="155" key="GridCell.Tab.0.center" timestamp="1588060413161">
+    <state width="1877" height="155" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1588863182100" />
+    <state width="1877" height="155" key="GridCell.Tab.0.center" timestamp="1588863182100">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="155" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1588060413161" />
-    <state width="1877" height="155" key="GridCell.Tab.0.left" timestamp="1588060413161">
+    <state width="1877" height="155" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1588863182100" />
+    <state width="1877" height="155" key="GridCell.Tab.0.left" timestamp="1588863182100">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="155" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1588060413161" />
-    <state width="1877" height="155" key="GridCell.Tab.0.right" timestamp="1588060413161">
+    <state width="1877" height="155" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1588863182100" />
+    <state width="1877" height="155" key="GridCell.Tab.0.right" timestamp="1588863182100">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="155" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1588060413161" />
+    <state width="1877" height="155" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1588863182100" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -959,10 +977,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1588079087453" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1588081157602">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1588081957079">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1588081157602" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1588081957079" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1587230174602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -971,6 +989,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="951" y="135" width="647" height="786" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1584712104552" />
+    <state x="-80" y="76" width="1251" height="782" key="new project wizard" timestamp="1588845706984">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-80" y="76" width="1251" height="782" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1588845706984" />
     <state x="661" y="280" key="refactoring.ChangeSignatureDialog" timestamp="1587448289192">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

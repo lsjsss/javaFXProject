@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../PTAtest/PTAtest.iml" filepath="$PROJECT_DIR$/../PTAtest/PTAtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDKaip/SDKaip.iml" filepath="$PROJECT_DIR$/SDKaip/SDKaip.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaFXProject.iml" filepath="$PROJECT_DIR$/javaFXProject.iml" />
     </modules>
   </component>
