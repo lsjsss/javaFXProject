@@ -18,7 +18,7 @@ public class java16_8_ComboBoxDemo extends Application {
             "Germany", "India", "Norway", "United Kingdom",
             "United States of America"};
 
-    //图片数组
+    /** 图片数组 */
     private ImageView[] flagImage = {
             new ImageView("javaBook_JavaFX_Unit14_15_16/image/ca.gif"),
             new ImageView("javaBook_JavaFX_Unit14_15_16/image/china.gif"),
