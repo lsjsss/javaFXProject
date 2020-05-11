@@ -21,9 +21,9 @@ public class java20_09_MultipleBounceBall extends Application {
     @Override // Override the start method in the Application class
     public void start(Stage primaryStage) {
         MultipleBallPane ballPane = new MultipleBallPane();
-        ballPane.setStyle("?fx?border?color: yellow");
+        ballPane.setStyle("-fx-border-color: yellow");
         Button btAdd = new Button("+");
-        Button btSubtract = new Button("?");
+        Button btSubtract = new Button("-");
         HBox hBox = new HBox(10);
         hBox.getChildren().addAll(btAdd, btSubtract);
         hBox.setAlignment(Pos.CENTER);
