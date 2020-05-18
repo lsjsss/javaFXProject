@@ -4,10 +4,10 @@ import java.util.*;
 
 public class java21_03_TestLinkedHashSet {
   public static void main(String[] args) {
-    // Create a hash set
+    // 创建一个哈希集 Create a hash set
     Set<String> set = new LinkedHashSet<>();
     
-    // Add strings to the set
+    // 将字符串添加到集合中 Add strings to the set
     set.add("London");
     set.add("Paris");
     set.add("New York");
@@ -17,8 +17,11 @@ public class java21_03_TestLinkedHashSet {
 
     System.out.println(set);
 
-    // Display the elements in the hash set
-    for (String element: set)
-      System.out.print(element.toLowerCase() + " ");
+    // 显示哈希集中的元素 Display the elements in the hash set
+    // 不是构造方法
+    Iterator<String> iterator = set.iterator();
+    while (iterator.hasNext()) {
+      System.out.println(iterator.next());
+    }
   }
 } 
