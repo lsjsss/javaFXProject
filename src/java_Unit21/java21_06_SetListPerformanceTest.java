@@ -2,15 +2,18 @@ package java_Unit21;
 
 import java.util.*;
 
+/** Set 效率高于 ArrayList */
 public class java21_06_SetListPerformanceTest {
   static final int N = 50000;
   
   public static void main(String[] args) {  
     // Add numbers 0, 1, 2, ..., N - 1 to the array list
     List<Integer> list = new ArrayList<>();
-    for (int i = 0; i < N; i++)
+    for (int i = 0; i < N; i++) {
       list.add(i);
-    Collections.shuffle(list); // Shuffle the array list
+    }
+    // 随机排列数组列表 Shuffle the array list
+    Collections.shuffle(list);
     
     // Create a hash set, and test its performance
     Collection<Integer> set1 = new HashSet<>(list);
@@ -52,8 +55,9 @@ public class java21_06_SetListPerformanceTest {
     long startTime = System.currentTimeMillis();
 
     // Test if a number is in the collection
-    for (int i = 0; i < N; i++)
+    for (int i = 0; i < N; i++) {
       c.contains((int)(Math.random() * 2 * N));
+    }
 
     return System.currentTimeMillis() - startTime; 
   }
@@ -61,8 +65,9 @@ public class java21_06_SetListPerformanceTest {
   public static long getRemoveTime(Collection<Integer> c) {
     long startTime = System.currentTimeMillis();
 
-    for (int i = 0; i < N; i++)
+    for (int i = 0; i < N; i++) {
       c.remove(i);
+    }
 
     return System.currentTimeMillis() - startTime; 
   }

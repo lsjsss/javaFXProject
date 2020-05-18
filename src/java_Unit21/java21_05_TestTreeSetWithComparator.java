@@ -1,5 +1,9 @@
-package java_Unit21;
-
+//package java_Unit21;
+//
+//import javafx.scene.shape.Circle;
+//
+//import java.util.TreeSet;
+//
 //public class java21_05_TestTreeSetWithComparator {
 //  public static void main(String[] args) {
 //    // Create a tree set for geometric objects using a comparator
@@ -12,7 +16,8 @@ package java_Unit21;
 //
 //    // Display geometric objects in the tree set
 //    System.out.println("A sorted set of geometric objects");
-//    for (GeometricObject element: set)
-//      System.out.println("area = " + element.getArea());
+//    for (GeometricObject element: set) {
+//        System.out.println("area = " + element.getArea());
+//    }
 //  }
 //}
