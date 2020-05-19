@@ -18,6 +18,8 @@ public class java21_07_CountKeywords {
     }
     else {
       System.out.println("File " + filename + " does not exist");
+      // ÍË³ö java ĞéÄâ»ú
+      System.exit(0);
     }
   }
 
