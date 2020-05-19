@@ -4,11 +4,10 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="5.18 15 - update 5.18 class">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="5.18 16 - update 5.18 class">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit21/java21_04_TestTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit21/java21_04_TestTreeSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit21/java21_05_TestTreeSetWithComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit21/java21_05_TestTreeSetWithComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit21/java21_06_SetListPerformanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit21/java21_06_SetListPerformanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit21/java21_07_CountKeywords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit21/java21_07_CountKeywords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +101,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Listen_Speak" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -139,7 +138,7 @@
       <recent name="E:\Idea Project\javaFXProject\src\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java21_06_SetListPerformanceTest">
+  <component name="RunManager" selected="Application.java21_07_CountKeywords">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -183,20 +182,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java20_12_EvaluateExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit20.java20_12_EvaluateExpression" />
-      <module name="javaFXProject" />
-      <option name="PROGRAM_PARAMETERS" value="(1+3)/2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -257,6 +242,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java21_07_CountKeywords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit21.java21_07_CountKeywords" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -290,19 +289,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.java20_12_EvaluateExpression" />
       <item itemvalue="Application.java21_01_TestHashSet" />
       <item itemvalue="Application.java21_03_TestLinkedHashSet" />
       <item itemvalue="Application.java21_04_TestTreeSet" />
       <item itemvalue="Application.java21_06_SetListPerformanceTest" />
+      <item itemvalue="Application.java21_07_CountKeywords" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java21_07_CountKeywords" />
         <item itemvalue="Application.java21_06_SetListPerformanceTest" />
         <item itemvalue="Application.java21_04_TestTreeSet" />
         <item itemvalue="Application.java21_03_TestLinkedHashSet" />
         <item itemvalue="Application.java21_01_TestHashSet" />
-        <item itemvalue="Application.java20_12_EvaluateExpression" />
       </list>
     </recent_temporary>
   </component>
@@ -496,14 +495,8 @@
       <workItem from="1589266983345" duration="7308000" />
       <workItem from="1589508667061" duration="3677000" />
       <workItem from="1589727040591" duration="81000" />
-      <workItem from="1589784034965" duration="4746000" />
-    </task>
-    <task id="LOCAL-00098" summary="4.19 01 - update Unit 18">
-      <created>1587231181488</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1587231181488</updated>
+      <workItem from="1589784034965" duration="5980000" />
+      <workItem from="1589870261315" duration="1802000" />
     </task>
     <task id="LOCAL-00099" summary="4.19 01 - update Unit 18">
       <created>1587231410831</created>
@@ -841,7 +834,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589787656169</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="5.18 16 - update 5.18 class">
+      <created>1589789553736</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1589789553736</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -850,7 +850,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="4.21 15 - update 4.21 class" />
     <MESSAGE value="4.21 19 - update 4.21 class" />
     <MESSAGE value="4.24 13 - update 4.24 class" />
     <MESSAGE value="4.24 13 - update Unit20" />
@@ -875,7 +874,8 @@
     <MESSAGE value="5.12 16 - update 5.12 class" />
     <MESSAGE value="5.17 22 - update 5.15 class" />
     <MESSAGE value="5.18 15 - update 5.18 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.18 15 - update 5.18 class" />
+    <MESSAGE value="5.18 16 - update 5.18 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.18 16 - update 5.18 class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -934,10 +934,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="78" y="94" width="804" height="803" key="CommitChangelistDialog2" timestamp="1589787654731">
+    <state x="78" y="94" width="804" height="803" key="CommitChangelistDialog2" timestamp="1589789548354">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="78" y="94" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1589787654731" />
+    <state x="78" y="94" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1589789548354" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -950,26 +950,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="181" key="GridCell.Tab.0.bottom" timestamp="1589789193425">
+    <state width="1877" height="181" key="GridCell.Tab.0.bottom" timestamp="1589791254956">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589789193425" />
-    <state width="1877" height="181" key="GridCell.Tab.0.center" timestamp="1589789193425">
+    <state width="1877" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589791254956" />
+    <state width="1877" height="181" key="GridCell.Tab.0.center" timestamp="1589791254955">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="181" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589789193425" />
-    <state width="1877" height="181" key="GridCell.Tab.0.left" timestamp="1589789193425">
+    <state width="1877" height="181" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589791254955" />
+    <state width="1877" height="181" key="GridCell.Tab.0.left" timestamp="1589791254955">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="181" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589789193425" />
-    <state width="1877" height="181" key="GridCell.Tab.0.right" timestamp="1589789193425">
+    <state width="1877" height="181" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589791254955" />
+    <state width="1877" height="181" key="GridCell.Tab.0.right" timestamp="1589791254955">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="181" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589789193425" />
+    <state width="1877" height="181" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589791254955" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1007,10 +1007,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1589014659800" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1589787658716">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1589789555002">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1589787658716" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1589789555002" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1587230174602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1031,9 +1031,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1589787138506" />
-    <state x="978" y="185" width="672" height="676" key="search.everywhere.popup" timestamp="1589269279669">
+    <state x="978" y="185" width="672" height="676" key="search.everywhere.popup" timestamp="1589870506164">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="978" y="185" width="672" height="676" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1589269279669" />
+    <state x="978" y="185" width="672" height="676" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1589870506164" />
   </component>
 </project>
