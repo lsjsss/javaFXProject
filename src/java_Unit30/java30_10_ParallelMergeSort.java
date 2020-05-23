@@ -1,8 +1,9 @@
 package java_Unit30;
 
-import java.util.concurrent.RecursiveAction;
+import java_Unit23_X.java23_06_MergeSort;
+
 import java.util.concurrent.ForkJoinPool;
-import chapter23.MergeSort;
+import java.util.concurrent.RecursiveAction;
 
 public class java30_10_ParallelMergeSort {
   public static void main(String[] args) {
@@ -21,7 +22,7 @@ public class java30_10_ParallelMergeSort {
       " processors is " + (endTime - startTime) + " milliseconds");
 
     startTime = System.currentTimeMillis();
-    MergeSort.mergeSort(list2); // MergeSort is in Listing 24.5
+    java23_06_MergeSort.mergeSort(list2); // MergeSort is in Listing 24.5
     endTime = System.currentTimeMillis();
     System.out.println("\nSequential time is " + 
       (endTime - startTime) + " milliseconds");
@@ -43,9 +44,9 @@ public class java30_10_ParallelMergeSort {
 
     @Override
     protected void compute() {
-      if (list.length < THRESHOLD)
+      if (list.length < THRESHOLD) {
         java.util.Arrays.sort(list);
-      else {
+      } else {
         // Obtain the first half
         int[] firstHalf = new int[list.length / 2];
         System.arraycopy(list, 0, firstHalf, 0, list.length / 2);
@@ -61,7 +62,7 @@ public class java30_10_ParallelMergeSort {
           new SortTask(secondHalf));
 
         // Merge firstHalf with secondHalf into list
-        MergeSort.merge(firstHalf, secondHalf, list);
+        java23_06_MergeSort.merge(firstHalf, secondHalf, list);
       }
     }
   }

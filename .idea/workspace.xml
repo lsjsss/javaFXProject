@@ -4,31 +4,19 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="5.22 11 - update 5.22 class">
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_01_TaskThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_02_FlashText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_03_ExecutorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_04_AccountWithoutSync.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_05_AccountWithSyncUsingLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_06_ThreadCooperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_07_ConsumerProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_08_ConsumerProducerUsingBlockingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_09_Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_10_ParallelMergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_11_ParallelMax.java" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="5.23 23 - update Unit 30">
+      <change afterPath="$PROJECT_DIR$/src/java_Unit31/jav_31_07_StudentServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit31/java31_01_Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit31/java31_02_Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit31/java31_03_IdentifyHostNameIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit31/java31_04_MultiThreadServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit31/java31_05_StudentAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit31/java31_06_StudentClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit31/java31_08_TicTacToeConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit31/java31_09_TicTacToeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit31/java31_10_TicTacToeClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/AnalyzeNumbersUsingStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/CollectDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/CollectGroupDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/CountKeywordStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/CountLettersUsingStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/CountOccurrenceOfLettersInAString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/CountOccurrenceOfWordsStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/DirectorySizeStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/IntStreamDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/StreamDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/StreamReductionDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/TwoDimensionalArrayStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/java30_10_ParallelMergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit30/java30_10_ParallelMergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +110,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/java_Unit30" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/java_Unit31" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -152,14 +140,14 @@
       <recent name="javaclass" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Idea Project\javaFXProject\src\java_Unit31" />
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit30" />
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit24" />
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit23" />
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit22" />
-      <recent name="E:\Idea Project\javaFXProject\src\java_Unit21" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java21_09_CountOccurrenceOfWords">
+  <component name="RunManager" selected="Application.java31_04_MultiThreadServer">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -207,48 +195,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java21_04_TestTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit21.java21_04_TestTreeSet" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java21_06_SetListPerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit21.java21_06_SetListPerformanceTest" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java21_07_CountKeywords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit21.java21_07_CountKeywords" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="java21_08_TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_Unit21.java21_08_TestMap" />
       <module name="javaFXProject" />
@@ -270,6 +216,48 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_Unit21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java30_10_ParallelMergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit30.java30_10_ParallelMergeSort" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java31_04_MultiThreadServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit31.java31_04_MultiThreadServer" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java31_10_TicTacToeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit31.java31_10_TicTacToeClient" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,19 +298,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.java21_04_TestTreeSet" />
-      <item itemvalue="Application.java21_06_SetListPerformanceTest" />
-      <item itemvalue="Application.java21_07_CountKeywords" />
       <item itemvalue="Application.java21_08_TestMap" />
       <item itemvalue="Application.java21_09_CountOccurrenceOfWords" />
+      <item itemvalue="Application.java31_10_TicTacToeClient" />
+      <item itemvalue="Application.java30_10_ParallelMergeSort" />
+      <item itemvalue="Application.java31_04_MultiThreadServer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java31_04_MultiThreadServer" />
+        <item itemvalue="Application.java30_10_ParallelMergeSort" />
+        <item itemvalue="Application.java31_10_TicTacToeClient" />
         <item itemvalue="Application.java21_09_CountOccurrenceOfWords" />
         <item itemvalue="Application.java21_08_TestMap" />
-        <item itemvalue="Application.java21_07_CountKeywords" />
-        <item itemvalue="Application.java21_06_SetListPerformanceTest" />
-        <item itemvalue="Application.java21_04_TestTreeSet" />
       </list>
     </recent_temporary>
   </component>
@@ -519,14 +507,7 @@
       <workItem from="1589784034965" duration="5980000" />
       <workItem from="1589870261315" duration="4806000" />
       <workItem from="1590112958721" duration="6115000" />
-      <workItem from="1590244791327" duration="1496000" />
-    </task>
-    <task id="LOCAL-00104" summary="4.20 23 - update 4.20 class">
-      <created>1587395585765</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1587395585766</updated>
+      <workItem from="1590244791327" duration="2398000" />
     </task>
     <task id="LOCAL-00105" summary="4.21 14 - update 4.21 class">
       <created>1587450560723</created>
@@ -864,7 +845,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590119682956</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="5.23 23 - update Unit 30">
+      <created>1590246383699</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1590246383700</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -873,7 +861,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="4.24 15 - update Unit20" />
     <MESSAGE value="4.24 15 - update Unit20 Translate" />
     <MESSAGE value="4.24 15 - update Unit 19 Translate" />
     <MESSAGE value="4.25 00 - update Unit 19 Translate" />
@@ -898,7 +885,8 @@
     <MESSAGE value="5.19 16 - update 5.19 class" />
     <MESSAGE value="5.22 10 - update 5.22 class" />
     <MESSAGE value="5.22 11 - update 5.22 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.22 11 - update 5.22 class" />
+    <MESSAGE value="5.23 23 - update Unit 30" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.23 23 - update Unit 30" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -949,18 +937,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="195" y="389" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589011608608" />
-    <state x="629" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588080807655">
+    <state x="571" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590246650677">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="629" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588080807655" />
+    <state x="571" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590246650677" />
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584786616102">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="78" y="94" width="804" height="803" key="CommitChangelistDialog2" timestamp="1590119678018">
+    <state x="731" y="176" width="804" height="803" key="CommitChangelistDialog2" timestamp="1590246379283">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="78" y="94" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590119678018" />
+    <state x="731" y="176" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590246379283" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1026,14 +1014,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1161" y="270" width="540" height="524" key="StructurePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1584376792144" />
-    <state x="525" y="448" key="VCS.ChangelistChooser" timestamp="1589872107320">
+    <state x="525" y="448" key="VCS.ChangelistChooser" timestamp="1590246444897">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1589872107320" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1590120270316">
+    <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1590246444897" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1590246386071">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590120270316" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590246386071" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1587230174602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
