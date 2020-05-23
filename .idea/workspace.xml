@@ -4,46 +4,31 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="5.22 10 - update 5.22 class">
-      <change afterPath="$PROJECT_DIR$/src/java_Unit21/java05_22_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/AnalyzeNumbersUsingStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/CollectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/CollectGroupDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/CountKeywordStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/CountLettersUsingStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/CountOccurrenceOfLettersInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/CountOccurrenceOfWordsStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/DirectorySizeStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/IntStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/StreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/StreamReductionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Unit30/TwoDimensionalArrayStream.java" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="5.22 11 - update 5.22 class">
+      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_01_TaskThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_02_FlashText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_03_ExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_04_AccountWithoutSync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_05_AccountWithSyncUsingLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_06_ThreadCooperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_07_ConsumerProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_08_ConsumerProducerUsingBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_09_Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_10_ParallelMergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit30/java30_11_ParallelMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit22/java22_01_PerformanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit22_X/java22_01_PerformanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit22/java22_02_ImprovedFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit22_X/java22_02_ImprovedFibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit22/java22_03_GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit22_X/java22_03_GCD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit22/java22_04_GCDEuclid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit22_X/java22_04_GCDEuclid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit22/java22_05_PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit22_X/java22_05_PrimeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit22/java22_06_EfficientPrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit22_X/java22_06_EfficientPrimeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit22/java22_07_SieveOfEratosthenes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit22_X/java22_07_SieveOfEratosthenes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit22/java22_11_EightQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit22_X/java22_11_EightQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23/java23_01_InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_X/java23_01_InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23/java23_04_BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_X/java23_04_BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23/java23_06_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_X/java23_06_MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23/java23_08_QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_X/java23_08_QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23/java23_09_Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_X/java23_09_Heap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23/java23_10_HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_X/java23_10_HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23/java23_11_CreateLargeFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_X/java23_11_CreateLargeFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23/java23_16_SortLargeFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_X/java23_16_SortLargeFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit24/java24_01_MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit24_X/java24_01_MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit24/java24_03_MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit24_X/java24_03_MyArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit24/java24_04_TestMyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit24_X/java24_04_TestMyArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit24/java24_05_TestMyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit24_X/java24_05_TestMyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit24/java24_06_MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit24_X/java24_06_MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit24/java24_07_GenericQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit24_X/java24_07_GenericQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit24/java24_08_TestStackQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit24_X/java24_08_TestStackQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit24/java24_09_MyPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit24_X/java24_09_MyPriorityQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit24/java24_10_TestPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit24_X/java24_10_TestPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/AnalyzeNumbersUsingStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/CollectDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/CollectGroupDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/CountKeywordStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/CountLettersUsingStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/CountOccurrenceOfLettersInAString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/CountOccurrenceOfWordsStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/DirectorySizeStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/IntStreamDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/StreamDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/StreamReductionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/TwoDimensionalArrayStream.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,12 +140,10 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="java_Unit13" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Idea Project\javaFXProject\src\java_Unit30" />
-      <recent name="E:\Idea Project\javaFXProject\src\java_Unit24" />
-      <recent name="E:\Idea Project\javaFXProject\src\java_Unit23" />
-      <recent name="E:\Idea Project\javaFXProject\src\java_Unit22" />
-      <recent name="E:\Idea Project\javaFXProject\src\java_Unit21" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Idea Project\javaFXProject\src\javafxsource" />
+      <recent name="E:\Idea Project\javaFXProject\src" />
+      <recent name="E:\Idea Project\javaFXProject" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="java_Unit20" />
@@ -168,10 +151,12 @@
       <recent name="javahomework" />
       <recent name="javaclass" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Idea Project\javaFXProject\src\javafxsource" />
-      <recent name="E:\Idea Project\javaFXProject\src" />
-      <recent name="E:\Idea Project\javaFXProject" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Idea Project\javaFXProject\src\java_Unit30" />
+      <recent name="E:\Idea Project\javaFXProject\src\java_Unit24" />
+      <recent name="E:\Idea Project\javaFXProject\src\java_Unit23" />
+      <recent name="E:\Idea Project\javaFXProject\src\java_Unit22" />
+      <recent name="E:\Idea Project\javaFXProject\src\java_Unit21" />
     </key>
   </component>
   <component name="RunManager" selected="Application.java21_09_CountOccurrenceOfWords">
@@ -533,14 +518,8 @@
       <workItem from="1589727040591" duration="81000" />
       <workItem from="1589784034965" duration="5980000" />
       <workItem from="1589870261315" duration="4806000" />
-      <workItem from="1590112958721" duration="5186000" />
-    </task>
-    <task id="LOCAL-00103" summary="4.19 21 - update Unit 18">
-      <created>1587303179803</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1587303179803</updated>
+      <workItem from="1590112958721" duration="6115000" />
+      <workItem from="1590244791327" duration="1496000" />
     </task>
     <task id="LOCAL-00104" summary="4.20 23 - update 4.20 class">
       <created>1587395585765</created>
@@ -878,7 +857,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590115472675</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="5.22 11 - update 5.22 class">
+      <created>1590119682956</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1590119682956</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -887,7 +873,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="4.24 14 - update Unit20" />
     <MESSAGE value="4.24 15 - update Unit20" />
     <MESSAGE value="4.24 15 - update Unit20 Translate" />
     <MESSAGE value="4.24 15 - update Unit 19 Translate" />
@@ -912,7 +897,8 @@
     <MESSAGE value="5.19 15 - update 5.19 class" />
     <MESSAGE value="5.19 16 - update 5.19 class" />
     <MESSAGE value="5.22 10 - update 5.22 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.22 10 - update 5.22 class" />
+    <MESSAGE value="5.22 11 - update 5.22 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.22 11 - update 5.22 class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -971,10 +957,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="78" y="94" width="804" height="803" key="CommitChangelistDialog2" timestamp="1590115468519">
+    <state x="78" y="94" width="804" height="803" key="CommitChangelistDialog2" timestamp="1590119678018">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="78" y="94" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590115468519" />
+    <state x="78" y="94" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590119678018" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -987,26 +973,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="180" key="GridCell.Tab.0.bottom" timestamp="1589876099602">
+    <state width="1877" height="180" key="GridCell.Tab.0.bottom" timestamp="1590120583823">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589876099602" />
-    <state width="1877" height="180" key="GridCell.Tab.0.center" timestamp="1589876099602">
+    <state width="1877" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590120583823" />
+    <state width="1877" height="180" key="GridCell.Tab.0.center" timestamp="1590120583823">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="180" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589876099602" />
-    <state width="1877" height="180" key="GridCell.Tab.0.left" timestamp="1589876099602">
+    <state width="1877" height="180" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590120583823" />
+    <state width="1877" height="180" key="GridCell.Tab.0.left" timestamp="1590120583823">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="180" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589876099602" />
-    <state width="1877" height="180" key="GridCell.Tab.0.right" timestamp="1589876099602">
+    <state width="1877" height="180" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590120583823" />
+    <state width="1877" height="180" key="GridCell.Tab.0.right" timestamp="1590120583823">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="180" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589876099602" />
+    <state width="1877" height="180" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590120583823" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1044,10 +1030,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1589872107320" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1590115474566">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1590120270316">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590115474566" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590120270316" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1587230174602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
