@@ -5,8 +5,294 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="5.25 16 - update 5.25 class">
+      <change afterPath="$PROJECT_DIR$/src/image/L1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/L9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/TICTACTOE.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/ca.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/caIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/canada.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/b1fh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/b2fh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/b2fv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/card/backCard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/center.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/centerAlignment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/china.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/chinaIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/correct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/denmark.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/denmarkIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flag0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flag1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flag16.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flag2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flag3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flag4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flag5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flag6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flag7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flag8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flag9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flagIcon0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flagIcon1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flagIcon2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flagIcon3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flagIcon4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flagIcon5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/flagIcon6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/fr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/france.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/germany.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/germany.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/germanyIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/grapes.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/horizontalRuler.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/illinoisMap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/india.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/india.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/indianaMap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/intro1e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/intro2e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/intro3e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/introjb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/introjb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/introvj6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/knight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/leftAlignment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/malaysia.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/malaysia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/my.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/noanswer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/norway.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/norway.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/o.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/ohioMap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/open.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/person.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/photo0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/photo1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/photo2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/photo3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/photo4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/photo5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/photo6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/photo7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/print.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/queen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/radjb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/radjb5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/rbs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/rightAlignment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/save.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/slide9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/uk.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/uk.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/ukIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/us.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/usIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/usa.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/verticalRuler.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/wrong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/Exercise14_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise14/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/java30_02_FlashText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit30/java30_02_FlashText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +386,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/java_Unit32" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -124,20 +410,21 @@
       <recent name="E:\Idea Project\javaFXProject" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java_Book_Exercise15" />
+      <recent name="java_Book_Exercises14" />
       <recent name="java_Unit20" />
       <recent name="java_Unit20.java5_09class" />
       <recent name="javahomework" />
-      <recent name="javaclass" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Idea Project\javaFXProject\src" />
+      <recent name="E:\Idea Project\javaFXProject\src\java_Book_Exercises14" />
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit32" />
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit31" />
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit30" />
-      <recent name="E:\Idea Project\javaFXProject\src\java_Unit24" />
-      <recent name="E:\Idea Project\javaFXProject\src\java_Unit23" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java30_02_FlashText">
+  <component name="RunManager" selected="Application.Exercise15_04">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -163,6 +450,62 @@
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
+    <configuration name="Exercise15_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Book_Exercise15.Exercise15_01" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Book_Exercise15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise15_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Book_Exercise15.Exercise15_02" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Book_Exercise15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise15_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Book_Exercise15.Exercise15_03" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Book_Exercise15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise15_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Book_Exercise15.Exercise15_04" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Book_Exercise15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="javaClass.sample.Main" />
       <module name="javaFXProject" />
@@ -185,69 +528,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java21_09_CountOccurrenceOfWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit21.java21_09_CountOccurrenceOfWords" />
+    <configuration name="rebolverectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Book_Exercise15.rebolverectangle" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Unit21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java30_02_FlashText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit30.java30_02_FlashText" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java30_10_ParallelMergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit30.java30_10_ParallelMergeSort" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java31_04_MultiThreadServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit31.java31_04_MultiThreadServer" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit31.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java31_10_TicTacToeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit31.java31_10_TicTacToeClient" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit31.*" />
+          <option name="PATTERN" value="java_Book_Exercise15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,19 +575,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.java21_09_CountOccurrenceOfWords" />
-      <item itemvalue="Application.java31_10_TicTacToeClient" />
-      <item itemvalue="Application.java30_10_ParallelMergeSort" />
-      <item itemvalue="Application.java31_04_MultiThreadServer" />
-      <item itemvalue="Application.java30_02_FlashText" />
+      <item itemvalue="Application.Exercise15_01" />
+      <item itemvalue="Application.rebolverectangle" />
+      <item itemvalue="Application.Exercise15_02" />
+      <item itemvalue="Application.Exercise15_03" />
+      <item itemvalue="Application.Exercise15_04" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.java30_02_FlashText" />
-        <item itemvalue="Application.java31_04_MultiThreadServer" />
-        <item itemvalue="Application.java30_10_ParallelMergeSort" />
-        <item itemvalue="Application.java31_10_TicTacToeClient" />
-        <item itemvalue="Application.java21_09_CountOccurrenceOfWords" />
+        <item itemvalue="Application.Exercise15_04" />
+        <item itemvalue="Application.Exercise15_03" />
+        <item itemvalue="Application.Exercise15_02" />
+        <item itemvalue="Application.rebolverectangle" />
+        <item itemvalue="Application.Exercise15_01" />
       </list>
     </recent_temporary>
   </component>
@@ -501,14 +788,9 @@
       <workItem from="1590321569032" duration="148000" />
       <workItem from="1590325715297" duration="152000" />
       <workItem from="1590388270475" duration="6047000" />
-      <workItem from="1590409159805" duration="466000" />
-    </task>
-    <task id="LOCAL-00111" summary="4.21 15 - update 4.21 class">
-      <created>1587455617550</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1587455617550</updated>
+      <workItem from="1590409159805" duration="1097000" />
+      <workItem from="1590413028936" duration="2432000" />
+      <workItem from="1590418173083" duration="2713000" />
     </task>
     <task id="LOCAL-00112" summary="4.21 19 - update 4.21 class">
       <created>1587469709972</created>
@@ -846,7 +1128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590394449818</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="5.25 16 - update 5.25 class">
+      <created>1590409658818</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1590409658818</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -923,10 +1212,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587712564481" />
-    <state x="215" y="440" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589011468920">
+    <state x="215" y="440" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590419180924">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="215" y="440" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589011468920" />
+    <state x="215" y="440" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590419180924" />
     <state x="195" y="389" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1589011608608">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -939,10 +1228,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1590394447755">
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1590409654133">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590394447755" />
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590409654133" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -955,26 +1244,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1590394399104">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1590420607120">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590394399104" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1590394399104">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590420607120" />
+    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1590420607120">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590394399104" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1590394399104">
+    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590420607120" />
+    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1590420607120">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590394399104" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1590394399104">
+    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590420607120" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1590420607120">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590394399104" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590420607120" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1012,10 +1301,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1590246444897" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1590394450849">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1590409660742">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590394450849" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590409660742" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1590247620178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
