@@ -20,6 +20,7 @@ public class java30_02_FlashText extends Application {
         Label lblText = new Label("Programming is fun");
         pane.getChildren().add(lblText);
 
+        // 匿名内部类，这个类是一个实现了 Runnable 接口的类
         new Thread(new Runnable() {
             @Override
             public void run() {
@@ -38,6 +39,7 @@ public class java30_02_FlashText extends Application {
                             }
                         });
 
+                        // 闪烁间隔时间
                         Thread.sleep(200);
                     }
                 } catch (InterruptedException ex) {
