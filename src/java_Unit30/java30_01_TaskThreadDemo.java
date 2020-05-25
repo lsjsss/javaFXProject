@@ -21,7 +21,7 @@ public class java30_01_TaskThreadDemo {
 }
 
 /**
- * 在指定时间内打印指定字符的任务
+ * 在指定时间内打印指定字符的任务，实现 Runnable 接口并重写 run 方法
  * The task for printing a specified character in specified times
  */
 class PrintChar implements Runnable {
@@ -87,3 +87,4 @@ class PrintNum implements Runnable {
         }
     }
 }
+// 每次运行结果都不同，我们无法控制线程执行，3个线程交给 JVM，由 JVM 决定运行顺序
