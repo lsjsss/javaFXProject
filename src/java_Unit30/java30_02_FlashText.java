@@ -47,13 +47,14 @@ public class java30_02_FlashText extends Application {
             }
         }).start();
 
-        // Create a scene and place it in the stage
+        // 创建一个场景并将其放置在舞台上  Create a scene and place it in the stage
         Scene scene = new Scene(pane, 200, 50);
         // Set the stage title
         primaryStage.setTitle("java30_02_FlashText");
         // Place the scene in the stage
         primaryStage.setScene(scene);
-        primaryStage.show(); // Display the stage
+        // Display the stage
+        primaryStage.show();
     }
 
     /**
