@@ -85,6 +85,21 @@ class PrintNum implements Runnable {
         for (int i = 1; i <= lastNum; i++) {
             System.out.print(" " + i);
         }
+
+        // Thread 方法测试
+        for (int i = 1; i <= lastNum; i++) {
+            System.out.print(" " + i);
+
+            // 为其他线程让步，这个线程总是最后运行完
+            Thread.yield();
+
+            // 休眠进程 5ms
+            try {
+                Thread.sleep(5);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
     }
 }
 // 每次运行结果都不同，我们无法控制线程执行，3个线程交给 JVM，由 JVM 决定运行顺序
