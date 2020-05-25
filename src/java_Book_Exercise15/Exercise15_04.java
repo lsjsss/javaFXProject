@@ -14,14 +14,16 @@ import javafx.stage.Stage;
 
 /**
  * ¼òÒ×¼ÆËãÆ÷
+ *
  * @author ASUS
  */
-public class Exercise15_04 extends Application{
-    private double d1,d2,d3;
-    Double  c1,c2,c3,c4;
-    String str1,str2;
+public class Exercise15_04 extends Application {
+    private double d1, d2, d3;
+    Double c1, c2, c3, c4;
+    String str1, str2;
+
     @Override
-    public void start(Stage stage){
+    public void start(Stage stage) {
         HBox hbTop = new HBox();
         HBox hbBottom = new HBox();
         hbBottom.setAlignment(Pos.CENTER);
@@ -41,51 +43,60 @@ public class Exercise15_04 extends Application{
         TextField tf3 = new TextField();
         tf3.setEditable(true);
 
-        hbTop.getChildren().addAll(t1,tf1,t2,tf2,t3,tf3);
+        hbTop.getChildren().addAll(t1, tf1, t2, tf2, t3, tf3);
 
         Button bt1 = new Button("Add");
         Button bt2 = new Button("Subtract");
         Button bt3 = new Button("Multiply");
         Button bt4 = new Button("Divide");
-        hbBottom.getChildren().addAll(bt1,bt2,bt3,bt4);
+        hbBottom.getChildren().addAll(bt1, bt2, bt3, bt4);
 
-        vbox.getChildren().addAll(hbTop,hbBottom);
+        vbox.getChildren().addAll(hbTop, hbBottom);
 
-        Scene scene = new Scene(vbox,500,80);
+        Scene scene = new Scene(vbox, 500, 80);
         stage.setTitle("Exercise15_04");
         stage.setScene(scene);
         stage.show();
 
         bt1.setOnAction((ActionEvent e) -> {
-            str1 = tf1.getText();d1 = (double)Double.parseDouble(str1);
-            str2 = tf2.getText();d2 = (double)Double.parseDouble(str2);
-            d3 = d1+d2;
+            str1 = tf1.getText();
+            d1 = (double) Double.parseDouble(str1);
+            str2 = tf2.getText();
+            d2 = (double) Double.parseDouble(str2);
+            d3 = d1 + d2;
             c1 = new Double(d3);
             tf3.setText(c1.toString());
         });
         bt2.setOnAction((ActionEvent e) -> {
-            str1 = tf1.getText();d1 = (double)Double.parseDouble(str1);
-            str2 = tf2.getText();d2 = (double)Double.parseDouble(str2);
-            d3 = d1-d2;
+            str1 = tf1.getText();
+            d1 = (double) Double.parseDouble(str1);
+            str2 = tf2.getText();
+            d2 = (double) Double.parseDouble(str2);
+            d3 = d1 - d2;
             c2 = new Double(d3);
             tf3.setText(c2.toString());
         });
         bt3.setOnAction((ActionEvent e) -> {
-            str1 = tf1.getText();d1 = (double)Double.parseDouble(str1);
-            str2 = tf2.getText();d2 = (double)Double.parseDouble(str2);
-            d3 = d1*d2;
+            str1 = tf1.getText();
+            d1 = (double) Double.parseDouble(str1);
+            str2 = tf2.getText();
+            d2 = (double) Double.parseDouble(str2);
+            d3 = d1 * d2;
             c3 = new Double(d3);
             tf3.setText(c3.toString());
         });
         bt4.setOnAction((ActionEvent e) -> {
-            str1 = tf1.getText();d1 = (double)Double.parseDouble(str1);
-            str2 = tf2.getText();d2 = (double)Double.parseDouble(str2);
-            d3 = d1/d2;
+            str1 = tf1.getText();
+            d1 = (double) Double.parseDouble(str1);
+            str2 = tf2.getText();
+            d2 = (double) Double.parseDouble(str2);
+            d3 = d1 / d2;
             c4 = new Double(d3);
             tf3.setText(c4.toString());
         });
     }
-    public static void main(String[] args){
+
+    public static void main(String[] args) {
         Application.launch(args);
     }
 }
