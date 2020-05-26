@@ -25,6 +25,7 @@ public class java30_05_AccountWithSyncUsingLock {
 
     // A thread for adding a penny to the account
     public static class AddAPennyTask implements Runnable {
+        @Override
         public void run() {
             account.deposit(1);
         }

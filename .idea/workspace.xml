@@ -4,9 +4,404 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="5.26 00 - update javabook Exercise 15">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="5.26 14 - update 5.26 class">
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/L9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/TICTACTOE.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/ca.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/caIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/canada.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/b1fh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/b2fh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/b2fv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/card/backCard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/center.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/centerAlignment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/china.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/chinaIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/correct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/denmark.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/denmarkIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flag0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flag1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flag16.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flag2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flag3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flag4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flag5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flag6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flag7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flag8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flag9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flagIcon0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flagIcon1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flagIcon2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flagIcon3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flagIcon4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flagIcon5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/flagIcon6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/fr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/france.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/germany.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/germany.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/germanyIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/grapes.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/horizontalRuler.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/illinoisMap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/india.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/india.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/indianaMap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/intro1e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/intro2e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/intro3e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/introjb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/introjb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/introvj6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/knight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/leftAlignment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/malaysia.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/malaysia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/my.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/noanswer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/norway.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/norway.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/o.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/ohioMap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/open.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/person.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/photo0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/photo1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/photo2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/photo3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/photo4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/photo5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/photo6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/photo7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/print.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/queen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/radjb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/radjb5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/rbs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/rightAlignment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/save.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/slide9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/uk.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/uk.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/ukIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/us.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/usIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/usa.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/verticalRuler.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/wrong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/image/x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Homework_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Homework_11$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_13_Homework_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_18_select.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/javaAdvanceHomework/java4_28_Exercise19_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/ClockPaneWithBooleanProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/DetailedClockPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/Exercise14_29.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/FanPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise14/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_01$Cardspane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_29.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_30.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_31.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_33.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_34.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_35.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Book_Exercise15/Exercise15_36.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java4_26_27class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java5_08_09class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java5_09class/ComparatorY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java5_09class/java5_09classAndjava20_4PointClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java5_09class/java5_09classAndjava20_4PointTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java5_12class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit20/java5_12class_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit21/java05_22_class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit21/java21_01_TestHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit21/java21_02_TestMethodsInCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit21/java21_03_TestLinkedHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit21/java21_04_TestTreeSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit21/java21_06_SetListPerformanceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit21/java21_07_CountKeywords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit21/java21_08_TestMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit21/java21_09_CountOccurrenceOfWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit22_X/java22_01_PerformanceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit22_X/java22_02_ImprovedFibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit22_X/java22_03_GCD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit22_X/java22_04_GCDEuclid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit22_X/java22_05_PrimeNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit22_X/java22_06_EfficientPrimeNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit22_X/java22_07_SieveOfEratosthenes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit22_X/java22_11_EightQueens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_01_InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_04_BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_06_MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_08_QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_09_Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_10_HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_11_CreateLargeFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_16_SortLargeFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit24_X/java24_01_MyList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit24_X/java24_03_MyArrayList$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit24_X/java24_03_MyArrayList$ArrayListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit24_X/java24_03_MyArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit24_X/java24_04_TestMyArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit24_X/java24_05_TestMyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit24_X/java24_06_MyLinkedList$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit24_X/java24_06_MyLinkedList$LinkedListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit24_X/java24_06_MyLinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit24_X/java24_06_MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit24_X/java24_07_GenericQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/PrintChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/PrintNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_01_TaskThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_02_FlashText$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_02_FlashText$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_02_FlashText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_03_ExecutorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_04_AccountWithoutSync$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_04_AccountWithoutSync$Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_04_AccountWithoutSync$AddAPennyTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_04_AccountWithoutSync.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_05_AccountWithSyncUsingLock$Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_05_AccountWithSyncUsingLock$AddAPennyTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_05_AccountWithSyncUsingLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_06_ThreadCooperation$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_06_ThreadCooperation$Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_06_ThreadCooperation$DepositTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_06_ThreadCooperation$WithdrawTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_06_ThreadCooperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_07_ConsumerProducer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_07_ConsumerProducer$Buffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_07_ConsumerProducer$ConsumerTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_07_ConsumerProducer$ProducerTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_07_ConsumerProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_08_ConsumerProducerUsingBlockingQueue$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_08_ConsumerProducerUsingBlockingQueue$ConsumerTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_08_ConsumerProducerUsingBlockingQueue$ProducerTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_08_ConsumerProducerUsingBlockingQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_09_Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_10_ParallelMergeSort$SortTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_10_ParallelMergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_11_ParallelMax$MaxTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_11_ParallelMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_01_Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_02_Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_03_IdentifyHostNameIP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_04_MultiThreadServer$HandleAClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_04_MultiThreadServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_05_StudentAddress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_06_StudentClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_06_StudentClient$ButtonListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_06_StudentClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_07_StudentServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_08_TicTacToeConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_09_TicTacToeServer$HandleASession.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_09_TicTacToeServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_10_TicTacToeClient$Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_10_TicTacToeClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_01_SimpleJdbc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_02_FindGrade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_03_FindGradeUsingPreparedStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_04_TestCallableStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_05_TestDatabaseMetaData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_06_FindUserTables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_07_TestResultSetMetaData.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/java30_03_ExecutorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit30/java30_03_ExecutorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/java30_04_AccountWithoutSync.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit30/java30_04_AccountWithoutSync.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/java30_05_AccountWithSyncUsingLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit30/java30_05_AccountWithSyncUsingLock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +533,7 @@
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit30" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java30_03_ExecutorDemo">
+  <component name="RunManager" selected="Application.java30_04_AccountWithoutSync">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -242,13 +637,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rebolverectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Book_Exercise15.rebolverectangle" />
+    <configuration name="java30_04_AccountWithoutSync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit30.java30_04_AccountWithoutSync" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Book_Exercise15.*" />
+          <option name="PATTERN" value="java_Unit30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,19 +684,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.rebolverectangle" />
       <item itemvalue="Application.Exercise15_02" />
       <item itemvalue="Application.Exercise15_03" />
       <item itemvalue="Application.Exercise15_04" />
       <item itemvalue="Application.java30_03_ExecutorDemo" />
+      <item itemvalue="Application.java30_04_AccountWithoutSync" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java30_04_AccountWithoutSync" />
         <item itemvalue="Application.java30_03_ExecutorDemo" />
         <item itemvalue="Application.Exercise15_04" />
         <item itemvalue="Application.Exercise15_03" />
         <item itemvalue="Application.Exercise15_02" />
-        <item itemvalue="Application.rebolverectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -506,14 +901,7 @@
       <workItem from="1590413028936" duration="2432000" />
       <workItem from="1590418173083" duration="3715000" />
       <workItem from="1590462181982" duration="588000" />
-      <workItem from="1590474607034" duration="1496000" />
-    </task>
-    <task id="LOCAL-00114" summary="4.24 13 - update 4.24 class">
-      <created>1587706282830</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1587706282831</updated>
+      <workItem from="1590474607034" duration="4788000" />
     </task>
     <task id="LOCAL-00115" summary="4.24 13 - update Unit20">
       <created>1587707353375</created>
@@ -851,7 +1239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590423902710</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <task id="LOCAL-00163" summary="5.26 14 - update 5.26 class">
+      <created>1590476158343</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1590476158343</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -860,7 +1255,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="4.28 21 - update Unit23" />
     <MESSAGE value="4.28 21 - update Unit24" />
     <MESSAGE value="4.28 21 - update" />
     <MESSAGE value="5.07 23 - update" />
@@ -885,7 +1279,8 @@
     <MESSAGE value="5.25 16 - update 5.25 class" />
     <MESSAGE value="5.25 23 - update 5.25 javabook Exercise" />
     <MESSAGE value="5.26 00 - update javabook Exercise 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.26 00 - update javabook Exercise 15" />
+    <MESSAGE value="5.26 14 - update 5.26 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.26 14 - update 5.26 class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -944,10 +1339,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1590423900914">
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1590476154401">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590423900914" />
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590476154401" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -960,26 +1355,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1590423940290">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1590477541974">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590423940290" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1590423940290">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590477541974" />
+    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1590477541974">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590423940290" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1590423940290">
+    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590477541974" />
+    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1590477541974">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590423940290" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1590423940290">
+    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590477541974" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1590477541974">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590423940290" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590477541974" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1017,10 +1412,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1590246444897" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1590423905063">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1590476159940">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590423905063" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590476159940" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1590247620178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
