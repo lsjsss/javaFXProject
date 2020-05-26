@@ -4,9 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="5.25 23 - update 5.25 javabook Exercise">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="5.26 00 - update javabook Exercise 15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Book_Exercise15/Exercise15_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit30/java30_03_ExecutorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit30/java30_03_ExecutorDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +138,7 @@
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit30" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise15_04">
+  <component name="RunManager" selected="Application.java30_03_ExecutorDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -163,20 +163,6 @@
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
-    </configuration>
-    <configuration name="Exercise15_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Book_Exercise15.Exercise15_01" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Book_Exercise15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="Exercise15_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_Book_Exercise15.Exercise15_02" />
@@ -242,6 +228,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java30_03_ExecutorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit30.java30_03_ExecutorDemo" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="rebolverectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_Book_Exercise15.rebolverectangle" />
       <module name="javaFXProject" />
@@ -289,19 +289,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Exercise15_01" />
       <item itemvalue="Application.rebolverectangle" />
       <item itemvalue="Application.Exercise15_02" />
       <item itemvalue="Application.Exercise15_03" />
       <item itemvalue="Application.Exercise15_04" />
+      <item itemvalue="Application.java30_03_ExecutorDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java30_03_ExecutorDemo" />
         <item itemvalue="Application.Exercise15_04" />
         <item itemvalue="Application.Exercise15_03" />
         <item itemvalue="Application.Exercise15_02" />
         <item itemvalue="Application.rebolverectangle" />
-        <item itemvalue="Application.Exercise15_01" />
       </list>
     </recent_temporary>
   </component>
@@ -504,14 +504,9 @@
       <workItem from="1590388270475" duration="6047000" />
       <workItem from="1590409159805" duration="1097000" />
       <workItem from="1590413028936" duration="2432000" />
-      <workItem from="1590418173083" duration="3653000" />
-    </task>
-    <task id="LOCAL-00113" summary="4.24 13 - update 4.24 class">
-      <created>1587705102104</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1587705102105</updated>
+      <workItem from="1590418173083" duration="3715000" />
+      <workItem from="1590462181982" duration="588000" />
+      <workItem from="1590474607034" duration="1496000" />
     </task>
     <task id="LOCAL-00114" summary="4.24 13 - update 4.24 class">
       <created>1587706282830</created>
@@ -849,7 +844,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590421217784</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="5.26 00 - update javabook Exercise 15">
+      <created>1590423902709</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1590423902710</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -858,7 +860,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="4.28 21 - update Unit21 Unit22" />
     <MESSAGE value="4.28 21 - update Unit23" />
     <MESSAGE value="4.28 21 - update Unit24" />
     <MESSAGE value="4.28 21 - update" />
@@ -883,7 +884,8 @@
     <MESSAGE value="5.25 15 - update 5.25 class" />
     <MESSAGE value="5.25 16 - update 5.25 class" />
     <MESSAGE value="5.25 23 - update 5.25 javabook Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.25 23 - update 5.25 javabook Exercise" />
+    <MESSAGE value="5.26 00 - update javabook Exercise 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.26 00 - update javabook Exercise 15" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -942,10 +944,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1590421211600">
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1590423900914">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590421211600" />
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590423900914" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -958,26 +960,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1590421129551">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1590423940290">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590421129551" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1590421129551">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590423940290" />
+    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1590423940290">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590421129551" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1590421129551">
+    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590423940290" />
+    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1590423940290">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590421129551" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1590421129551">
+    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590423940290" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1590423940290">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590421129551" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590423940290" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1015,10 +1017,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1590246444897" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1590421221365">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1590423905063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590421221365" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590423905063" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1590247620178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
