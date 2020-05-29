@@ -7,6 +7,9 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class java30_07_ConsumerProducer {
+    /**
+     * 创建静态缓冲区（仓库）
+     */
     private static Buffer buffer = new Buffer();
 
     public static void main(String[] args) {
@@ -27,7 +30,7 @@ public class java30_07_ConsumerProducer {
             try {
                 int i = 1;
                 while (true) {
-                    System.out.println("Producer writes " + i);
+                    System.out.println("生产者写道 Producer writes " + i);
                     // 向缓冲区添加值  Add a value to the buffer
                     buffer.write(i++);
                     // 让线程进入睡眠状态  Put the thread into sleep
@@ -63,8 +66,10 @@ public class java30_07_ConsumerProducer {
      * An inner class for buffer
      */
     private static class Buffer {
-        // 缓冲区大小  buffer size
+        // 缓冲区大小容量为1，常量  buffer size
         private static final int CAPACITY = 1;
+
+        // 使用线性表 LinkedList 来实现缓冲区
         private java.util.LinkedList<Integer> queue =
                 new java.util.LinkedList<Integer>();
 
@@ -75,6 +80,9 @@ public class java30_07_ConsumerProducer {
         private static Condition notEmpty = lock.newCondition();
         private static Condition notFull = lock.newCondition();
 
+        /**
+         * 写一个整数到缓冲区，生产者
+         */
         public void write(int value) {
             // 获取锁  Acquire the lock
             lock.lock();

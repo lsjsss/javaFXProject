@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="5.29 11 - update 5.29 class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_04_AccountWithoutSync$Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_04_AccountWithoutSync$Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_05_AccountWithSyncUsingLock$Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_05_AccountWithSyncUsingLock$Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_05_AccountWithSyncUsingLock$AddAPennyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_05_AccountWithSyncUsingLock$AddAPennyTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_05_AccountWithSyncUsingLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_05_AccountWithSyncUsingLock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_06_ThreadCooperation$Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_06_ThreadCooperation$Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_06_ThreadCooperation$DepositTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_06_ThreadCooperation$DepositTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_06_ThreadCooperation$WithdrawTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_06_ThreadCooperation$WithdrawTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/java30_06_ThreadCooperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit30/java30_06_ThreadCooperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java_Unit30/java30_07_ConsumerProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit30/java30_07_ConsumerProducer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -515,14 +506,7 @@
       <workItem from="1590418173083" duration="3715000" />
       <workItem from="1590462181982" duration="588000" />
       <workItem from="1590474607034" duration="8109000" />
-      <workItem from="1590717640665" duration="4461000" />
-    </task>
-    <task id="LOCAL-00117" summary="4.24 14 - update Unit20">
-      <created>1587711100356</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1587711100356</updated>
+      <workItem from="1590717640665" duration="4863000" />
     </task>
     <task id="LOCAL-00118" summary="4.24 15 - update Unit20">
       <created>1587712121564</created>
@@ -860,7 +844,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590721202708</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="5.29 11 - update 5.29 class">
+      <created>1590722545792</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1590722545792</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -953,10 +944,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1590721196642">
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1590722542581">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590721196642" />
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590722542581" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1026,10 +1017,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1590246444897" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1590721204255">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1590722547162">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590721204255" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590722547162" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1590247620178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
