@@ -15,8 +15,10 @@ public class java30_07_ConsumerProducer {
     public static void main(String[] args) {
         // 创建具有两个线程的线程池  Create a thread pool with two threads
         ExecutorService executor = Executors.newFixedThreadPool(2);
+        // 添加两个线程
         executor.execute(new ProducerTask());
         executor.execute(new ConsumerTask());
+        // 关闭线程池
         executor.shutdown();
     }
 
@@ -93,7 +95,8 @@ public class java30_07_ConsumerProducer {
                 }
 
                 queue.offer(value);
-                // 信号不为空状态  Signal notEmpty condition
+
+                // 信号不为空状态，唤醒进程  Signal notEmpty condition
                 notEmpty.signal();
             } catch (InterruptedException ex) {
                 ex.printStackTrace();
@@ -126,3 +129,4 @@ public class java30_07_ConsumerProducer {
         }
     }
 }
+// 模拟生产消费类问题，做为模型
