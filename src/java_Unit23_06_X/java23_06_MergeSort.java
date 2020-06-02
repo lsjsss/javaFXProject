@@ -1,51 +1,64 @@
-package java_Unit23_X;
+package java_Unit23_06_X;
 
 public class java23_06_MergeSort {
-  /** The method for sorting the numbers */
+  /**
+   * 数字排序方法
+   * The method for sorting the numbers
+   */
   public static void mergeSort(int[] list) {
     if (list.length > 1) {
-      // Merge sort the first half
+      // 合并排序前半部分  Merge sort the first half
       int[] firstHalf = new int[list.length / 2];
       System.arraycopy(list, 0, firstHalf, 0, list.length / 2);
       mergeSort(firstHalf);
 
-      // Merge sort the second half
+      // 下半年合并排序  Merge sort the second half
       int secondHalfLength = list.length - list.length / 2;
       int[] secondHalf = new int[secondHalfLength];
       System.arraycopy(list, list.length / 2,
         secondHalf, 0, secondHalfLength);
       mergeSort(secondHalf);
 
-      // Merge firstHalf with secondHalf into list
+      // 将firstHalf和secondHalf合并到列表中  Merge firstHalf with secondHalf into list
       merge(firstHalf, secondHalf, list);
     }
   }
 
   /** Merge two sorted lists */
   public static void merge(int[] list1, int[] list2, int[] temp) {
-    int current1 = 0; // Current index in list1
-    int current2 = 0; // Current index in list2
-    int current3 = 0; // Current index in temp
+    // list1中的当前索引  Current index in list1
+    int current1 = 0;
+    // list2中的当前索引  Current index in list2
+    int current2 = 0;
+    // 当前温度指数  Current index in temp
+    int current3 = 0;
 
     while (current1 < list1.length && current2 < list2.length) {
-      if (list1[current1] < list2[current2])
+      if (list1[current1] < list2[current2]) {
         temp[current3++] = list1[current1++];
-      else
+      } else {
         temp[current3++] = list2[current2++];
+      }
     }
 
-    while (current1 < list1.length)
+    while (current1 < list1.length) {
       temp[current3++] = list1[current1++];
+    }
 
-    while (current2 < list2.length)
+    while (current2 < list2.length) {
       temp[current3++] = list2[current2++];
+    }
   }
 
-  /** A test method */
+  /**
+   * 测试方法
+   * A test method
+   */
   public static void main(String[] args) {
     int[] list = {2, 3, 2, 5, 6, 1, -2, 3, 14, 12};
     mergeSort(list);
-    for (int i = 0; i < list.length; i++)
+    for (int i = 0; i < list.length; i++) {
       System.out.print(list[i] + " ");
+    }
   }
 }

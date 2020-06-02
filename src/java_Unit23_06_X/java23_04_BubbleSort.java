@@ -1,4 +1,4 @@
-package java_Unit23_X;
+package java_Unit23_06_X;
 
 public class java23_04_BubbleSort {
   /** Bubble sort method */
