@@ -4,16 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.1 16 - update 6.1 class">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.2 15 - update 6.2 class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23_X/java23_01_InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_06_X/java23_01_InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23_X/java23_04_BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_06_X/java23_04_BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23_X/java23_06_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_06_X/java23_06_MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23_X/java23_08_QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_06_X/java23_08_QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23_X/java23_09_Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_06_X/java23_09_Heap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23_X/java23_10_HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_06_X/java23_10_HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23_X/java23_11_CreateLargeFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_06_X/java23_11_CreateLargeFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23_X/java23_16_SortLargeFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_06_X/java23_16_SortLargeFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit23_06_X/java23_06_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_06_X/java23_06_MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java_Unit30/java30_10_ParallelMergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit30/java30_10_ParallelMergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -517,14 +510,7 @@
       <workItem from="1590474607034" duration="8109000" />
       <workItem from="1590717640665" duration="5683000" />
       <workItem from="1590994247953" duration="10070000" />
-      <workItem from="1591079630145" duration="1005000" />
-    </task>
-    <task id="LOCAL-00121" summary="4.24 15 - update Unit 19 Translate">
-      <created>1587713422883</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1587713422883</updated>
+      <workItem from="1591079630145" duration="4003000" />
     </task>
     <task id="LOCAL-00122" summary="4.24 15 - update Unit 19 Translate">
       <created>1587713450885</created>
@@ -862,7 +848,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591001248585</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="6.2 15 - update 6.2 class">
+      <created>1591081823087</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1591081823088</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -871,7 +864,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="5.07 23 - update" />
     <MESSAGE value="5.07 23 - update 5.07 class" />
     <MESSAGE value="5.09 15 - update 5.09 class" />
     <MESSAGE value="5.09 16 - update 5.09 class" />
@@ -896,7 +888,8 @@
     <MESSAGE value="5.26 14 - update 5.26 class" />
     <MESSAGE value="5.29 11 - update 5.29 class" />
     <MESSAGE value="6.1 16 - update 6.1 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.1 16 - update 6.1 class" />
+    <MESSAGE value="6.2 15 - update 6.2 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.2 15 - update 6.2 class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -955,10 +948,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591008410430">
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591081818634">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591008410430" />
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591081818634" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1024,14 +1017,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1161" y="270" width="540" height="524" key="StructurePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1584376792144" />
-    <state x="525" y="448" key="VCS.ChangelistChooser" timestamp="1591008406190">
+    <state x="525" y="448" key="VCS.ChangelistChooser" timestamp="1591081838282">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1591008406190" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591008381819">
+    <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1591081838282" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591081827127">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591008381819" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591081827127" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1590247620178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

@@ -28,20 +28,27 @@ public class java30_10_ParallelMergeSort {
                 " 处理器是 processors is " + (endTime - startTime) + " 毫秒 milliseconds");
 
         startTime = System.currentTimeMillis();
-        // MergeSort is in Listing 24.5
+        // MergeSort在清单23.6中  MergeSort is in Listing 23.6
         java23_06_MergeSort.mergeSort(list2);
         endTime = System.currentTimeMillis();
         System.out.println("\n顺序时间是 Sequential time is " +
                 (endTime - startTime) + " 毫秒 milliseconds");
     }
 
+    /**
+     * 并行合并排序
+     */
     public static void parallelMergeSort(int[] list) {
+        // 创建一个任务 SortTask()
         RecursiveAction mainTask = new SortTask(list);
+        // 创建一个线程池
         ForkJoinPool pool = new ForkJoinPool();
+        // 提交线程到线程池
         pool.invoke(mainTask);
     }
 
     private static class SortTask extends RecursiveAction {
+        // 数据量规模，数据量大于 500 并行
         private final int THRESHOLD = 500;
         private int[] list;
 
@@ -51,6 +58,7 @@ public class java30_10_ParallelMergeSort {
 
         @Override
         protected void compute() {
+            // 数据量规模小于 500. 直接使用 sort() 方法进行排序
             if (list.length < THRESHOLD) {
                 java.util.Arrays.sort(list);
             } else {
