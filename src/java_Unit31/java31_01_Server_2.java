@@ -7,6 +7,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Date;
 
+
 public class java31_01_Server_2 {
     public static void Server() throws IOException {
 //        while(true) {
@@ -71,3 +72,6 @@ public class java31_01_Server_2 {
         outputToClient.writeDouble(area);
     }
 }
+// 进程被占用时 cmd 命令
+// 检查正在占用 8000 端口在进程： jiannetstat -ano|findstr 8000
+// 结束对应编号在进程： taskkill -f -pid 21576
