@@ -100,3 +100,6 @@ public class java31_02_Client_2 {
         System.out.println(fromServer.readDouble());
     }
 }
+// 进程被占用时 cmd 命令
+// 检查正在占用 8000 端口在进程： jiannetstat -ano|findstr 8000
+// 结束对应编号在进程： taskkill -f -pid 21576
