@@ -15,43 +15,45 @@ import java.net.Socket;
 import java.util.Date;
 
 public class java31_01_Server extends Application {
-    @Override // Override the start method in the Application class
+    /** 覆盖Application类中的start方法 */
+    @Override
     public void start(Stage primaryStage) {
-        // Text area for displaying contents
+        // 用于显示内容的文本区域
         TextArea ta = new TextArea();
 
-        // Create a scene and place it in the stage
+        // 创建一个场景并将其放置在舞台上
         Scene scene = new Scene(new ScrollPane(ta), 450, 200);
-        // Set the stage title
+        // 设置舞台标题
         primaryStage.setTitle("java31_01_Server");
-        // Place the scene in the stage
+        // 将场景放置在舞台上
         primaryStage.setScene(scene);
-        primaryStage.show(); // Display the stage
+        // 展示舞台
+        primaryStage.show();
 
         new Thread(() -> {
             try {
-                // Create a server socket
+                // 创建服务器套接字
                 ServerSocket serverSocket = new ServerSocket(8000);
                 Platform.runLater(() ->
                         ta.appendText("java31_01_Server started at " + new Date() + '\n'));
 
-                // Listen for a connection request
+                // 监听连接请求
                 Socket socket = serverSocket.accept();
 
-                // Create data input and output streams
+                // 创建数据输入和输出流
                 DataInputStream inputFromClient = new DataInputStream(
                         socket.getInputStream());
                 DataOutputStream outputToClient = new DataOutputStream(
                         socket.getOutputStream());
 
                 while (true) {
-                    // Receive radius from the client
+                    // 从客户端接收半径
                     double radius = inputFromClient.readDouble();
 
-                    // Compute area
+                    // 计算面积
                     double area = radius * radius * Math.PI;
 
-                    // Send area back to the client
+                    // 将区域发送回客户
                     outputToClient.writeDouble(area);
 
                     Platform.runLater(() -> {
@@ -67,8 +69,7 @@ public class java31_01_Server extends Application {
     }
 
     /**
-     * The main method is only needed for the IDE with limited
-     * JavaFX support. Not needed for running from the command line.
+     * 仅具有有限JavaFX支持的IDE才需要main方法。从命令行运行不需要。
      */
     public static void main(String[] args) {
         launch(args);

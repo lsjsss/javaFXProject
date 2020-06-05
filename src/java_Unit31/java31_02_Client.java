@@ -18,72 +18,72 @@ import java.net.Socket;
 
 public class java31_02_Client extends Application {
     /**
-     * IO streams
+     * IO 流
      */
     DataOutputStream toServer = null;
     DataInputStream fromServer = null;
 
     /**
-     * Override the start method in the Application class
+     * 覆盖 Application 类中的 start 方法
      */
     @Override
     public void start(Stage primaryStage) {
-        // Panel p to hold the label and text field
+        // 面板 p 容纳标签和文本字段
         BorderPane paneForTextField = new BorderPane();
         paneForTextField.setPadding(new Insets(5, 5, 5, 5));
         paneForTextField.setStyle("-fx-border-color: green");
-        paneForTextField.setLeft(new Label("Enter a radius: "));
+        paneForTextField.setLeft(new Label("输入半径: "));
 
         TextField tf = new TextField();
         tf.setAlignment(Pos.BOTTOM_RIGHT);
         paneForTextField.setCenter(tf);
 
         BorderPane mainPane = new BorderPane();
-        // Text area to display contents
+        // 显示内容的文字区域
         TextArea ta = new TextArea();
         mainPane.setCenter(new ScrollPane(ta));
         mainPane.setTop(paneForTextField);
 
-        // Create a scene and place it in the stage
+        // 创建一个场景并将其放置在舞台上
         Scene scene = new Scene(mainPane, 450, 200);
-        // Set the stage title
+        // 设置舞台标题
         primaryStage.setTitle("java31_02_Client");
-        // Place the scene in the stage
+        // 将场景放置在舞台上
         primaryStage.setScene(scene);
-        // Display the stage
+        // 展示舞台
         primaryStage.show();
 
         tf.setOnAction(e -> {
             try {
-                // Get the radius from the text field
+                // 从文本字段获取半径
                 double radius = Double.parseDouble(tf.getText().trim());
 
-                // Send the radius to the server
+                // 将半径发送到服务器
                 toServer.writeDouble(radius);
+                // 清除流中的数据
                 toServer.flush();
 
-                // Get area from the server
+                // 从服务器获取区域
                 double area = fromServer.readDouble();
 
-                // Display to the text area
-                ta.appendText("Radius is " + radius + "\n");
-                ta.appendText("Area received from the server is "
-                        + area + '\n');
+                // 显示到文本区域
+                ta.appendText("半径为 " + radius + "\n");
+                ta.appendText("从服务器收到的面积是 " + area + '\n');
             } catch (IOException ex) {
                 System.err.println(ex);
             }
         });
 
         try {
-            // Create a socket to connect to the server
+            // 创建一个套接字以连接到服务器，127.0.0.1  指向本地机
             Socket socket = new Socket("localhost", 8000);
             // Socket socket = new Socket("130.254.204.36", 8000);
             // Socket socket = new Socket("drake.Armstrong.edu", 8000);
 
-            // Create an input stream to receive data from the server
+            // 创建输入流以从服务器接收数据
             fromServer = new DataInputStream(socket.getInputStream());
 
-            // Create an output stream to send data to the server
+            // 创建输出流以将数据发送到服务器
             toServer = new DataOutputStream(socket.getOutputStream());
         } catch (IOException ex) {
             ta.appendText(ex.toString() + '\n');
@@ -91,8 +91,7 @@ public class java31_02_Client extends Application {
     }
 
     /**
-     * The main method is only needed for the IDE with limited
-     * JavaFX support. Not needed for running from the command line.
+     * 仅具有有限JavaFX支持的IDE才需要main方法。从命令行运行不需要。
      */
     public static void main(String[] args) {
         launch(args);

@@ -4,10 +4,28 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.2 15 - update 6.2 class">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.2 16 - update 6.2 class">
+      <change afterPath="$PROJECT_DIR$/src/java_Unit31/java31_01_Server_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Unit31/java31_02_Client_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit23_06_X/java23_06_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit23_06_X/java23_06_MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit30/java30_10_ParallelMergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit30/java30_10_ParallelMergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_01_InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_04_BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_06_MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_08_QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_09_Heap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_10_HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_11_CreateLargeFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit23_X/java23_16_SortLargeFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_08_ConsumerProducerUsingBlockingQueue$ConsumerTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_08_ConsumerProducerUsingBlockingQueue$ConsumerTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_08_ConsumerProducerUsingBlockingQueue$ProducerTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_08_ConsumerProducerUsingBlockingQueue$ProducerTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_08_ConsumerProducerUsingBlockingQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_08_ConsumerProducerUsingBlockingQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_10_ParallelMergeSort$SortTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_10_ParallelMergeSort$SortTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_10_ParallelMergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit30/java30_10_ParallelMergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_01_Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_01_Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_02_Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_02_Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit31/java31_01_Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit31/java31_01_Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit31/java31_02_Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit31/java31_02_Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,18 +137,6 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="java_Unit13" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Idea Project\javaFXProject\src\javafxsource" />
-      <recent name="E:\Idea Project\javaFXProject\src" />
-      <recent name="E:\Idea Project\javaFXProject" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="java_Book_Exercise15" />
-      <recent name="java_Book_Exercises14" />
-      <recent name="java_Unit20" />
-      <recent name="java_Unit20.java5_09class" />
-      <recent name="javahomework" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Idea Project\javaFXProject\src" />
       <recent name="E:\Idea Project\javaFXProject\src\java_Book_Exercises14" />
@@ -138,8 +144,20 @@
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit31" />
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit30" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java_Unit31" />
+      <recent name="java_Book_Exercise15" />
+      <recent name="java_Book_Exercises14" />
+      <recent name="java_Unit20" />
+      <recent name="java_Unit20.java5_09class" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Idea Project\javaFXProject\src\javafxsource" />
+      <recent name="E:\Idea Project\javaFXProject\src" />
+      <recent name="E:\Idea Project\javaFXProject" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.java30_07_ConsumerProducer">
+  <component name="RunManager" selected="Application.java31_01_Server_2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -165,20 +183,6 @@
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
-    <configuration name="Exercise15_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Book_Exercise15.Exercise15_04" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Book_Exercise15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="javaClass.sample.Main" />
       <module name="javaFXProject" />
@@ -201,48 +205,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java30_03_ExecutorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit30.java30_03_ExecutorDemo" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java30_04_AccountWithoutSync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit30.java30_04_AccountWithoutSync" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java30_06_ThreadCooperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit30.java30_06_ThreadCooperation" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="java30_07_ConsumerProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_Unit30.java30_07_ConsumerProducer" />
       <module name="javaFXProject" />
@@ -250,6 +212,62 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_Unit30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java31_01_Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit31.java31_01_Server" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java31_01_Server_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit31.java31_01_Server_2" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java31_02_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit31.java31_02_Client" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java31_02_Client_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit31.java31_02_Client_2" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,19 +308,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Exercise15_04" />
-      <item itemvalue="Application.java30_03_ExecutorDemo" />
-      <item itemvalue="Application.java30_04_AccountWithoutSync" />
-      <item itemvalue="Application.java30_06_ThreadCooperation" />
       <item itemvalue="Application.java30_07_ConsumerProducer" />
+      <item itemvalue="Application.java31_01_Server" />
+      <item itemvalue="Application.java31_02_Client" />
+      <item itemvalue="Application.java31_01_Server_2" />
+      <item itemvalue="Application.java31_02_Client_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java31_01_Server_2" />
+        <item itemvalue="Application.java31_02_Client_2" />
+        <item itemvalue="Application.java31_01_Server" />
+        <item itemvalue="Application.java31_02_Client" />
         <item itemvalue="Application.java30_07_ConsumerProducer" />
-        <item itemvalue="Application.java30_06_ThreadCooperation" />
-        <item itemvalue="Application.java30_04_AccountWithoutSync" />
-        <item itemvalue="Application.java30_03_ExecutorDemo" />
-        <item itemvalue="Application.Exercise15_04" />
       </list>
     </recent_temporary>
   </component>
@@ -510,14 +528,11 @@
       <workItem from="1590474607034" duration="8109000" />
       <workItem from="1590717640665" duration="5683000" />
       <workItem from="1590994247953" duration="10070000" />
-      <workItem from="1591079630145" duration="4003000" />
-    </task>
-    <task id="LOCAL-00122" summary="4.24 15 - update Unit 19 Translate">
-      <created>1587713450885</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1587713450885</updated>
+      <workItem from="1591079630145" duration="4442000" />
+      <workItem from="1591109500782" duration="229000" />
+      <workItem from="1591186368225" duration="191000" />
+      <workItem from="1591322343424" duration="4757000" />
+      <workItem from="1591327946252" duration="17336000" />
     </task>
     <task id="LOCAL-00123" summary="4.24 15 - update Unit 19 Translate">
       <created>1587713837906</created>
@@ -855,7 +870,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591081823088</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="6.2 16 - update 6.2 class">
+      <created>1591086025974</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1591086025975</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -864,7 +886,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="5.07 23 - update 5.07 class" />
     <MESSAGE value="5.09 15 - update 5.09 class" />
     <MESSAGE value="5.09 16 - update 5.09 class" />
     <MESSAGE value="5.11 14 - update 5.11 class" />
@@ -889,7 +910,8 @@
     <MESSAGE value="5.29 11 - update 5.29 class" />
     <MESSAGE value="6.1 16 - update 6.1 class" />
     <MESSAGE value="6.2 15 - update 6.2 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.2 15 - update 6.2 class" />
+    <MESSAGE value="6.2 16 - update 6.2 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.2 16 - update 6.2 class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -948,42 +970,42 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591081818634">
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591086023956">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591081818634" />
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591086023956" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="0" y="90" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584621334054" />
-    <state x="256" y="227" key="FileChooserDialogImpl" timestamp="1590480215526">
+    <state x="256" y="227" key="FileChooserDialogImpl" timestamp="1591186486212">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="256" y="227" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1590480215526" />
+    <state x="256" y="227" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1591186486212" />
     <state x="819" y="415" key="Github.ShareDialog" timestamp="1584340175443">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1590723756424">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1591362450777">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590723756424" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1590723756424">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591362450777" />
+    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1591362450777">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590723756424" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1590723756423">
+    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591362450777" />
+    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1591362450777">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590723756423" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1590723756424">
+    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591362450777" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1591362450777">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590723756424" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591362450777" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1021,10 +1043,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1591081838282" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591081827127">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591086030507">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591081827127" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591086030507" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1590247620178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
