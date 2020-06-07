@@ -43,6 +43,23 @@ public class java31_02_Client_2 {
 //        // 展示舞台
 //        primaryStage.show();
 
+
+        //        try {
+        // 创建一个套接字以连接到服务器，127.0.0.1  指向本地机
+        Socket socket = new Socket("localhost", 8000);
+        // Socket socket = new Socket("130.254.204.36", 8000);
+        // Socket socket = new Socket("drake.Armstrong.edu", 8000);
+
+        // 创建输入流以从服务器接收数据
+        fromServer = new DataInputStream(socket.getInputStream());
+
+        // 创建输出流以将数据发送到服务器
+        toServer = new DataOutputStream(socket.getOutputStream());
+//        } catch (IOException ex) {
+//            System.out.println(ex.toString() + '\n');
+//        }
+
+
         while (true) {
             System.out.print("输入半径: ");
             radius = input.nextDouble();
@@ -69,20 +86,7 @@ public class java31_02_Client_2 {
 //        });
 
 
-//        try {
-            // 创建一个套接字以连接到服务器，127.0.0.1  指向本地机
-            Socket socket = new Socket("localhost", 8000);
-            // Socket socket = new Socket("130.254.204.36", 8000);
-            // Socket socket = new Socket("drake.Armstrong.edu", 8000);
 
-            // 创建输入流以从服务器接收数据
-            fromServer = new DataInputStream(socket.getInputStream());
-
-            // 创建输出流以将数据发送到服务器
-            toServer = new DataOutputStream(socket.getOutputStream());
-//        } catch (IOException ex) {
-//            System.out.println(ex.toString() + '\n');
-//        }
         }
     }
 
@@ -92,14 +96,28 @@ public class java31_02_Client_2 {
     public static void main(String[] args) throws IOException {
 //        Client();
 
-        // 示例代码
         Socket socket = new Socket("127.0.0.1", 8000);
         DataInputStream fromServer = new DataInputStream(socket.getInputStream());
         DataOutputStream toServer = new DataOutputStream(socket.getOutputStream());
-        toServer.writeDouble(13.0);
-        System.out.println(fromServer.readDouble());
+
+        while (true) {
+            System.out.println("输入半径：");
+            Scanner input = new Scanner(System.in);
+            double radius = input.nextDouble();
+
+
+            toServer.writeDouble(radius);
+            System.out.println(fromServer.readDouble());
+        }
+
+        // 示例代码
+//        Socket socket = new Socket("127.0.0.1", 8000);
+//        DataInputStream fromServer = new DataInputStream(socket.getInputStream());
+//        DataOutputStream toServer = new DataOutputStream(socket.getOutputStream());
+//        toServer.writeDouble(13.0);
+//        System.out.println(fromServer.readDouble());
     }
 }
 // 进程被占用时 cmd 命令
-// 检查正在占用 8000 端口在进程： jiannetstat -ano|findstr 8000
+// 检查正在占用 8000 端口在进程： netstat -ano|findstr 8000
 // 结束对应编号在进程： taskkill -f -pid 21576

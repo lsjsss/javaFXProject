@@ -62,14 +62,26 @@ public class java31_01_Server_2 {
     public static void main(String[] args) throws IOException {
 //        Server();
 
-        // 示例代码
         ServerSocket serverSocket = new ServerSocket(8000);
         Socket socket = serverSocket.accept();
         DataInputStream inputFromClient = new DataInputStream(socket.getInputStream());
         DataOutputStream outputToClient = new DataOutputStream(socket.getOutputStream());
-        double radius = inputFromClient.readDouble();
-        double area = radius * radius * Math.PI;
-        outputToClient.writeDouble(area);
+
+        while (true) {
+            double radius = inputFromClient.readDouble();
+            double area = radius * radius * Math.PI;
+            outputToClient.writeDouble(area);
+            System.out.println(area);
+        }
+
+        // 示例代码
+//        ServerSocket serverSocket = new ServerSocket(8000);
+//        Socket socket = serverSocket.accept();
+//        DataInputStream inputFromClient = new DataInputStream(socket.getInputStream());
+//        DataOutputStream outputToClient = new DataOutputStream(socket.getOutputStream());
+//        double radius = inputFromClient.readDouble();
+//        double area = radius * radius * Math.PI;
+//        outputToClient.writeDouble(area);
     }
 }
 // 进程被占用时 cmd 命令
