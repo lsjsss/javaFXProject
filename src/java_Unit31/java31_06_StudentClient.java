@@ -54,6 +54,7 @@ public class java31_06_StudentClient extends Application {
         tfState.setPrefColumnCount(2);
         tfZip.setPrefColumnCount(3);
 
+        // 设置监听
         btRegister.setOnAction(new ButtonListener());
 
         // Create a scene and place it in the stage
@@ -68,6 +69,7 @@ public class java31_06_StudentClient extends Application {
 
     /**
      * Handle button action
+     * 单击按钮触发事件，将学生对象传送到服务器
      */
     private class ButtonListener implements EventHandler<ActionEvent> {
         @Override
@@ -81,6 +83,7 @@ public class java31_06_StudentClient extends Application {
                         new ObjectOutputStream(socket.getOutputStream());
 
                 // Get text field
+                // 为变量赋值
                 String name = tfName.getText().trim();
                 String street = tfStreet.getText().trim();
                 String city = tfCity.getText().trim();
@@ -88,6 +91,7 @@ public class java31_06_StudentClient extends Application {
                 String zip = tfZip.getText().trim();
 
                 // Create a Student object and send to the server
+                // 通过变量生成学生对象
                 java31_05_StudentAddress s =
                         new java31_05_StudentAddress(name, street, city, state, zip);
                 toServer.writeObject(s);
