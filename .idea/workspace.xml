@@ -4,10 +4,12 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.7 13 - update 6.5 class">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.8 14 - update 6.8 class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java_Unit31/java31_01_Server_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit31/java31_01_Server_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit31/java31_02_Client_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit31/java31_02_Client_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit31/java31_04_MultiThreadServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit31/java31_04_MultiThreadServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit31/java31_06_StudentClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit31/java31_06_StudentClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit31/java31_07_StudentServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit31/java31_07_StudentServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +141,7 @@
       <recent name="E:\Idea Project\javaFXProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java31_02_Client_2">
+  <component name="RunManager" selected="Application.java31_02_Client">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -183,20 +185,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java30_07_ConsumerProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit30.java30_07_ConsumerProducer" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -257,6 +245,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java31_04_MultiThreadServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit31.java31_04_MultiThreadServer" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Unit31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -290,19 +292,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.java30_07_ConsumerProducer" />
       <item itemvalue="Application.java31_01_Server" />
       <item itemvalue="Application.java31_02_Client" />
       <item itemvalue="Application.java31_01_Server_2" />
       <item itemvalue="Application.java31_02_Client_2" />
+      <item itemvalue="Application.java31_04_MultiThreadServer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java31_02_Client" />
         <item itemvalue="Application.java31_02_Client_2" />
+        <item itemvalue="Application.java31_04_MultiThreadServer" />
         <item itemvalue="Application.java31_01_Server_2" />
         <item itemvalue="Application.java31_01_Server" />
-        <item itemvalue="Application.java31_02_Client" />
-        <item itemvalue="Application.java30_07_ConsumerProducer" />
       </list>
     </recent_temporary>
   </component>
@@ -518,14 +520,7 @@
       <workItem from="1591415399941" duration="4159000" />
       <workItem from="1591462083465" duration="301000" />
       <workItem from="1591505979280" duration="5593000" />
-      <workItem from="1591598512176" duration="938000" />
-    </task>
-    <task id="LOCAL-00127" summary="4.27 15 - update java 4.27 class">
-      <created>1587973602056</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1587973602056</updated>
+      <workItem from="1591598512176" duration="4141000" />
     </task>
     <task id="LOCAL-00128" summary="4.28 17 - update java 4.28 class">
       <created>1588065082433</created>
@@ -863,7 +858,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591506043566</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="6.8 14 - update 6.8 class">
+      <created>1591599525226</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1591599525227</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -872,7 +874,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="5.11 16 - update 5.11 class" />
     <MESSAGE value="5.12 16 - update 5.12 class" />
     <MESSAGE value="5.17 22 - update 5.15 class" />
     <MESSAGE value="5.18 15 - update 5.18 class" />
@@ -897,7 +898,8 @@
     <MESSAGE value="6.5 21 - update 6.5 class" />
     <MESSAGE value="6.7 00 - update 6.5 class" />
     <MESSAGE value="6.7 13 - update 6.5 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.7 13 - update 6.5 class" />
+    <MESSAGE value="6.8 14 - update 6.8 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.8 14 - update 6.8 class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -956,10 +958,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591506037453">
+    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591599522468">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591506037453" />
+    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591599522468" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -972,26 +974,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1591599012500">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1591601711498">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591599012500" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1591599012500">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591601711498" />
+    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1591601711498">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591599012500" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1591599012500">
+    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591601711498" />
+    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1591601711498">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591599012500" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1591599012500">
+    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591601711498" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1591601711498">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591599012500" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591601711498" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1029,10 +1031,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1591363188098" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591506111302">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591599534428">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591506111302" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591599534428" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1590247620178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

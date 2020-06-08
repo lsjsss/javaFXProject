@@ -16,52 +16,63 @@ import java.net.Socket;
 import java.util.Date;
 
 public class java31_04_MultiThreadServer extends Application {
-    /** Text area for displaying contents */
+    /**
+     * 用于显示内容的文本区域
+     * Text area for displaying contents
+     */
     private TextArea ta = new TextArea();
 
-    /** Number a client */
+    /**
+     * 为客户编号 (客户端编号)
+     * Number a client
+     */
     private int clientNo = 0;
 
-    /** Override the start method in the Application class */
+    /**
+     * 覆盖Application类中的start方法
+     * Override the start method in the Application class
+     */
     @Override
     public void start(Stage primaryStage) {
-        // Create a scene and place it in the stage
+        // 创建一个场景并将其放置在舞台上  Create a scene and place it in the stage
         Scene scene = new Scene(new ScrollPane(ta), 450, 200);
-        // Set the stage title
+        // 设置舞台标题  Set the stage title
         primaryStage.setTitle("java31_04_MultiThreadServer");
-        // Place the scene in the stage
+        // 将场景放置在舞台上  Place the scene in the stage
         primaryStage.setScene(scene);
-        // Display the stage
+        // 展示舞台  Display the stage
         primaryStage.show();
 
+        // lamdba 表达式
         new Thread(() -> {
             try {
-                // Create a server socket
+                // 创建服务器套接字  Create a server socket
                 ServerSocket serverSocket = new ServerSocket(8000);
+                // 显示启动时间
                 ta.appendText("java31_04_MultiThreadServer started at "
                         + new Date() + '\n');
 
                 while (true) {
-                    // Listen for a new connection request
+                    // 收听新的连接请求  Listen for a new connection request
                     Socket socket = serverSocket.accept();
 
-                    // Increment clientNo
+                    // 客户端增加  Increment clientNo
                     clientNo++;
 
                     Platform.runLater(() -> {
-                        // Display the client number
-                        ta.appendText("Starting thread for client " + clientNo +
+                        // 显示客户编号  Display the client number
+                        ta.appendText("客户端启动线程 " + clientNo +
                                 " at " + new Date() + '\n');
 
-                        // Find the client's host name, and IP address
+                        // 查找客户端的主机名和IP地址  Find the client's host name, and IP address
                         InetAddress inetAddress = socket.getInetAddress();
-                        ta.appendText("java31_02_Client " + clientNo + "'s host name is "
+                        ta.appendText("java31_02_Client " + clientNo + "'s 的主机名是 "
                                 + inetAddress.getHostName() + "\n");
-                        ta.appendText("java31_02_Client " + clientNo + "'s IP Address is "
+                        ta.appendText("java31_02_Client " + clientNo + "'s 的 IP 地址是 "
                                 + inetAddress.getHostAddress() + "\n");
                     });
 
-                    // Create and start a new thread for the connection
+                    // 创建并启动新的连接线程  Create and start a new thread for the connection
                     new Thread(new HandleAClient(socket)).start();
                 }
             } catch (IOException ex) {
@@ -72,7 +83,8 @@ public class java31_04_MultiThreadServer extends Application {
 
     /** Define the thread class for handling new connection */
     class HandleAClient implements Runnable {
-        private Socket socket; // A connected socket
+        // A connected socket
+        private Socket socket;
 
         /**
          * Construct a thread
@@ -87,13 +99,13 @@ public class java31_04_MultiThreadServer extends Application {
         @Override
         public void run() {
             try {
-                // Create data input and output streams
+                // 创建数据输入和输出流  Create data input and output streams
                 DataInputStream inputFromClient = new DataInputStream(
                         socket.getInputStream());
                 DataOutputStream outputToClient = new DataOutputStream(
                         socket.getOutputStream());
 
-                // Continuously serve the client
+                // 持续为客户服务  Continuously serve the client
                 while (true) {
                     // Receive radius from the client
                     double radius = inputFromClient.readDouble();

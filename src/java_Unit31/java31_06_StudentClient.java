@@ -16,7 +16,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 import java.net.Socket;
-
+/** 学生客户端 */
 public class java31_06_StudentClient extends Application {
     private TextField tfName = new TextField();
     private TextField tfStreet = new TextField();
@@ -25,6 +25,7 @@ public class java31_06_StudentClient extends Application {
     private TextField tfZip = new TextField();
 
     /** Button for sending a student to the server */
+    /** 注册按钮 */
     private Button btRegister = new Button("Register to the java31_01_Server");
 
     /** Host name or ip */

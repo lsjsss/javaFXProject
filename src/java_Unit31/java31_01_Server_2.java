@@ -67,7 +67,7 @@ public class java31_01_Server_2 {
         // 接收客户端请求
         Socket socket = serverSocket.accept();
 
-        // 附加：显示客户机主机名
+        /** 附加：显示客户机主机名 */
         InetAddress inetAddress = socket.getInetAddress();
         System.out.println("客户机名称：" + inetAddress.getHostName());
         System.out.println("客户机IP:" + inetAddress.getHostAddress());
