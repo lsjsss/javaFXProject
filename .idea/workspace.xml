@@ -4,10 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.7 00 - update 6.5 class">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.7 13 - update 6.5 class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/META-INF/javaFXProject.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java_Unit31/java31_01_Server_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit31/java31_01_Server_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java_Unit31/java31_02_Client_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit31/java31_02_Client_2.java" afterDir="false" />
     </list>
@@ -519,13 +517,8 @@
       <workItem from="1591327946252" duration="18138000" />
       <workItem from="1591415399941" duration="4159000" />
       <workItem from="1591462083465" duration="301000" />
-    </task>
-    <task id="LOCAL-00126" summary="4.26 16 - update java 4.26 class">
-      <created>1587890037790</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1587890037790</updated>
+      <workItem from="1591505979280" duration="5593000" />
+      <workItem from="1591598512176" duration="938000" />
     </task>
     <task id="LOCAL-00127" summary="4.27 15 - update java 4.27 class">
       <created>1587973602056</created>
@@ -863,7 +856,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591363366949</updated>
     </task>
-    <option name="localTasksCounter" value="175" />
+    <task id="LOCAL-00175" summary="6.7 13 - update 6.5 class">
+      <created>1591506043565</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1591506043566</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -872,7 +872,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="5.11 14 - update 5.11 class" />
     <MESSAGE value="5.11 16 - update 5.11 class" />
     <MESSAGE value="5.12 16 - update 5.12 class" />
     <MESSAGE value="5.17 22 - update 5.15 class" />
@@ -897,7 +896,8 @@
     <MESSAGE value="6.2 16 - update 6.2 class" />
     <MESSAGE value="6.5 21 - update 6.5 class" />
     <MESSAGE value="6.7 00 - update 6.5 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.7 00 - update 6.5 class" />
+    <MESSAGE value="6.7 13 - update 6.5 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.7 13 - update 6.5 class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -956,10 +956,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591462383059">
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591506037453">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591462383059" />
+    <state x="161" y="149" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591506037453" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -972,26 +972,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1591462344715">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1591599012500">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591462344715" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1591462344715">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591599012500" />
+    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1591599012500">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591462344715" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1591462344715">
+    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591599012500" />
+    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1591599012500">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591462344715" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1591462344715">
+    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591599012500" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1591599012500">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591462344715" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591599012500" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1029,10 +1029,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1591363188098" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591363368244">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591506111302">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591363368244" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591506111302" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1590247620178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

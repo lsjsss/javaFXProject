@@ -84,9 +84,6 @@ public class java31_02_Client_2 {
 //                System.err.println(ex);
 //            }
 //        });
-
-
-
         }
     }
 
@@ -96,7 +93,8 @@ public class java31_02_Client_2 {
     public static void main(String[] args) throws IOException {
 //        Client();
 
-        Socket socket = new Socket("127.0.0.1", 8000);
+        // 连接服务器
+        Socket socket = new Socket("localhost", 8000);
         DataInputStream fromServer = new DataInputStream(socket.getInputStream());
         DataOutputStream toServer = new DataOutputStream(socket.getOutputStream());
 

@@ -3,6 +3,7 @@ package java_Unit31;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
+import java.net.InetAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Date;
@@ -63,7 +64,14 @@ public class java31_01_Server_2 {
 //        Server();
 
         ServerSocket serverSocket = new ServerSocket(8000);
+        // 接收客户端请求
         Socket socket = serverSocket.accept();
+
+        // 附加：显示客户机主机名
+        InetAddress inetAddress = socket.getInetAddress();
+        System.out.println("客户机名称：" + inetAddress.getHostName());
+        System.out.println("客户机IP:" + inetAddress.getHostAddress());
+
         DataInputStream inputFromClient = new DataInputStream(socket.getInputStream());
         DataOutputStream outputToClient = new DataOutputStream(socket.getOutputStream());
 
