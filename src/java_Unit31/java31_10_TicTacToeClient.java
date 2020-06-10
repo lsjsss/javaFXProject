@@ -76,7 +76,7 @@ public class java31_10_TicTacToeClient extends Application
      */
     private String host = "localhost";
 
-    // Override the start method in the Application class
+    /** Override the start method in the Application class */
     @Override
     public void start(Stage primaryStage) {
         // Pane to hold cell

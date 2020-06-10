@@ -13,20 +13,23 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Date;
-
+/** 井字游戏：图形用户界面 */
 public class java31_09_TicTacToeServer extends Application
         implements java31_08_TicTacToeConstants {
     /**
      * Number a session
+     * 棋桌
      */
     private int sessionNo = 1;
 
-    // Override the start method in the Application class
+    /**
+     * Override the start method in the Application class
+     */
     @Override
     public void start(Stage primaryStage) {
         TextArea taLog = new TextArea();
 
-        // Create a scene and place it in the stage
+        // 滚动面板  Create a scene and place it in the stage
         Scene scene = new Scene(new ScrollPane(taLog), 450, 200);
         // Set the stage title
         primaryStage.setTitle("java31_09_TicTacToeServer");
@@ -61,6 +64,7 @@ public class java31_09_TicTacToeServer extends Application
                             player1.getOutputStream()).writeInt(PLAYER1);
 
                     // Connect to player 2
+                    // 两个玩家
                     Socket player2 = serverSocket.accept();
 
                     Platform.runLater(() -> {
@@ -80,6 +84,7 @@ public class java31_09_TicTacToeServer extends Application
                                     ": Start a thread for session " + sessionNo++ + '\n'));
 
                     // Launch a new thread for this session of two players
+                    // 让玩家 1 和玩家 2 参与游戏
                     new Thread(new HandleASession(player1, player2)).start();
                 }
             } catch (IOException ex) {
@@ -96,6 +101,7 @@ public class java31_09_TicTacToeServer extends Application
         private Socket player2;
 
         // Create and initialize cells
+        // 判断玩家输赢情况
         private char[][] cell = new char[3][3];
 
         private DataInputStream fromPlayer1;
@@ -128,6 +134,7 @@ public class java31_09_TicTacToeServer extends Application
         public void run() {
             try {
                 // Create data input and output streams
+                // 建立数据的输入输出流
                 DataInputStream fromPlayer1 = new DataInputStream(
                         player1.getInputStream());
                 DataOutputStream toPlayer1 = new DataOutputStream(
@@ -150,6 +157,7 @@ public class java31_09_TicTacToeServer extends Application
                     cell[row][column] = 'X';
 
                     // Check if Player 1 wins
+                    // 判断 X 是否在一条直线上
                     if (isWon('X')) {
                         toPlayer1.writeInt(PLAYER1_WON);
                         toPlayer2.writeInt(PLAYER1_WON);
