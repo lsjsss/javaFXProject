@@ -4,15 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.8 16 - update 6.8 class">
-      <change afterPath="$PROJECT_DIR$/src/middleTest/Exercise16_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middleTest/java16_2_ButtonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middleTest/java16_8_ComboBoxDemo.java" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.11 00 - update middleTest">
+      <change afterPath="$PROJECT_DIR$/src/middleTest/Exercise16_20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_09_TicTacToeServer$HandleASession.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_09_TicTacToeServer$HandleASession.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_09_TicTacToeServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit31/java31_09_TicTacToeServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit31/java31_09_TicTacToeServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit31/java31_09_TicTacToeServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit31/java31_10_TicTacToeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit31/java31_10_TicTacToeClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +138,7 @@
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit30" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java16_8_ComboBoxDemo (1)">
+  <component name="RunManager" selected="Application.java16_1_LabelWithGraphic">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -170,10 +164,16 @@
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
-    <configuration name="Exercise16_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middleTest.Exercise16_03" />
+    <configuration name="Exercise16_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="middleTest.Exercise16_20" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="middleTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -200,6 +200,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java16_11_SliderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBook_JavaFX_Unit14_15_16.java16_11_SliderDemo" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBook_JavaFX_Unit14_15_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java16_1_LabelWithGraphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBook_JavaFX_Unit14_15_16.java16_1_LabelWithGraphic" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBook_JavaFX_Unit14_15_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="java16_2_ButtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="middleTest.java16_2_ButtonDemo" />
       <module name="javaFXProject" />
@@ -221,33 +249,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="middleTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java16_8_ComboBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBook_JavaFX_Unit14_15_16.java16_8_ComboBoxDemo" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaBook_JavaFX_Unit14_15_16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java31_10_TicTacToeClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Unit31.java31_10_TicTacToeClient" />
-      <module name="javaFXProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Unit31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,19 +289,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.java31_10_TicTacToeClient" />
-      <item itemvalue="Application.Exercise16_03" />
-      <item itemvalue="Application.java16_8_ComboBoxDemo" />
       <item itemvalue="Application.java16_8_ComboBoxDemo (1)" />
       <item itemvalue="Application.java16_2_ButtonDemo" />
+      <item itemvalue="Application.Exercise16_20" />
+      <item itemvalue="Application.java16_11_SliderDemo" />
+      <item itemvalue="Application.java16_1_LabelWithGraphic" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java16_1_LabelWithGraphic" />
+        <item itemvalue="Application.java16_11_SliderDemo" />
+        <item itemvalue="Application.Exercise16_20" />
         <item itemvalue="Application.java16_8_ComboBoxDemo (1)" />
         <item itemvalue="Application.java16_2_ButtonDemo" />
-        <item itemvalue="Application.Exercise16_03" />
-        <item itemvalue="Application.java16_8_ComboBoxDemo" />
-        <item itemvalue="Application.java31_10_TicTacToeClient" />
       </list>
     </recent_temporary>
   </component>
@@ -518,14 +519,11 @@
       <workItem from="1591505979280" duration="5593000" />
       <workItem from="1591598512176" duration="7539000" />
       <workItem from="1591669347109" duration="12306000" />
-      <workItem from="1591806110438" duration="2245000" />
-    </task>
-    <task id="LOCAL-00131" summary="4.28 21 - update Unit24">
-      <created>1588081009821</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1588081009821</updated>
+      <workItem from="1591806110438" duration="2469000" />
+      <workItem from="1591862519223" duration="3567000" />
+      <workItem from="1591897074148" duration="204000" />
+      <workItem from="1591926800173" duration="1237000" />
+      <workItem from="1591964462273" duration="2144000" />
     </task>
     <task id="LOCAL-00132" summary="4.28 21 - update">
       <created>1588081155023</created>
@@ -863,7 +861,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591603735178</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="6.11 00 - update middleTest">
+      <created>1591808425147</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1591808425148</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -872,7 +877,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="5.18 15 - update 5.18 class" />
     <MESSAGE value="5.18 16 - update 5.18 class" />
     <MESSAGE value="5.19 15 - update 5.19 class" />
     <MESSAGE value="5.19 16 - update 5.19 class" />
@@ -897,7 +901,8 @@
     <MESSAGE value="6.8 14 - update 6.8 class" />
     <MESSAGE value="6.8 15 - update 6.8 class" />
     <MESSAGE value="6.8 16 - update 6.8 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.8 16 - update 6.8 class" />
+    <MESSAGE value="6.11 00 - update middleTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.11 00 - update middleTest" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -956,42 +961,42 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591603733768">
+    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591808421007">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591603733768" />
+    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591808421007" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="0" y="90" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584621334054" />
-    <state x="66" y="252" key="FileChooserDialogImpl" timestamp="1591690594753">
+    <state x="66" y="252" key="FileChooserDialogImpl" timestamp="1591927810283">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="66" y="252" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1591690594753" />
+    <state x="66" y="252" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1591927810283" />
     <state x="819" y="415" key="Github.ShareDialog" timestamp="1584340175443">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1591807959653">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1591970071820">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591807959653" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1591807959653">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591970071820" />
+    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1591970071820">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591807959653" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1591807959653">
+    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591970071820" />
+    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1591970071820">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591807959653" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1591807959653">
+    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591970071820" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1591970071820">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591807959653" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591970071820" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1029,10 +1034,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1591603049372" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591603739651">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591808427027">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591603739651" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591808427027" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1590247620178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
