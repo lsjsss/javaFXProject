@@ -4,8 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.11 00 - update middleTest">
-      <change afterPath="$PROJECT_DIR$/src/middleTest/Exercise16_20.java" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.12 23 - update middleTest">
+      <change afterPath="$PROJECT_DIR$/src/middleTest/Srlect20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +138,7 @@
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit30" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java16_1_LabelWithGraphic">
+  <component name="RunManager" selected="Application.Srlect20">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -194,6 +194,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Srlect20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="middleTest.Srlect20" />
+      <module name="javaFXProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="middleTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -221,20 +235,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javaBook_JavaFX_Unit14_15_16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java16_2_ButtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middleTest.java16_2_ButtonDemo" />
-      <module name="javaFXProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="middleTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,18 +290,18 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.java16_8_ComboBoxDemo (1)" />
-      <item itemvalue="Application.java16_2_ButtonDemo" />
       <item itemvalue="Application.Exercise16_20" />
       <item itemvalue="Application.java16_11_SliderDemo" />
       <item itemvalue="Application.java16_1_LabelWithGraphic" />
+      <item itemvalue="Application.Srlect20" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Srlect20" />
+        <item itemvalue="Application.Exercise16_20" />
         <item itemvalue="Application.java16_1_LabelWithGraphic" />
         <item itemvalue="Application.java16_11_SliderDemo" />
-        <item itemvalue="Application.Exercise16_20" />
         <item itemvalue="Application.java16_8_ComboBoxDemo (1)" />
-        <item itemvalue="Application.java16_2_ButtonDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -523,14 +523,11 @@
       <workItem from="1591862519223" duration="3567000" />
       <workItem from="1591897074148" duration="204000" />
       <workItem from="1591926800173" duration="1237000" />
-      <workItem from="1591964462273" duration="2144000" />
-    </task>
-    <task id="LOCAL-00132" summary="4.28 21 - update">
-      <created>1588081155023</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1588081155023</updated>
+      <workItem from="1591964462273" duration="2368000" />
+      <workItem from="1591975802909" duration="12000" />
+      <workItem from="1591979972682" duration="795000" />
+      <workItem from="1592017277322" duration="193000" />
+      <workItem from="1592115136857" duration="760000" />
     </task>
     <task id="LOCAL-00133" summary="4.28 21 - update">
       <created>1588081954545</created>
@@ -868,7 +865,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591808425148</updated>
     </task>
-    <option name="localTasksCounter" value="181" />
+    <task id="LOCAL-00181" summary="6.12 23 - update middleTest">
+      <created>1591975198862</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1591975198862</updated>
+    </task>
+    <option name="localTasksCounter" value="182" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -877,7 +881,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="5.18 16 - update 5.18 class" />
     <MESSAGE value="5.19 15 - update 5.19 class" />
     <MESSAGE value="5.19 16 - update 5.19 class" />
     <MESSAGE value="5.22 10 - update 5.22 class" />
@@ -902,7 +905,8 @@
     <MESSAGE value="6.8 15 - update 6.8 class" />
     <MESSAGE value="6.8 16 - update 6.8 class" />
     <MESSAGE value="6.11 00 - update middleTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.11 00 - update middleTest" />
+    <MESSAGE value="6.12 23 - update middleTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.12 23 - update middleTest" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -961,42 +965,42 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591808421007">
+    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591975196089">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591808421007" />
+    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591975196089" />
     <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="0" y="90" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584621334054" />
-    <state x="66" y="252" key="FileChooserDialogImpl" timestamp="1591927810283">
+    <state x="256" y="361" key="FileChooserDialogImpl" timestamp="1592017475090">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="66" y="252" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1591927810283" />
+    <state x="256" y="361" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1592017475090" />
     <state x="819" y="415" key="Github.ShareDialog" timestamp="1584340175443">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1591970071820">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1592115283067">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591970071820" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1591970071820">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592115283067" />
+    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1592115283067">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591970071820" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1591970071820">
+    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592115283067" />
+    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1592115283066">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591970071820" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1591970071820">
+    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592115283066" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1592115283067">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591970071820" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592115283067" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1030,14 +1034,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1161" y="270" width="540" height="524" key="StructurePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1584376792144" />
-    <state x="525" y="448" key="VCS.ChangelistChooser" timestamp="1591603049372">
+    <state x="525" y="448" key="VCS.ChangelistChooser" timestamp="1591975333819">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1591603049372" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591808427027">
+    <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1591975333819" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591975201506">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591808427027" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591975201506" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1590247620178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
