@@ -4,9 +4,15 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.12 23 - update middleTest">
-      <change afterPath="$PROJECT_DIR$/src/middleTest/Srlect20.java" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.14 19 - update middleTest">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_26_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ojdbc6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OracleJar/mysql-connector-java-5.1.26-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OracleJar/ojdbc6.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaFXProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaFXProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_01_SimpleJdbc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_01_SimpleJdbc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Unit32/java32_01_SimpleJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit32/java32_01_SimpleJdbc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +106,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/OracleJar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -131,14 +137,14 @@
       <recent name="java_Unit20" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Idea Project\javaFXProject\OracleJar" />
       <recent name="E:\Idea Project\javaFXProject\src" />
       <recent name="E:\Idea Project\javaFXProject\src\java_Book_Exercises14" />
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit32" />
       <recent name="E:\Idea Project\javaFXProject\src\java_Unit31" />
-      <recent name="E:\Idea Project\javaFXProject\src\java_Unit30" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Srlect20">
+  <component name="RunManager" selected="Application.java32_01_SimpleJdbc">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -242,13 +248,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java16_8_ComboBoxDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middleTest.java16_8_ComboBoxDemo" />
+    <configuration name="java32_01_SimpleJdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Unit32.java32_01_SimpleJdbc" />
       <module name="javaFXProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="middleTest.*" />
+          <option name="PATTERN" value="java_Unit32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,19 +295,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.java16_8_ComboBoxDemo (1)" />
       <item itemvalue="Application.Exercise16_20" />
       <item itemvalue="Application.java16_11_SliderDemo" />
       <item itemvalue="Application.java16_1_LabelWithGraphic" />
       <item itemvalue="Application.Srlect20" />
+      <item itemvalue="Application.java32_01_SimpleJdbc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java32_01_SimpleJdbc" />
         <item itemvalue="Application.Srlect20" />
         <item itemvalue="Application.Exercise16_20" />
         <item itemvalue="Application.java16_1_LabelWithGraphic" />
         <item itemvalue="Application.java16_11_SliderDemo" />
-        <item itemvalue="Application.java16_8_ComboBoxDemo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -527,14 +533,9 @@
       <workItem from="1591975802909" duration="12000" />
       <workItem from="1591979972682" duration="795000" />
       <workItem from="1592017277322" duration="193000" />
-      <workItem from="1592115136857" duration="760000" />
-    </task>
-    <task id="LOCAL-00133" summary="4.28 21 - update">
-      <created>1588081954545</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1588081954545</updated>
+      <workItem from="1592115136857" duration="847000" />
+      <workItem from="1592289502273" duration="2277000" />
+      <workItem from="1592293184257" duration="3593000" />
     </task>
     <task id="LOCAL-00134" summary="5.07 23 - update">
       <created>1588866991508</created>
@@ -872,7 +873,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591975198862</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="6.14 19 - update middleTest">
+      <created>1592134436085</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1592134436096</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -881,7 +889,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="5.19 15 - update 5.19 class" />
     <MESSAGE value="5.19 16 - update 5.19 class" />
     <MESSAGE value="5.22 10 - update 5.22 class" />
     <MESSAGE value="5.22 11 - update 5.22 class" />
@@ -906,7 +913,8 @@
     <MESSAGE value="6.8 16 - update 6.8 class" />
     <MESSAGE value="6.11 00 - update middleTest" />
     <MESSAGE value="6.12 23 - update middleTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.12 23 - update middleTest" />
+    <MESSAGE value="6.14 19 - update middleTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.14 19 - update middleTest" />
   </component>
   <component name="WindowStateProjectService">
     <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
@@ -965,14 +973,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2" timestamp="1591975196089">
+    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2" timestamp="1592134430404">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591975196089" />
-    <state x="0" y="90" key="DiffContextDialog" timestamp="1584621334054">
+    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1592134430404" />
+    <state x="0" y="90" width="1536" height="868" key="DiffContextDialog" timestamp="1592294701865">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="0" y="90" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584621334054" />
+    <state x="0" y="90" width="1536" height="868" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592294701865" />
     <state x="256" y="361" key="FileChooserDialogImpl" timestamp="1592017475090">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -981,26 +989,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584340175443" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1592115283067">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1592295223046">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592115283067" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1592115283067">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592295223046" />
+    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1592295223046">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592115283067" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1592115283066">
+    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592295223046" />
+    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1592295223046">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592115283066" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1592115283067">
+    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592295223046" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1592295223046">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586861781533" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592115283067" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592295223046" />
     <state width="1877" height="188" key="GridCell.Tab.1.bottom" timestamp="1586767498391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1038,10 +1046,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1591975333819" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1591975201506">
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1592134449124">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591975201506" />
+    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1592134449124" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1590247620178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
