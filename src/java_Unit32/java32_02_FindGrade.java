@@ -20,7 +20,7 @@ public class java32_02_FindGrade extends Application {
 
     @Override // Override the start method in the Application class
     public void start(Stage primaryStage) {
-        // Initialize database connection and create a Statement object
+        // 初始化数据库连接并创建一个 Statement 对象
         initializeDB();
 
         Button btShowGrade = new Button("Show Grade");
@@ -31,8 +31,10 @@ public class java32_02_FindGrade extends Application {
         VBox vBox = new VBox(10);
         vBox.getChildren().addAll(hBox, lblStatus);
 
+        // 设置列宽 6 列
         tfSSN.setPrefColumnCount(6);
         tfCourseId.setPrefColumnCount(6);
+        // 按钮添加监听  显示成绩，执行statement语句 SQL语句 resout
         btShowGrade.setOnAction(e -> showGrade());
 
         // Create a scene and place it in the stage
@@ -45,21 +47,22 @@ public class java32_02_FindGrade extends Application {
         primaryStage.show();
     }
 
+    /** 初始化DB */
     private void initializeDB() {
         try {
-            // Load the JDBC driver
+            // 加载JDBC驱动程序
             Class.forName("com.mysql.jdbc.Driver");
 //      Class.forName("oracle.jdbc.driver.OracleDriver");
             System.out.println("Driver loaded");
 
-            // Establish a connection
+            // 建立连接   本地服务器及数据库  用户名  密码
             Connection connection = DriverManager.getConnection
                     ("jdbc:mysql://localhost/javabook", "scott", "tiger");
 //    ("jdbc:oracle:thin:@liang.armstrong.edu:1521:orcl",
 //     "scott", "tiger");
             System.out.println("Database connected");
 
-            // Create a statement
+            // 建立一个 statement 对象
             stmt = connection.createStatement();
         } catch (Exception ex) {
             ex.printStackTrace();
@@ -70,15 +73,18 @@ public class java32_02_FindGrade extends Application {
         String ssn = tfSSN.getText();
         String courseId = tfCourseId.getText();
         try {
+            // 查询字段
             String queryString = "select firstName, mi, " +
                     "lastName, title, grade from Student, Enrollment, Course " +
                     "where Student.ssn = '" + ssn + "' and Enrollment.courseId "
                     + "= '" + courseId +
+                    // 主外键关联
                     "' and Enrollment.courseId = Course.courseId " +
                     " and Enrollment.ssn = Student.ssn";
 
             ResultSet rset = stmt.executeQuery(queryString);
 
+            // 先构建好查询串，再构建字符串
             if (rset.next()) {
                 String lastName = rset.getString(1);
                 String mi = rset.getString(2);
@@ -86,7 +92,7 @@ public class java32_02_FindGrade extends Application {
                 String title = rset.getString(4);
                 String grade = rset.getString(5);
 
-                // Display result in a label
+                // 在标签中显示结果
                 lblStatus.setText(firstName + " " + mi +
                         " " + lastName + "'s grade on course " + title + " is " +
                         grade);

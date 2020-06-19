@@ -47,6 +47,7 @@ public class java32_03_FindGradeUsingPreparedStatement extends Application {
 
     private void initializeDB() {
         try {
+            DriverManager.registerDriver(new com.mysql.jdbc.Driver());
             // Load the JDBC driver
             Class.forName("com.mysql.jdbc.Driver");
 //      Class.forName("oracle.jdbc.driver.OracleDriver");
@@ -59,6 +60,7 @@ public class java32_03_FindGradeUsingPreparedStatement extends Application {
 //     "scott", "tiger");
             System.out.println("Database connected");
 
+            // 第一个问号：列表中的第一项 SSN   第二个问号：Course ID
             String queryString = "select firstName, mi, " +
                     "lastName, title, grade from Student, Enrollment, Course " +
                     "where Student.ssn = ? and Enrollment.courseId = ? " +
