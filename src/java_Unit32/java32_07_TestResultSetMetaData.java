@@ -29,8 +29,10 @@ public class java32_07_TestResultSetMetaData {
 
         // Iterate through the result and print the student names
         while (resultSet.next()) {
-            for (int i = 1; i <= rsMetaData.getColumnCount(); i++)
+            // 返回 数据库字段记录
+            for (int i = 1; i <= rsMetaData.getColumnCount(); i++) {
                 System.out.printf("%-12s\t", resultSet.getObject(i));
+            }
             System.out.println();
         }
 

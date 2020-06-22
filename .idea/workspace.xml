@@ -4,11 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.19 14 - update 6.19 class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_01_SimpleJdbc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_01_SimpleJdbc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_02_FindGrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaFXProject/java_Unit32/java32_02_FindGrade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Unit32/java32_04_TestCallableStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit32/java32_04_TestCallableStatement.java" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="6.22 15 - update 6.22 class">
+      <change beforePath="$PROJECT_DIR$/src/java_Unit32/java32_07_TestResultSetMetaData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Unit32/java32_07_TestResultSetMetaData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -534,14 +531,7 @@
       <workItem from="1592293184257" duration="3707000" />
       <workItem from="1592532789100" duration="7496000" />
       <workItem from="1592747460207" duration="77000" />
-      <workItem from="1592801705720" duration="2233000" />
-    </task>
-    <task id="LOCAL-00136" summary="5.09 15 - update 5.09 class">
-      <created>1589008659498</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1589008659498</updated>
+      <workItem from="1592801705720" duration="2828000" />
     </task>
     <task id="LOCAL-00137" summary="5.09 16 - update 5.09 class">
       <created>1589014636783</created>
@@ -879,7 +869,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592549919927</updated>
     </task>
-    <option name="localTasksCounter" value="185" />
+    <task id="LOCAL-00185" summary="6.22 15 - update 6.22 class">
+      <created>1592809718029</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1592809718029</updated>
+    </task>
+    <option name="localTasksCounter" value="186" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -888,7 +885,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="5.22 11 - update 5.22 class" />
     <MESSAGE value="5.23 23 - update Unit 30" />
     <MESSAGE value="5.23 23 - update Unit 31" />
     <MESSAGE value="5.23 23 - update Unit 32" />
@@ -913,17 +909,10 @@
     <MESSAGE value="6.14 19 - update middleTest" />
     <MESSAGE value="6.17 00 - update 6.16 class" />
     <MESSAGE value="6.19 14 - update 6.19 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.19 14 - update 6.19 class" />
+    <MESSAGE value="6.22 15 - update 6.22 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.22 15 - update 6.22 class" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="914" y="186" key="#Auto_Import" timestamp="1584118274094">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="914" y="186" key="#Auto_Import/0.0.1920.1050@0.0.1920.1050" timestamp="1584118274094" />
-    <state x="914" y="186" key="#Live_Templates" timestamp="1584093700709">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="914" y="186" key="#Live_Templates/0.0.1920.1050@0.0.1920.1050" timestamp="1584093700709" />
     <state x="411" y="128" width="824" height="622" key="#Notifications" timestamp="1586622476895">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -972,10 +961,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584786616102" />
-    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2" timestamp="1592549915576">
+    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2" timestamp="1592809713710">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1592549915576" />
+    <state x="38" y="132" width="804" height="803" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1592809713710" />
     <state x="0" y="90" width="1536" height="868" key="DiffContextDialog" timestamp="1592294701865">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -1045,10 +1034,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="448" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1591975333819" />
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2" timestamp="1592549922615">
+    <state x="56" y="189" key="Vcs.Push.Dialog.v2" timestamp="1592809722709">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="104" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1592549922615" />
+    <state x="56" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1592809722709" />
     <state x="650" y="198" key="extract.method.dialog" timestamp="1590247620178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
