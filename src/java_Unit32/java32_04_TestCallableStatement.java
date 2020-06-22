@@ -17,6 +17,10 @@ public class java32_04_TestCallableStatement {
                 "scott", "tiger");
 
         // Create a callable statement
+        // 调用存储过程
+        // 三个问号：
+        // 第一个问号：INTEGER 类型对象返回值，需要注册
+        // 第二个和第三个问号：存储过程的参数，需要指定实参
         CallableStatement callableStatement = connection.prepareCall(
                 "{? = call studentFound(?, ?)}");
 
