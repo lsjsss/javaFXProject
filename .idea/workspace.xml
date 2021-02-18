@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="12.19">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sybg1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sybg1/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -568,14 +568,7 @@
       <workItem from="1608351642550" duration="209000" />
       <workItem from="1608448053325" duration="105000" />
       <workItem from="1608467713913" duration="67000" />
-      <workItem from="1613633409971" duration="913000" />
-    </task>
-    <task id="LOCAL-00143" summary="5.17 22 - update 5.15 class">
-      <created>1589727127347</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1589727127348</updated>
+      <workItem from="1613633409971" duration="1422000" />
     </task>
     <task id="LOCAL-00144" summary="5.18 15 - update 5.18 class">
       <created>1589786789151</created>
@@ -913,7 +906,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608351837842</updated>
     </task>
-    <option name="localTasksCounter" value="192" />
+    <task id="LOCAL-00192" summary="2021.02.18 push all">
+      <created>1613634374908</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1613634374909</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -934,7 +934,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="5.25 15 - update 5.25 class" />
     <MESSAGE value="5.25 16 - update 5.25 class" />
     <MESSAGE value="5.25 23 - update 5.25 javabook Exercise" />
     <MESSAGE value="5.26 00 - update javabook Exercise 15" />
@@ -959,17 +958,19 @@
     <MESSAGE value="7.8 16 - update sybg" />
     <MESSAGE value="8.1" />
     <MESSAGE value="12.19" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.19" />
+    <MESSAGE value="2021.02.18 push all" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.02.18 push all" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="169" key="SettingsEditor" timestamp="1613634331711">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1613634331711" />
-    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1608351842447">
-      <screen x="0" y="0" width="1600" height="870" />
+    <state x="470" y="202" key="Vcs.Push.Dialog.v2" timestamp="1613634377154">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1608351842447" />
+    <state x="470" y="202" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1613634377154" />
     <state x="174" y="7" key="new project wizard" timestamp="1608467782576">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
